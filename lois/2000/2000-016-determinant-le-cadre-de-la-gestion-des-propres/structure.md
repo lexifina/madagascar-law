@@ -1,0 +1,17 @@
+# Structure
+
+- CHAPITRE I — Des dispositions préliminaires (avant Article premier)
+- CHAPITRE III — De l'organisation des provinces autonomes (avant Article 14)
+- SECTION I — De l'administration de la province autonome (avant Article 14)
+- SECTION 2 — Des sessions du Conseil provincial (avant Article 27)
+- SECTION 3 — Des incompatibilités et du statut des élus (avant Article 29)
+- SECTION 1 — Du contrôle de constitutionnalité et de légalité (avant Article 35)
+- SECTION 2 — Du contrôle budgétaire (avant Article 41)
+- CHAPITRE V — des ressources financières et des charges des provinces autonomes et de leurs démembrements (avant Article 42)
+- SECTION 1 — Dispositions générales (avant Article 42)
+- SECTION 2 — Elaboration et exécution du budget provincial (avant Article 46)
+- CHAPITRE VII — De la protection légale de l'autonomie (avant Article 53)
+- CHAPITRE VIII — De certaines règles relatives à la loi statutaire (avant Article 55)
+- SECTION 1 — de la loi statutaire d'une province autonome (avant Article 56)
+- SECTION 2 — Des matières fixées par la loi statutaire (avant Article 63)
+- CHAPITRE IX — Dispositions diverses et transitoires (avant Article 64)
