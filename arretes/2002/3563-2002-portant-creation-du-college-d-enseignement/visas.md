@@ -1,0 +1,25 @@
+# Visas
+
+REPOBLIKAN'I MADAGASIKARA
+
+Tanindrazana-Fahafahana-Fandrosoana
+
+MINISTERE DE L'ENSEIGNEMENT SECONDAIRE ET DE L'EDUCATION DE BASE
+
+ARRETE N° 3563/2002-Min.ESEB
+
+Portant création du Collège d'Enseignement Général de SAHAMBAVY, Commune Rurale de Sahambavy, Sous- Préfecture de Fianarantsoa II, Province Autonome de FIANARANTSOA (à titre de Régularisation).
+
+LE MINISTRE DE L'ENSEIGNEMENT SECONDAIRE ET DE L'EDUCATION DE BASE,
+
+Vu la Constitution ;
+
+Vu la loi n°94-033 du 13 mars 1995 portant orientation générale du système d'Education et de Formation à Madagascar;
+
+Vu le décret n°2002-450 du 16 juin 2002 portant nomination du Premier Ministre, chef du Gouvernement;
+
+VU les décrets n°2002-451 du 16 juin 2002 modifié par le décret n°2002-659 du 12 juillet 2002 et n°2002-496 du 02 juillet 2002 portant nomination des membres du Gouvernement;
+
+Vu le décret n°2002-785 du 07 août 2002 modifiant le décret n) 2002-265 du 27 mai 2002 fixant les attributions et l'organisation du Ministère de l'Enseignement Secondaire et de l'Education de Base;
+
+A R R E T E :
