@@ -1,0 +1,7 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — CANDIDATURE (avant Article 3)
+- CHAPITRE III — EPREUVE DU CONCOURS (avant Article 4)
+- CHAPITRE IV — JURY AU CONCOURS (avant Article 6)
+- CHAPITRE V — DISPOSITIONS ADMINISTRATIVES (avant Article 7)
