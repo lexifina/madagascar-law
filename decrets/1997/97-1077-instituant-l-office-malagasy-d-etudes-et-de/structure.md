@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — OBJET - ORGANISATION - GESTION (avant Article premier)
+- TITRE II — DISPOSITIONS TRANSITOIRES (avant Article 6)
+- TITRE III — DISPOSITIONS DIVERSES (avant Article 8)
