@@ -1,0 +1,8 @@
+# Structure
+
+- CHAPITRE PREMIER — DEFINITION (avant Article premier)
+- CHAPITRE II — CREATION (avant Article 2)
+- CHAPITRE III — FONCTIONNEMENT (avant Article 4)
+- CHAPITRE IV — CAUTIONNEMENT ET INDEMNITES (avant Article 10)
+- CHAPITRE V — RESPONSABILITE (avant Article 16)
+- CHAPITRE VI — DISPOSITIONS FINALES (avant Article 19)
