@@ -1,0 +1,661 @@
+# Signatures
+
+Antananarivo, le 15 juillet 2004
+
+Le Vice Premier Ministre chargé des Programmes Economiques,
+
+Ministre des Transports, des Travaux Publics
+
+et de l'Aménagement du Territoire,
+
+RAMANDIMBIARISON Zaza Manitranja
+
+LOGEMENTS SOCIAUX DEVANT ETRE LIBERES PAR LES AGENTS DEFLATTES
+
+LOCALISATION ET N° LOGEMENT
+
+NOM ET PRENOMS
+
+N° MATRICULE
+
+CATEGORIE
+
+Rue AMPANJAKATOERA Logements à libérer: 10 sur 17 existants
+
+1
+
+RAKOTONDRANAIVO Honorat (Occ.RNCFM Résiduel)
+
+80003
+
+C
+
+2
+
+RAZAFINDRALAMBO Désiré
+
+88035
+
+C
+
+3
+
+RANDRIANARIVELO Jules César
+
+87021
+
+C
+
+4
+
+RAVAOARISOA Cécile
+
+83089
+
+C
+
+5
+
+RAKOTOMAVO Elisoa
+
+82134
+
+C
+
+6
+
+RANDRIATSILANY EDouard
+
+86003
+
+C
+
+11
+
+RAKOTONIAINA Richars
+
+80027
+
+C
+
+12
+
+RAMBOASALAMA Robert
+
+70034
+
+C
+
+30
+
+RAJADIARISON Jean- Jacques
+
+87048
+
+C
+
+31
+
+RANARISON Jean Armand
+
+85002
+
+C
+
+CITE GARE SOARANO Logements à libérer : 03 sur 08
+
+19
+
+RAKOTONDRAINIBE Jules Amédée
+
+81072
+
+C
+
+22
+
+ANDRIAMIHARIVOLAMENA Jacob
+
+85105
+
+C
+
+CITE RUE RAINIBETSIMISARAKA Logements à libérer: 05 sur 13 existants
+
+28
+
+RABARIJOELY Réné Bruno
+
+87007
+
+C
+
+46
+
+ANDRIAMBOAVONJY Daniel
+
+87022
+
+C
+
+51
+
+RATSIMANDRESY Jean Désiré
+
+87050
+
+C
+
+58 bis
+
+RAJOSOA Adolphe J.
+
+65078
+
+C
+
+EX- GARAGE RAINIBETSIMISARAKA Logements à libérer : 02 sur 03 existants
+
+Milieu n°02
+
+RAMANANKANDRASANA
+
+65379
+
+E
+
+STUDIO ANTANIMENA/ Gare Soarano Logements à libérer: 02 sur 04 existants
+
+9-10
+
+RAKOTOARIVONY Edmond
+
+13
+
+RAKOTOVAO Edmond
+
+CITE AMPEFILOHA Logement à libérer: 01 sur 02 existants
+
+557
+
+RAMANGALAHY Jean Marie
+
+IMMEUBLE CHAUVIN Logements à libérer: 01 sur 02 existants
+
+56
+
+RAZAFIARISOA Pauline
+
+CITE PERRIER:Logements à libérer:03 sur05 existants
+
+35
+
+RAZAFIMAHAROSON Jeanson
+
+36
+
+RARIVOHARISOA Vololoniaina Mino
+
+37
+
+RAMANANTSOA Sata Alice
+
+PRES BUILDING SOARANO: Logements à libérer: 02 sur03 existants
+
+23
+
+ANDRIANJAKA Benjamin
+
+23 bis
+
+RAVOKATRA Désiré
+
+BUILDING SOARANO:logements à libérer: 01 Studios sur 05 existants/05 Appartements sur 12 existants
+
+40G
+
+RATOANDROMALALANANDRIANINA Charline
+
+45G
+
+RABEMANANJARA Benoît Joseph Labre
+
+42C
+
+VELONTATA Julien
+
+40D
+
+RABOROKAY Jean Célin
+
+43D
+
+RAMAROSON Claude Eustashe Lala
+
+45D
+
+RABEFARITRA Noelison Désiré
+
+BUILDING ISOTRY: Logements à libérer: 15 sur 41 existants
+
+60D
+
+RAKOTOVAO Albert
+
+71D
+
+RANDRIAMIARIMBOLANA Joseph
+
+72D
+
+RAKOTOASIMBOLA Pierre
+
+73D
+
+RAHARIJAONA Jonë
+
+60C
+
+RAKOTONDRATSIMA Justin
+
+62C
+
+RAHARIVELO Gaspard Etienne
+
+63C
+
+RAZAFINDRAKOTO Justin
+
+60G
+
+RAKOTONDRAIBE Robert
+
+63G
+
+RANDRIAMANANORO
+
+65G
+
+RATSIMBAZAFY Raymond
+
+68G
+
+RAMAHANDRISOA Justin
+
+71G
+
+RATOVOARIVONY Hubert
+
+STADE ANTANIMENA: Logements à libérer:05 sur 08 existants
+
+1
+
+MAHAZOMANA Ezekiel
+
+2
+
+RASAMIMANANA Lquis
+
+5
+
+VORIVELO
+
+B8
+
+RABEMANANJARA Marc Jimi
+
+Ex- SMTR
+
+C7
+
+RESTITONGATRY
+
+Tâcheron
+
+CITE PASTEUR ANTOHOMADINIKA :Logements à libérer: 22 sur 60 existants
+
+29
+
+RAVAONIRINA Jeanette
+
+86062
+
+E
+
+37
+
+RAKOTONDRAIBE Josoa
+
+65377
+
+M
+
+38
+
+RAMANAMAHEFA David
+
+63104
+
+M
+
+39
+
+RAKOTOARIMANGA Jean W
+
+76052
+
+M
+
+41
+
+RANDRIANTSOA THomas
+
+84135
+
+42
+
+RAZAFINDRADOFA EDmond
+
+85332
+
+43
+
+RAZAFINDRATOVO Armand
+
+64295
+
+45
+
+RANDRIANASOLO Roger
+
+69258
+
+52
+
+RASOAMANANTENA Voahangialisoa
+
+85196
+
+54
+
+RAMAHANDRISOA Louis
+
+68486
+
+55
+
+RAKOTOARISON Florentin
+
+73069
+
+56
+
+RAOBISAONA Jacky
+
+71236
+
+57
+
+RANAIVOMIADANA Bruno
+
+83182
+
+61
+
+RABEMANANJARA Jean Joseph
+
+70371
+
+63
+
+RAHARISON Eugène
+
+68380
+
+65
+
+RAZAFINARIVO Michel
+
+72103
+
+68
+
+RANDRIAMIHAJA Jean Narcisse
+
+82287
+
+69
+
+RAKOTOZAFY JUles
+
+66248
+
+70
+
+SOLO HARISSON M M R
+
+73021
+
+80
+
+RANDRIANARIVONY
+
+76021
+
+82
+
+RAKOTOARISON Martin
+
+84074
+
+86
+
+RANDRIAMBOLOLONA François Honoré
+
+69510
+
+BARAQUEMENT CITE PASTEUR
+
+B2
+
+VONTANAE
+
+86074
+
+B3
+
+RAKOTOARIMANANA Martin
+
+73035
+
+B4
+
+RANAIVOSON Albert
+
+82162
+
+B5
+
+RAKOTOAMIARANA
+
+82487
+
+B7
+
+TSIMIOVA
+
+82450
+
+CITE DES CANTONNIERS
+
+3
+
+ANDRIAN'HARIVONY R.J William
+
+75058
+
+11
+
+RAZANADRASOA Clothilde
+
+83164
+
+14
+
+RAKOTOSOA Stanislas
+
+82514
+
+16
+
+RAMIANDRISOA Marcel
+
+72185
+
+17
+
+RAZAFINDRAKOTO
+
+84 257
+
+22
+
+RAKOTOARIMANANA André
+
+82013
+
+23
+
+RAMAROMANANA Philibert
+
+82405
+
+27
+
+RAKOTOSON Pierre
+
+75109
+
+E
+
+RANDRIANARIZAFY Jean Pascal
+
+82015
+
+B1
+
+RAKOTOMANANA Denis
+
+75137
+
+B6
+
+RAKOTONINDRINA Joseph
+
+65191
+
+Sn°
+
+RAMISIARISOA Ursule
+
+81070
+
+CITE DES 67ha
+
+168
+
+Monjalambo RANDRANKANAVOTRA
+
+84065
+
+171
+
+RAJOELISOA Milijaona
+
+69050
+
+172
+
+RASOAMANARIVO Léa
+
+89025
+
+231
+
+RATSIMANDRESIARISON Alphonse
+
+65180
+
+233
+
+RAZAFIMAHEFA Noëlson
+
+75003
+
+247
+
+RAZAFINDRABE Justin
+
+82295
+
+260
+
+RAZAFIMANDIMBY Philibert
+
+87041
+
+262
+
+RAHARIMALALANIRINA Aurélie
+
+85337
+
+234
+
+RAKOTONIRINA Jean- Joseph IIdevert
+
+86001
+
+1008
+
+ZAFITSIALEFITRA Lin Charles
+
+88021
+
+BATIMENT FARAVOHITRA
+
+1er étage
+
+RAKOTONIRINA Pulchérie
+
+89177
+
+GARE ALAROBIA
+
+1
+
+RAMBELOARISON Jean Télesphore
+
+65099
+
+GARE SOANIERANA
+
+RAVELOJAONA Franck
+
+77046
+
+GARDE BRRIERE ANOSIBE
+
+RAKOTOMAMONJY Désiré
+
+78059
+
+IVANJA PK 7 000TCE logts à libérer: 04 sur05 existants
+
+2A
+
+RANAIVOSATA Joseph
+
+85122
+
+LISTE LOGEMENTS OCCUPES
