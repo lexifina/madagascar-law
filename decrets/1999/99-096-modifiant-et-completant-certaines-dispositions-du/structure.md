@@ -1,0 +1,3 @@
+# Structure
+
+- CHAPITRE II — OBLIGATIONS RELATIVES AU TITULAIRE (avant Article 7)
