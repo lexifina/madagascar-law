@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE III — FORMATIONS SPECIALISES (avant Article 22)
+- TITRE IV — DISPOSITIONS DIVERSES (avant Article 26)
