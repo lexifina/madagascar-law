@@ -1,0 +1,16 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- SECTION PREMIERE — Dépôt de dossiers de candidature (avant Article 4)
+- SECTION II — Autorisation de faire campagne. (avant Article 6)
+- SECTION III — Emplacement d’affichage électoral (avant Article 9)
+- SECTION IV — Affiches, tracts et circulaires électoraux (avant Article 10)
+- CHAPITRE IV — BULLETINS DE VOTE ET ENVELOPPES ELOCTORALES (avant Article 15)
+- SECTION PREMIERE — Bulletins de vote (avant Article 15)
+- SECTION II — Enveloppes électorales (avant Article 20)
+- CHAPITRE V — PORT DE BADGE (avant Article 21)
+- CHAPITRE VI — ORGANISATION DU SCRUTIN (avant Article 23)
+- SECTION PREMIERE — Liste et emplacements des bureaux de vote (avant Article 23)
+- SECTION II — Membres des bureaux de vote (avant Article 24)
+- SECTION III — Listes électorales et cartes d’électeur (avant Article 25)
+- CHAPITRE VII — DISPOSITIONS FINALES (avant Article 30)
