@@ -1,0 +1,17 @@
+# Structure
+
+- TITRE PREMIER — DE LA PROCEDURE D'ATTRIBUTION DES AUTORISATIONS ET DES CONCESSIONS (avant Article 3)
+- CHAPITRE PREMIER — De l'Autorisation (avant Article 3)
+- CHAPITRE II — De la Concession (avant Article 22)
+- SECTION PREMIERE — Des procédures (avant Article 23)
+- SECTION II — De l'Attribution (avant Article 28)
+- CHAPITRE III — De l'Autoproduction (avant Article 30)
+- SECTION PREMIERE — Des Déclarations (avant Article 30)
+- SECTION II — Des Autorisations (avant Article 31)
+- CHAPITRE PREMIER — De l'occupation des terrains (avant Article 37)
+- CHAPITRE II — Du transfert, de la cession et nantissement de droits De la renonciation, de la résiliation de la Concession ou de l'Autorisation (avant Article 46)
+- SECTION PREMIERE — Du transfert, de la cession et nantissement de droits (avant Article 46)
+- SECTION II — De la renonciation à la Concession ou à l'Autorisation (avant Article 50)
+- SECTION III — De la résiliation de la Concession ou d'Autorisation (avant Article 51)
+- TITRE III — DU CONTROLE ET DE LA SURVEILLANCE ADMINISTRATIVE (avant Article 72)
+- TITRE IV — DES DISPOSITIONS FINALES (avant Article 76)
