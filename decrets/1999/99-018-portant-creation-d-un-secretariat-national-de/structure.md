@@ -1,0 +1,6 @@
+# Structure
+
+- TITRE I — CREATION (avant Article premier)
+- TITRE II — MISSION ET COMPETENCE (avant Article 4)
+- TITRE III — ATTRIBUTIONS ET FONCTIONNEMENT (avant Article 6)
+- TITRE IV — DISPOSITIONS DIVERSES ET TRANSITOIRES (avant Article 13)
