@@ -1,0 +1,16 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DE L'ORGANISATION ADMINISTRATIVE DU CENTRE (avant Article 5)
+- CHAPITRE PREMIER — DU CONSEIL D'ADMINISTRATION (avant Article 6)
+- SECTION PREMIERE — Désignation et Nomination des Membres (avant Article 6)
+- SECTION II — Formalités et Périodicités des réunions (avant Article 8)
+- SECTION III — Les pouvoirs du Conseil d'Administration (avant Article 15)
+- CHAPITRE II — DE LA DIRECTION (avant Article 18)
+- TITRE III — de l'ORGANISATION FINANCIERE ET COMPTABLE (avant Article 26)
+- CHAPITRE PREMIER — PRINCIPES GENERAUX (avant Article 26)
+- CHAPITRE II — L'ETAT PREVISIONNEL DES RECETTES ET DES DEPENSES (avant Article 29)
+- CHAPITRE III — LE CONTROLE (avant Article 40)
+- TITRE IV — DE L'ORGANISATION PEDAGOGIQUE (avant Article 43)
+- TITRE V — DE LMA DISSOLUTION - LIQUIDATION (avant Article 45)
+- TITRE VI — DISPOSITIONS DIVERSES (avant Article 50)
