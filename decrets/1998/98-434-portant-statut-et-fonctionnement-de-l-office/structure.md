@@ -1,0 +1,9 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE III — DES ORGANES (avant Article 5)
+- CHAPITRE PREMIER — DU CONSEIL D'ADMINISTRATION (avant Article 6)
+- CHAPITRE II — DE LA DIRECTION (avant Article 11)
+- TITRE IV — DE LA GESTION FINANCIERE (avant Article 14)
+- TITRE V — DE L'ADMINISTRATION DES DROITS (avant Article 27)
+- TITRE VI — DE LA DISSOLUION (avant Article 29)
