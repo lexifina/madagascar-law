@@ -1,0 +1,819 @@
+# Signatures
+
+Fait à Antananarivo, le 16 janvier 2003
+
+Par Le Premier Ministre, Chef du Gouvernement,
+
+Jacques SYLLA
+
+Le Ministre de l'Economie, des Finances et du Budget, par intérim,
+
+RAZAFINJATOVO Haja Nirina
+
+BUDGET D'INVESTISSEMENT 2003
+
+DECRET D'AVANCE -BUDGET GENERAL
+
+(en milliers de FMG)
+
+23-sept-03
+
+PAR SOURCE DE FINANCMENT
+
+Financement : bailleur/ Agence
+
+6 00-05-0-021-2 05-PRIMATURE
+
+Autorisation de Programme
+
+Crédit de paiement
+
+Appui au Processus du plan d'Action pour le développement rural (PADR)
+
+4-107-001-A FCV: UE/ETAT
+
+20 Immobilisations incorporelles
+
+201 Frais de recherches et d'études
+
+2011 Formation
+
+20110 Formation
+
+2017 Frais de pré- exploitation
+
+20171 Frais de Personnel
+
+20172 Eau, électricité, téléphone et loyers
+
+20173 Fournitures et services
+
+20174 Transports et Missions
+
+20175 Entretien et Réparation
+
+21 Immobilisations corporelles
+
+213 Construction ou réhabilitation : bâtiments
+
+2134 Autres bâtiments techniques
+
+21340 Autres bâtiments techniques
+
+216 Achat de matériels et outillages
+
+2161 Matériels techniques
+
+21610 Matériels techniques
+
+2163 Matériels Informatiques
+
+21630 Matériels informatiques
+
+2164 Matériel et mobilier de bureau
+
+21640 Matériel et Mobilier de bureau
+
+TOTAL PROJET "6 00-05-0-021 2"
+
+3 782 600
+
+2 962 600
+
+2 962 600
+
+200 000
+
+200 000
+
+2 762 600
+
+702 600
+
+127 000
+
+442 000
+
+1 480 000
+
+11 000
+
+820 000
+
+400 000
+
+400 000
+
+400 000
+
+420 000
+
+300 000
+
+300 000
+
+15 000
+
+15 000
+
+105 000
+
+105 000
+
+3 782 600
+
+3 782 600
+
+2 962 600
+
+2 962 600
+
+200 000
+
+200 000
+
+2 762 600
+
+702 600
+
+127 000
+
+442 000
+
+1 480 000
+
+11 000
+
+820 000
+
+400 000
+
+400 000
+
+400 000
+
+420 000
+
+300 000
+
+300 000
+
+15 000
+
+15 000
+
+105 000
+
+105 000
+
+3 782 600
+
+TOTAL TUTELLE "05"
+
+MINISTERE DE L'AGRICULTURE ET DE L'ELEVAGE
+
+6 00-41-0-038 1 AJUSTEMENT SECTORIEL DEVELOMMEPENT RURAL
+
+1-001-001-A RPI: ETAT/ ETAT
+
+20 Immobilisations incorporelles
+
+201 Frais de recherches et d'études
+
+2015 Etudes et recherches
+
+2017 Frais de pré- exploitation
+
+20173 Fournitures et services
+
+20174 Transports et Missions
+
+21 Immobilisations corporelles
+
+216 Achats de matériels et outillages
+
+2161 Matériels techniques
+
+21610 Matériels techniques
+
+2163 Matériels informatiques
+
+21630 Matériels informatiques
+
+TOTAL PROJET "6 00- 41- 0- 038 1"
+
+3 782 600
+
+480 000
+
+420 000
+
+420 000
+
+125 000
+
+125 000
+
+295 000
+
+20 000
+
+275 000
+
+60 000
+
+60 000
+
+40 000
+
+40 000
+
+20 000
+
+20 000
+
+480 000
+
+3 782 600
+
+480 000
+
+420 000
+
+420 000
+
+125 000
+
+125 000
+
+295 000
+
+20 000
+
+275 000
+
+60 000
+
+60 000
+
+40 000
+
+40 000
+
+20 000
+
+20 000
+
+480 000
+
+6 00-41-0-040 1 EQUIPEMENT DE LA DIRECTION GENERALE DE DEVELOPPEMENT DES REGIONS ET DES DIRECTIONS
+
+1-001-001-A RPI :ETAT/ ETAT
+
+21 Immobilisations corporelles
+
+213 Construction ou réhabilitation : bâtiments
+
+2134 Autres bâtiments techniques
+
+21340 Autres bâtiments techniques
+
+4 393 122
+
+4 393 122
+
+961 346
+
+961 346
+
+961 346
+
+4 393 122
+
+4 393 122
+
+961 346
+
+961 346
+
+961 346
+
+BUDGET D'INVESTISSEMENT
+
+DECRET D'AVANCE - BUDGET GENERAL
+
+(en milliers de FMG)
+
+23-sep-03 PAR SOURCE DE FINANCMENT
+
+Financement : Bailleur/ agence
+
+AUTORISATION DE PROGRAMME
+
+CREDIT DE PAIEMENT
+
+216 ACHAT DE MATERIELS ET OUTILLAGES
+
+2161 MATERIELS TECHNIQUES
+
+21610 Matériels techniques
+
+2163 MATERIELS INFORMATIQUES
+
+21630 Matériels Informatiques
+
+2164 MATERIEL ET MOBILIER DE BUREAU
+
+21640 Matériel et mobilier de bureau
+
+217 MATERIEL DE TRANSPORT
+
+2172 Matériel automobile
+
+21720 Matériel Automobile
+
+TOTAL PROJET "6 00-410-0-040 1"
+
+601 900
+
+196 650
+
+196 650
+
+155 250
+
+155 250
+
+250 000
+
+250 000
+
+2 829 876
+
+2 829 876
+
+2 829 876
+
+4 393 122
+
+601 900
+
+196 650
+
+196 650
+
+155 250
+
+155 250
+
+250 000
+
+250 000
+
+2 829 876
+
+2 829 876
+
+2 829 876
+
+4 393 122
+
+6 00-41-0-023 3 CREDITS D'URGENCE DEGATS CYCLONIQUES
+
+1-001-001-A RPI: ETAT/ ETAT
+
+20 IMMOBILISATIONS INCORPORELLES
+
+201 FRAIS DE RECHERCHES ET D'ETUDES
+
+2015 ETUDES ET RECHERCHES
+
+20150 Etudes et recherches
+
+2017 FRAIS DE PRE-EXPLOITATION
+
+20173 Fournitures et services
+
+20174 Transports et Mission
+
+20175 Entretien et réparation
+
+21 IMMOBILISATIONS CORPORELLES
+
+212 AMENAGEMENT
+
+2124 TRAVAUX D'IRRIGATION
+
+21240 Travaux d'irrigation
+
+TOTAL PROJET "6 00-41-0-023 3"
+
+3 364 278
+
+200 000
+
+200 000
+
+100 000
+
+100 000
+
+100 000
+
+20 000
+
+30 000
+
+50 000
+
+3 164 278
+
+3 164 278
+
+3 164 278
+
+3 164 278
+
+3 364 278
+
+3 364 278
+
+200 000
+
+200 000
+
+100 000
+
+100 000
+
+100 000
+
+20 000
+
+30 000
+
+50 000
+
+3 164 278
+
+3 164 278
+
+3 164 278
+
+3 164 278
+
+3 364 278
+
+6 00-41-0-024 3 PASA (UE)- PERIMETRES IRRIGUES
+
+4-107-001-E FCV: UE/ ETAT
+
+20 IMMOBILISATIONS INCORPORELLES
+
+201 FRAIS DE RECHERCHES ET D'ETUDES
+
+2012 ANIMATION ET ENCADREMENT
+
+20120 Animation et Encadrement
+
+2015 ETUDES ET RECHERCHES
+
+20150 Etudes et Recherches
+
+20156 Suivi/ Contrôles/ Evaluation
+
+21 IMMOBILISATIONS CORPORELLES
+
+212 AMENAGEMENT
+
+2124 TRAVAUX D'IRRIGATION
+
+21240 Travaux d'Irrigation
+
+TOTAL PROJET "6 00-41-0-024 3"
+
+3 856 651
+
+1 126 000
+
+1 126 000
+
+586 000
+
+586 000
+
+540 000
+
+415 000
+
+125 000
+
+2 730 651
+
+2 730 651
+
+2 730 651
+
+2 730 651
+
+3 856 651
+
+3 856 651
+
+1 126 000
+
+1 126 000
+
+586 000
+
+586 000
+
+540 000
+
+415 000
+
+125 000
+
+2 730 651
+
+2 730 651
+
+2 730 651
+
+2 730 651
+
+3 856 651
+
+6 00-41-0-025 4 APPUI A LA DIRECTION DES SERVICES VETERINAIRES
+
+4-107-001-B FCV: UE/ ETAT
+
+20 IMMOBILISATIONS INCORPORELLES
+
+201 FRAIS DE RECHERCHES ET D'ETUDES
+
+2011 FORMATION
+
+20110 Formation
+
+2012 ANIMATION ET ENCADREMENT
+
+20120 Animation et Encadrement
+
+2014 LOGICIELS INFORMATIQUES
+
+20140 Logiciels Informatiques
+
+2 710 000
+
+1 557 630
+
+1 557 630
+
+150 500
+
+150 500
+
+129 000
+
+129 000
+
+10 000
+
+10 000
+
+2 710 000
+
+1 557 630
+
+1 557 630
+
+150 500
+
+150 500
+
+129 000
+
+129 000
+
+10 000
+
+10 000
+
+BUDGET D'INVESTISSEMENT 2003
+
+DECRET D'AVANCE -BUDGET GENERAL
+
+(En milliers de FMG)
+
+23-sep-03 PAR SOURCE DE FINANCEMENT
+
+Financement : Bailleur/ Agence
+
+AUTORISATION DE PROGRAMME
+
+CREDIT DE PAIEMENT
+
+2015 ETUDES ET RECHERCHES
+
+20150 Etudes et Recherches
+
+2017 FRAIS DE PRE-EXPLOITATION
+
+20171 Frais de Personnel
+
+20172 Eau, Electricité, Téléphone et loyers
+
+20173 Fournitures et services
+
+20174 Transports et Missions
+
+21 IMMOBILISATIONS CORPORELLES
+
+213 CONSTRUCTION OU REHABILITATION BATIMENTS
+
+2131 BATIMENTS ADMINISTRATIFS
+
+21310 Bâtiments Administratifs
+
+2134 AUTRES BATIMENTS TECHNIQUES
+
+21340 Autres Bâtiments techniques
+
+215 CONSTRUCTION OU REHABILITATION RESEAUX
+
+2154 RESEAU DE COMMUNICATION
+
+21540 Réseau de COMMUNICATION
+
+2155 RESEAU D'ELECTRICITE
+
+21550 Réseau d'Electricité
+
+216 ACHAT DE MATERIELS ET OUTILLAGES
+
+2161 MATERIELS TECHNIQUES
+
+21610 Matériels techniques
+
+2163 MATERIELS INFORMATIQUES
+
+21630 Matériels Informatiques
+
+2164 MATERIEL ET MOBILIER DE BUREAU
+
+21640 Matériel et Mobilier de Bureau
+
+217 MATERIEL DE TRANSPORT
+
+2172 MATERIEL AUTOMOBILE
+
+21720 Matériel Automobile
+
+218 INSTALLATIONS COMPLEXES SPECIALISEES
+
+2180 INSTALLATIONS COMPLEXES SPECIALISEES
+
+21800 Installations Complexes Spécialisées
+
+TOTAL PROJET "6 00-41-0-025 4
+
+200 000
+
+200 000
+
+1 068 130
+
+4 200
+
+36 000
+
+780 830
+
+247 100
+
+1 152 370
+
+20 500
+
+10 000
+
+10 000
+
+10 500
+
+10 500
+
+43 600
+
+43 200
+
+43 200
+
+400
+
+400
+
+477 990
+
+457 860
+
+457 860
+
+10 000
+
+10 000
+
+10 130
+
+10 130
+
+608 000
+
+608 000
+
+608 000
+
+2 280
+
+2 280
+
+2 280
+
+2 710 000
+
+200 000
+
+200 000
+
+1 068 130
+
+4 200
+
+36 000
+
+780 830
+
+247 100
+
+1 152 370
+
+20 500
+
+10 000
+
+10 000
+
+10 500
+
+10 500
+
+43 600
+
+43 200
+
+43 200
+
+400
+
+400
+
+477 990
+
+457 860
+
+457 860
+
+10 000
+
+10 000
+
+10 130
+
+10 130
+
+608 000
+
+608 000
+
+608 000
+
+2 280
+
+2 280
+
+2 280
+
+2 710 000
+
+TOTAL TUTELLE "41"
+
+14 804 051
+
+14 804 051
+
+TOTAL GENERAL
+
+18 586 651
+
+18 586 651
