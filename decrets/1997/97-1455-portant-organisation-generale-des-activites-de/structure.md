@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DEFINITIONS (avant Article 5)
+- TITRE III — REGIME DES AUTORISATIONS DE COLLECTE (avant Article 10)
