@@ -1,0 +1,16 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE III — REVISION DES LISTES ELECTORALES (avant Article 4)
+- CHAPITRE IV — DOSSIERS DE CANDIDATURE (avant Article 5)
+- CHAPITRE V — CONDITIONS DE LA CAMPAGNE ELECTORALE (avant Article 6)
+- SECTION PREMIERE — autorisation de faire campagne (avant Article 6)
+- SECTION II — emplacement d'affichage électoral (avant Article 11)
+- SECTION III — affiches, tracts et circulaires électoraux (avant Article 13)
+- CHAPITRE VI — BULLETINS DE VOTE ET ENVELOPPE ELECTORALE (avant Article 17)
+- SECTION PREMIERE — bulletins de vote (avant Article 17)
+- SECTION II — enveloppe électorale (avant Article 27)
+- CHAPITRE VII — OPERATIONS ELECTORALES (avant Article 29)
+- SECTION PREMIERE — bureaux de vote et membres des bureaux de vote (avant Article 29)
+- SECTION II — port de badge (avant Article 32)
+- SECTION III — scrutin (avant Article 36)
