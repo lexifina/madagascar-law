@@ -1,0 +1,15 @@
+# Structure
+
+- CHAPITRE PREMIER — Dispositions générales (avant Article premier)
+- CHAPITRE II — Des Structures et Missions (avant Article 6)
+- CHAPITRE III — Des Organes (avant Article 10)
+- SECTION PREMIERE — Du Conseil d'Administration de l'Université (avant Article 10)
+- SECTION II — Du Recteur (avant Article 20)
+- SECTION III — Du Chef d'Etablissement (avant Article 25)
+- SECTION IV — Du Chef de Département (avant Article 30)
+- SECTION V — Du Conseil Scientifique d'Université (avant Article 33)
+- SECTION VI — Du Conseil Scientifique d'Etablissement (avant Article 37)
+- SECTION VII — Du Collège des Enseignants de I'Etablissement (avant Article 42)
+- CHAPITRE IV — Du Fonctionnement Pédagogique et Scientifique (avant Article 46)
+- CHAPITRE V — De l'Organisation Financière et Comptable (avant Article 51)
+- CHAPITRE VI — Dispositions diverses et transitoires (avant Article 60)
