@@ -1,0 +1,16 @@
+# Structure
+
+- TITRE PREMIER — DE LA FABRICATION (avant Article 7)
+- CHAPITRE PREMIER — L'importation (avant Article 12)
+- TITRE III — DE LA SORTIE (avant Article 19)
+- CHAPITRE PREMIER — L'exportation (avant Article 22)
+- CHAPITRE II — Le départ (avant Article 24)
+- TITRE IV — DU COMMERCE INTERIEUR (avant Article 27)
+- CHAPITRE PREMIER — Vente par des fabricants, des importateurs, des commerçants (avant Article 28)
+- TITRE V — DE LA MISE EN SERVICE ET DE LA DETENTION (avant Article 34)
+- CHAPITRE PREMIER — Acquisition et détention par des personnes (avant Article 35)
+- TITRE VI — DE LA CIRCULATION (avant Article 56)
+- CHAPITRE PREMIER — Port des armes (avant Article 58)
+- TITRE VII — DU RETRAIT _______ Retrait de I'autorisation de dotation d'arme (avant Article 66)
+- TITRE VIII — DISPOSITIONS PENALES (avant Article 90)
+- TITRE IX — DISPOSITIONS DIVERSES ET TRANSITOIRES (avant Article 107)
