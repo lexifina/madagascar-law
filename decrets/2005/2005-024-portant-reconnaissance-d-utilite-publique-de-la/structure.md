@@ -1,0 +1,6 @@
+# Structure
+
+- TITRE III — RESSOURCES ET CAPITAL (avant Article 12)
+- TITRE IV — COMPTABILITE ET CONTROLE (avant Article 14)
+- TITRE V — FUSION ET DISSOLUTION (avant Article 16)
+- TITRE VI — DISPOSITIONS DIVERSES (avant Article 18)
