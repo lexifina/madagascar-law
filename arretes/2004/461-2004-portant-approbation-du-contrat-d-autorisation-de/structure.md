@@ -1,0 +1,8 @@
+# Structure
+
+- TITRE II — DROITS ET OBLIGATIONS DU PERMISSIONNAIRE (avant Article 10)
+- CHAPITRE I — Droits du Permissionnaire (avant Article 10)
+- CHAPITRE II — Obligations du Permissionnaire (avant Article 16)
+- TITRE IV — CONDITIONS TARIFAIRES (avant Article 30)
+- TITRE V — SANCTIONS (avant Article 31)
+- TITRE VII — REGLEMENT DES LITIGES (avant Article 39)
