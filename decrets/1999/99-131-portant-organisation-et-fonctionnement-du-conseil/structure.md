@@ -1,0 +1,13 @@
+# Structure
+
+- TITRE I — GENERALITES (avant Article premier)
+- TITRE II — MISSIONS (avant Article 3)
+- TITRE III — ORGANISATION (avant Article 4)
+- CHAPITRE 1 — DES ORGANES (avant Article 4)
+- CHAPITRE 2 — DE L'ASSEMBLEE GENERALE (avant Article 5)
+- CHAPITRE 3 — DU CONSEIL CENTRAL (avant Article 6)
+- CHAPITRE 4 — DES CONSEILS PROVINCIAUX DE PROTECTION SOCIALE (avant Article 9)
+- CHAPITRE 5 — DU SECRETARIAT (avant Article 11)
+- TITRE IV — FONCTIONNEMENT (avant Article 12)
+- TITRE V — DISPOSITIONS TRANSITOIRES (avant Article 15)
+- TITRE VI — DISPOSITIONS DIVERSES (avant Article 16)
