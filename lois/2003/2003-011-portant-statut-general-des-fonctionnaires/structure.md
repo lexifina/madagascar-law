@@ -1,0 +1,18 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DROITS ET OBLIGATIONS DES FONCTIONNAIRES (avant Article 5)
+- CHAPITRE PREMIER — Droits des fonctionnaires (avant Article 5)
+- CHAPITRE II — Obligations des fonctionnaires (avant Article 13)
+- TITRE III — RECRUTEMENT (avant Article 16)
+- TITRE IV — STAGE ET TITULARISATION (avant Article 22)
+- TITRE V — FORMATION PROFESSIONNELLE. (avant Article 24)
+- TITRE VI — REMUNERATION -AVANTAGES SOCIAUX (avant Article 27)
+- TITRE VII — ORGANES CONSULTATIFS-AVANCEMENT-RECOMPENSE-DISCIPLINE (avant Article 39)
+- CHAPITRE PREMIER — Organes consultatifs (avant Article 39)
+- CHAPITRE II — Avancement (avant Article 42)
+- CHAPITRE III — Récompense et Discipline (avant Article 51)
+- TITRE VIII — POSITIONS REGLEMENTAIRES (avant Article 61)
+- TITRE IX — CESSATION DEFINITIVE DE FONCTIONS (avant Article 72)
+- TITRE X — DISPOSITIONS TRANSITOIRES (avant Article 76)
+- TITRE XI — DISPOSITIONS DIVERSES (avant Article 78)
