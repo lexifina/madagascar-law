@@ -1,0 +1,27 @@
+# Signatures
+
+Antananarivo, le 23 octobre 2002
+
+Par Le Président de la République,
+
+Marc RAVALOMANANA
+
+Le Premier Ministre, Chef du Gouvernement,
+
+Jacques SYLLA
+
+Le Ministre de l'Economie des Finances et du Budget,
+
+Benjamin ANDRIAMPARANY RADAVIDSON
+
+Le Ministre de la Communication,
+
+Mamy RAKOTOARIVELO
+
+Le Garde des Sceaux, Ministre de la Justice,
+
+Alice RAJAONAH
+
+Le Ministre de l'Intérieur et de la Réforme Administrative,
+
+Jean Seth RAMBELOALIJAONA
