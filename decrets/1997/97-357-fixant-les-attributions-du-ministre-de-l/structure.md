@@ -1,0 +1,6 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DOMAINES D'INTERVENTION (avant Article 4)
+- TITRE III — ORGANISATION GENERALE (avant Article 9)
+- TITRE IV — DISPOSITIONS DIVERSES (avant Article 13)
