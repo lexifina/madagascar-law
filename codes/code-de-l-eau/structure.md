@@ -1,0 +1,18 @@
+# Structure
+
+- TITRE PREMIER — DU DOMAINE PUBLIC DE L'EAU (avant Article 2)
+- SECTION PREMIERE — Dispositions Générales et Champ D'application (avant Article 3)
+- SECTION II — Des eaux de surface et des eaux souterraines (avant Article 6)
+- TITRE II — DE LA GESTION DES RESSOURCES EN EAUX (avant Article 9)
+- CHAPITRE II — DE LA CONSERVATION DES RESSOURCES EN EAUX (avant Article 23)
+- CHAPITRE III — DE LA MISE EN VALEUR DES RESSOURCES EN EAUX (avant Article 28)
+- SECTION PREMIERE — De l'Eau d'Irrigation (avant Article 29)
+- SECTION II — De l'Eau Industrielle (avant Article 32)
+- SECTION III — De l'utilisation Hydroélectrique de l'eau (avant Article 34)
+- SECTION PREMIERE — De la Surveillance de la Qualité de l'eau (avant Article 58)
+- SECTION II — De la Police des Eaux (avant Article 61)
+- SECTION III — Des Contestations et des Conflits d'usages (avant Article 63)
+- SECTION IV — Des dispositions Pénales et Sanctions (avant Article 66)
+- TITRE VI — DISPOSITIONS TRANSITOIRES ET FINALES (avant Article 79)
+- SECTION PREMIERE — Dispositions Transitoires (avant Article 79)
+- SECTION II — Dispositions Finales (avant Article 82)
