@@ -1,0 +1,9 @@
+# Structure
+
+- TITRE PREMIER — DES GENERALITES (avant Article premier)
+- TITRE II (avant Article 2)
+- CHAPITRE PREMIER — DE LA MAITRISE D'OUVRAGE (avant Article 2)
+- CHAPITRE II — DE LA MAITRISE D'OUVRAGE DELEGUEE (avant Article 7)
+- CHAPITRE III — DE LA CONDUITE D'OPERATION (avant Article 16)
+- TITRE III — DE LA MAITRISE D'%u0152UVRE (avant Article 19)
+- TITRE IV — DES DISPOSITIONS DIVERSES (avant Article 21)
