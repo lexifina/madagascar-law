@@ -1,0 +1,3 @@
+# Article 128
+
+La circulation des personnes, des biens, des services et des capitaux est libre entre toutes les provinces autonomes et à l’intérieur de chaque province.

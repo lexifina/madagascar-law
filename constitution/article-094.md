@@ -1,0 +1,7 @@
+# Article 94
+
+L’Assemblée nationale peut mettre en cause la responsabilité du Gouvernement par le vote d’une motion de censure.
+Une telle motion n’est recevable que si elle est signée par la moitié des membres composant l’Assemblée nationale.
+Le vote ne peut avoir lieu que quarante huit heures après le dépôt de la motion.
+La motion n’est adoptée que si elle est votée par les deux tiers des membres composant l’Assemblée nationale.
+Si la motion est adoptée, le Gouvernement remet sa démission au Président de la République; il sera procédé à la nomination d’un Premier Ministre dans les conditions prévues à l’article 53 ci-dessus.

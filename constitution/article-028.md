@@ -1,0 +1,3 @@
+# Article 28
+
+Nul ne peut être lésé dans son travail ou dans son emploi en raison du sexe, de l’âge, de la religion, des opinions, des origines, de l’appartenance à une organisation syndicale ou des convictions politiques.

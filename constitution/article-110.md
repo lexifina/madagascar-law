@@ -1,0 +1,9 @@
+# Article 110
+
+La Cour des Comptes :
+- juge les comptes des comptables publics ;
+- contrôle l’exécution des lois de finances ainsi que des budgets des provinces autonomes et des organismes publics ;
+- contrôle les comptes et la gestion des entreprises publiques ;
+- statue en appel des jugements rendus en matière financière par les juridictions ou les organismes administratifs à caractère juridictionnel ;
+- assiste le Parlement et le Gouvernement dans le contrôle de l’exécution des lois de finances ;
+- peut assister le Conseil provincial dans le contrôle de l’exécution du budget de sa province autonome.

@@ -1,0 +1,4 @@
+# Article 147
+
+La Cour Suprême actuelle avec ses composantes judiciaire, administrative et financière, conformément à la législation en vigueur, exerce les attributions dévolues par la Constitution révisée à nouvelle Cour Suprême, jusqu’à la mise en place de cette dernière.
+Toutefois, l’effectif de la Formation de contrôle actuelle pourra être complété par décret du Président la République.

@@ -1,0 +1,4 @@
+# Article 26
+
+Tout individu a le droit de participer à la vie culturelle de la communauté, au progrès scientifique aux bienfaits qui en résultent.
+L’Etat assure la promotion et la protection du patrimoine culturel national ainsi que de la production scientifique, littéraire et artistique.

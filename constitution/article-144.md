@@ -1,0 +1,3 @@
+# Article 144
+
+Le Président de la République actuel exerce, jusqu’au terme de son mandat, les fonctions dévolues au Président de la République par la présente Constitution révisée.

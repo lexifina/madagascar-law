@@ -1,0 +1,6 @@
+# Article 113
+
+Le Président de la République n’est responsable des actes accomplis dans l’exercice ou à l’occasion de l’exercice de ses fonctions qu’en cas de haute trahison ou de violation grave et répétée de la Constitution.
+Il ne peut être mis en accusation que par les deux Assemblées parlementaires statuant par un vote séparé, au scrutin public et à la majorité des deux tiers des membres composant chaque assemblée.
+Il est justiciable de la Haute Cour de Justice et peut encourir la déchéance.
+Si la déchéance est prononcée, la Haute Cour Constitutionnelle constate la vacance de la Présidence de la République ; il sera procédé à l’élection d’un nouveau Président dans les conditions de l’article 47 ci-dessus. Le Président frappé de déchéance n’est plus éligible à toute fonction publique élective.

@@ -1,0 +1,3 @@
+# Article 62
+
+Les fonctions de membre du Gouvernement sont incompatibles avec l’exercice de tout mandat public électif, de toute fonction de représentation professionnelle, de tout emploi public ou de toute autre activité professionnelle rémunérée.

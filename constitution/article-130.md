@@ -1,0 +1,3 @@
+# Article 130
+
+Dans les provinces autonomes, les fonctions exécutive, législative et juridictionnelle sont exercées par des organes distincts.

@@ -1,0 +1,4 @@
+# Article 25
+
+L’Etat reconnaît le droit à l’enseignement privé et garantit la liberté d’enseigner sous réserve des conditions d’hygiène, de moralité et de capacité fixées par la loi.
+Les établissements d’enseignement privé bénéficient d’un même régime fiscal dans les conditions fixées par la loi.

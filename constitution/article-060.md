@@ -1,0 +1,3 @@
+# Article 60
+
+Les actes du Président de la République, hors les cas prévus aux articles 53 alinéas 1 er et 2, 56 alinéas 4 et 5, 57, 77, 89, 95, 119, 121 à 123, sont contresignés par le Premier Ministre et, le cas échéant, par les Ministres concernés.

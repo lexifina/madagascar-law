@@ -1,0 +1,3 @@
+# Article 135.3
+
+La répartition des compétences Constitution du 18 Septembre 1992 entre l’Etat et les provinces autonomes découlant des articles 135, 135.1 et 135.2 ci-dessus peut être modifiée par une loi organique après concertation dans le cadre de la Conférence interprovinciale.

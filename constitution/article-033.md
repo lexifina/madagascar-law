@@ -1,0 +1,3 @@
+# Article 33
+
+Le droit de grève est reconnu et s’exerce dans les conditions fixées par la loi.

@@ -1,0 +1,3 @@
+# Article 149
+
+Le Président de la République est habilité à prendre par décret en Conseil des Ministres toutes les mesures nécessaires à la mise en place initiale des provinces autonomes et de leurs organes ; ces mesures concernent l’organisation des élections des membres des Conseils provinciaux et des Gouverneurs, la détermination de leurs attributions provisoires ainsi que l’organisation et l’octroi des premiers moyens de fonctionnement.

@@ -1,0 +1,4 @@
+# Article 51
+
+La levée de l’empêchement temporaire est décidée par la Haute Cour Constitutionnelle.
+L’empêchement temporaire ne peut dépasser une période de six mois, à l’issue de laquelle la Haute Cour Constitutionnelle, sur la saisine du Parlement dans les conditions de l’article 50, peut se prononcer sur la transformation de l’empêchement temporaire en empêchement définitif.

@@ -1,0 +1,6 @@
+# Article 103
+
+Il est créé trois organes destinés à contribuer, chacun en son domaine, à assurer un bon fonctionnement de la Justice.
+- Un Conseil Supérieur de la Magistrature, organe de sauvegarde et de sanction, chargé de veiller notamment au respect des dispositions du statut de la Magistrature ;
+- Une Inspection Générale de la Justice, organe d’investigation chargé notamment de contrôler le respect des règles déontologiques par les magistrats et le personnel de la justice ;
+- Un Conseil National de la Justice, organe de réflexion et de proposition appelé à faire des recommandations pour une meilleure administration de la justice notamment en ce qui concerne les mesures d’ordre législatif ou réglementaire relatives aux juridictions, aux magistrats et aux auxiliaires de la Justice.

@@ -1,0 +1,3 @@
+# Article 78
+
+Les règles de fonctionnement du Sénat, sa composition ainsi que les modalités d’élection et de désignation de ses membres sont fixées par une loi organique.

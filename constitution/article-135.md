@@ -1,0 +1,12 @@
+# Article 135
+
+Relèvent de la compétence exclusive de l’Etat, les matières attachées à l’exercice de la souveraineté nationale, notamment :
+- la nationalité ;
+- les relations internationales ;
+- la justice ;
+- la défense nationale ;
+- la sécurité nationale ;
+- les ressources stratégiques ;
+- la monnaie, les finances et la douane ;
+- le transfert de propriété d’entreprise du secteur public au secteur privé et inversement ;
+- la garantie des droits et libertés fondamentaux.

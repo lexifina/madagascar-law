@@ -1,0 +1,3 @@
+# Article 79
+
+Le Sénat est consulté par le Gouvernement pour donner son avis sur les questions économiques, sociales et d’organisation territoriale.

@@ -1,0 +1,4 @@
+# Article 31
+
+L’Etat reconnaît le droit de tout travailleur de défendre ses intérêts par l’action syndicale et en particulier par la liberté de fonder un syndicat.
+L’adhésion à un syndicat est libre.

@@ -1,0 +1,5 @@
+# Article 14
+
+Les citoyens s’organisent librement sans autorisation préalable en associations ou partis politiques ;
+Sont toutefois interdits les associations, ou partis politiques qui mettent en cause l’unité de la Nation et ceux qui prônent le totalitarisme ou le ségrégationnisme à caractère ethnique, tribal ou confessionnel.
+La loi fixe les conditions de création et de fonctionnement des associations et des partis politiques.

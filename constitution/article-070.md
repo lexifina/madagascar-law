@@ -1,0 +1,3 @@
+# Article 70
+
+Le Président de l’Assemblée nationale et les Membres du bureau sont élus au début de la première session pour la durée de la législature. Toutefois, ils peuvent être démis de leurs fonctions respectives de membres de bureau pour motif grave par un vote des deux tiers des députés.

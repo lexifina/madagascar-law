@@ -1,0 +1,5 @@
+# Article 46
+
+Tout candidat aux fonctions de Président de la République doit être de nationalité rnalagasy, jouir de ses droits civils et politiques, et avoir au moins quarante ans à la date de clôture du dépôt des candidatures.
+Il est interdit, à toute personnalité exerçant un mandat ou accomplissant des fonctions au sein des Institutions et candidat à l’élection présidentielle, d’user des moyens et prérogatives octroyés dans le cadre de ses fonctions à des fins de propagande électorale.
+Une loi organique fixera les autres conditions et modalités de présentation de candidature.

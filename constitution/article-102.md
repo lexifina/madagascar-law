@@ -1,0 +1,3 @@
+# Article 102
+
+L’exercice des fonctions de magistrat au sein des cours et tribunaux est incompatible avec toute activité au sein d’un parti ou organisation politique, l’exercice de tout mandat public électif ou de toute autre activité professionnelle rémunérée.

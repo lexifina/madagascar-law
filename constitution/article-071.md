@@ -1,0 +1,4 @@
+# Article 71
+
+L’Assemblée nationale se réunit de plein droit en deux sessions ordinaires par an. La durée de chaque session ne peut, ni être inférieure à soixante jours, ni supérieure à quatre-vingt-dix jours.
+La première session commence le premier mardi de mai et la seconde, consacrée principalement à l’adoption de la loi de finances, le dernier mardi de septembre.

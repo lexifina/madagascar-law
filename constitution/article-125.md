@@ -1,0 +1,3 @@
+# Article 125
+
+Les règles relatives à l’organisation, au fonctionnement et aux attributions de la Haute Cour Constitutionnelle ainsi que la procédure à suivre sont fixées par une loi organique.

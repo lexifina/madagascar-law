@@ -1,0 +1,4 @@
+# Article 68
+
+Une loi organique fixe les conditions d’éligibilité, le régime d’incompatibilité et de déchéance ainsi que les conditions et modalités de remplacement des députés, en cas de vacance jusqu’au renouvellement de l’Assemblée nationale.
+Un décret pris en Conseil des Ministres fixe le nombre des membres de l’Assemblée nationale, la répartition des sièges sur l’ensemble du territoire national ainsi que le découpage des circonscriptions électorales.

@@ -1,0 +1,3 @@
+# Article 85
+
+L’ordre du jour des Assemblées comporte par priorité et dans l’ordre que le Gouvernement a fixé, la discussion des projets de lois déposés sur le bureau de l’Assemblée nationale ou celui du Sénat par le Premier Ministre.

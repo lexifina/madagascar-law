@@ -1,0 +1,4 @@
+# Article 131.2
+
+L’Etat est représenté auprès des provinces autonomes par un haut fonctionnaire, dénommé Délégué Général du Gouvernement, chargé de veiller au respect par les autorités provinciales de la répartition des compétences entre l’Etat et les provinces autonomes ainsi que toutes dispositions législatives et réglementaires ; à cet effet, il défère aux juridictions compétentes les textes à valeur législative et réglementaire ainsi que tous actes et conventions des organes provinciaux de son ressort qu’il estime contraires à la légalité.
+Les modalités de nomination et les attributions de ce haut fonctionnaire sont fixées par la loi.

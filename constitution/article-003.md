@@ -1,0 +1,3 @@
+# Article 3
+
+Le territoire national est inaliénable.

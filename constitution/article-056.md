@@ -1,0 +1,8 @@
+# Article 56
+
+Le Président de la République accrédite et rappelle les Ambassadeurs et les envoyés extraordinaires de la République auprès des autres Etats et des Organisations Internationales.
+Il reçoit les lettres de créance et de rappel des représentants des Etats et des Organisations Internationales reconnus par la République de Madagascar.
+Il négocie et ratifie les traités. Il est informé de toute négociation tendant à la conclusion d’un accord international non soumis à ratification.
+Il exerce le droit de grâce.
+Il confère les décorations de la République.
+Il dispose des organes de contrôle de 1’Administration.

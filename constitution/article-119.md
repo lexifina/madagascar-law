@@ -1,0 +1,5 @@
+# Article 119
+
+La Haute Cour Constitutionnelle comprend neuf membres dont le mandat dure sept ans.
+Trois des membres sont nommés par le Président de la République, deux sont désignés par l’Assemblée nationale, deux par le Sénat, deux sont élus par le Conseil Supérieur de la Magistrature.
+Le Président de la Haute Cour Constitutionnelle est nommé par décret du Président de la République. La désignation des autres membres est constatée par décret du Président de la République.

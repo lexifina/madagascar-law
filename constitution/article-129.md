@@ -1,0 +1,5 @@
+# Article 129
+
+Toute sécession ou tentative de sécession d’une ou plusieurs provinces autonomes est interdite.
+Les auteurs de tels actes portant atteinte à 1’intégrité territoriale et à 1’unité nationale et qualifiés de crime contre la Nation, sont passibles de la peine maximale prévue par le Code pénal.
+Est nul de plein droit, tout acte ou toute mesure de nature à porter atteinte à 1’unité de la République ou à mettre en péril l’intégrité du territoire national pris par une autorité d’une province autonome. La nullité est constatée par le Conseil d’Etat.

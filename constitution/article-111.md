@@ -1,0 +1,3 @@
+# Article 111
+
+Les autres règles relatives à l’organisation, à la composition, au fonctionnement et aux attributions de la Cour Suprême et des trois cours la composant, celles relatives à la nomination de leurs membres ainsi que celles relatives à la procédure applicable devant elles sont fixées par une loi organique.

@@ -1,0 +1,4 @@
+# Article 92
+
+A la première session ordinaire, le Gouvernement présente à l’Assemblée nationale un rapport annuel d’exécution de son programme.
+La présentation sera suivie d’un débat.
