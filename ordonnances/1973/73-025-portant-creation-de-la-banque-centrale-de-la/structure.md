@@ -1,0 +1,18 @@
+# Structure
+
+- TITRE PREMIER STRUCTURE ET ORGANISATION DE LA BANQUE (avant Article 2)
+- CHAPITRE PREMIER Dispositions générales (avant Article 2)
+- CHAPITRE II Direction , administration et surveillance de la Banque. (avant Article 7)
+- SECTION I — Le gouverneur (avant Article 8)
+- SECTION II — Le directeur général (avant Article 15)
+- SECTION III — Le conseil d'administration (avant Article 18)
+- SECTION IV — Le censeur (avant Article 26)
+- TITRE II — ATTRIBUTIONS DE LA BANQUE (avant Article 30)
+- CHAPITRE PREMIER — PRIVILIEGE D'EMISSION (avant Article 31)
+- CHAPITRE II — OPERATIONS SUR OR ET SUR DEVISES (avant Article 38)
+- CHAPITRE VI — REGLEMENTATION DU CREDIT (avant Article 67)
+- CHAPITRE VII — AUTRES ATTRIBUTIONS ET OPERATIONS (avant Article 72)
+- TITRE III — DISPOSITIONS DIVERSES (avant Article 80)
+- CHAPITRE PREMIER — EXEMPTIONS ET PRIVILEGES (avant Article 83)
+- CHAPITRE II — COMPTES ANNUELS ET PUBLICATIONS (avant Article 85)
+- TITRE IV — DISPOSITIONS TRANSITOIRES (avant Article 92)
