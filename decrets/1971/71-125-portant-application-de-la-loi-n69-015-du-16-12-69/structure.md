@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GÉNÉRALES (avant Article premier)
+- TITRE II — FORME ET NATURE DES RÉQUISITIONS (avant Article 4)
+- TITRE V — MODALITÉS D’EXERCICE DU DROIT DE RÉQUISITION (avant Article 27)
