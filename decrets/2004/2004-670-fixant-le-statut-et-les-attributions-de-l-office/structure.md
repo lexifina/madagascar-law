@@ -1,0 +1,18 @@
+# Structure
+
+- TITRE PREMIER — OBJET, ORGANISATION ET ATTRIBUTIONS (avant Article premier)
+- CHAPITRE PREMIER — DE LA NATURE JURIDIQUE (avant Article premier)
+- CHAPITRE II — DES ATTRIBUTIONS (avant Article 3)
+- TITRE II — DE L'ORGANISATION ADMINISTRATIVE (avant Article 6)
+- CHAPITRE PREMIER — DU CONSEIL D'ADMINISTRATION (avant Article 7)
+- SECTION PREMIERE — Membres, nomination, avantages, prérogatives (avant Article 7)
+- SECTION II — Du fonctionnement (avant Article 18)
+- SECTION III — Des pouvoirs et des attributions (avant Article 19)
+- CHAPITRE II — DE LA DIRECTION GENRALE (avant Article 21)
+- SECTION PREMIERE — Organisation, nomination, prérogatives, incompatibilités (avant Article 21)
+- SECTION II — Des pouvoirs et attributions (avant Article 26)
+- TITRE III — DE LA GESTION FINANCIERE ET COMPTABLE (avant Article 27)
+- CHAPITRE PREMIER — DISPOSITION GENERALES (avant Article 27)
+- CHAPITRE II — DES RESSOURCES ET DES EMPLOIS DE L'OMH (avant Article 30)
+- TITRE IV — DES DISPOSITIONS DIVERSES (avant Article 32)
+- TITRE V — DISPOSITIONS FINALES (avant Article 34)
