@@ -1,0 +1,15 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — DEPOT DE CANDIDATURE (avant Article 3)
+- CHAPITRE III — CONDITIONS DE LA CAMPAGNE ELECTORALE (avant Article 4)
+- SECTION 1 — Autorisation de faire campagne (avant Article 4)
+- SECTION 2 — Emplacement d'affichage électoral (avant Article 9)
+- SECTION 3 — Affiches, tracts et circulaires électoraux (avant Article 10)
+- SECTION 4 — Affichage électoral (avant Article 12)
+- CHAPITRE IV — BULLETINS DE VOTE ET ENVELOPPES ELECTORALES (avant Article 17)
+- SECTION 1 — Bulletins de vote (avant Article 17)
+- SECTION 2 — Enveloppes électorales (avant Article 25)
+- CHAPITRE IV — PORT DE BADGE (avant Article 27)
+- CHAPITRE V — ORGANISATION DU SCRUTIN (avant Article 31)
+- CHAPITRE VI — DISPOSITIONS DIVERSES (avant Article 36)
