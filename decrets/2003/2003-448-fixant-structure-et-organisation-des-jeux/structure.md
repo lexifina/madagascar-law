@@ -1,0 +1,4 @@
+# Structure
+
+- CHAPITRE PREMIER — DES DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — ORGANISATION ET FONCTIONNEMENT (avant Article 6)
