@@ -1,0 +1,8 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — ATTRIBUTIONS DE L'APIPA (avant Article 4)
+- TITRE III — ORGANISATION ADMINISTRATI VE (avant Article 6)
+- TITRE IV — DES RECETTES et des DEPENSES (avant Article 17)
+- TITRE V — REGIME FINANCIER et COMPTABLE (avant Article 19)
+- TITRE VI — DISPOSITIONS DIVERSES (avant Article 27)
