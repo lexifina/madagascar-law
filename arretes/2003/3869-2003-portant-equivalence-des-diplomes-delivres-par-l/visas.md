@@ -1,0 +1,31 @@
+# Visas
+
+REPOBLIKAN'I MADAGASIKARA
+
+Tanindrazana-Fahafahana-Fandrosoana
+
+MINISTERE DE L'ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE
+
+ARRETE N° 3869/2003
+
+Portant équivalence des diplômes délivrés par l'Institut Agronomique
+
+et Vétérinaire Hassan Il Rabat MAROC
+
+LE MINISTRE DE L'ENSEIGNEMENT SUPERIEUR
+
+ET DE LA RECHERCHE SCIENTIFIQUE,
+
+Vu la Constitution ;
+
+Vu l'Ordonnance N° 92-030 du 17 Juillet 1992 portant création des Universités ;
+
+Vu le Décret N°2003-007 du 12 Janvier 2003 portant nomination du Premier Ministre, Chef du Gouvernement ;
+
+Vu le Décret N°2003-008 du 16 Janvier 2003 portant nomination des Membres du Gouvernement ;
+
+Vu le Décret N°2003-097 du 11 Février 2003 fixant les attributions du Ministre de l'Enseignement Supérieur et de la Recherche Scientifique ainsi que l'organisation générale de son Ministère ;
+
+Vu l'arrêté n° 70/01 du 06 Avril 2001 portant équivalence du Diplôme de Doctorat de 3ème Cycle délivré par le Rectorat de l'Université d'Antananarivo,
+
+A R R E T E :
