@@ -1,0 +1,15 @@
+# Structure
+
+- TITRE II — LES MESURES DE PROTECTION ANIMALE (avant Article 8)
+- CHAPITRE PREMIER — (Sans changement) (avant Article 8)
+- CHAPITRE II — De la santé des animaux (avant Article 8)
+- SECTION PREMIERE — De la lutte contre les maladies des animaux (avant Article 8)
+- SECTION II — de l'exercice de la profession (avant Article 10)
+- SECTION III — De la pharmacie vétérinaire (avant Article 13)
+- CHAPITRE III — Des mesures générales en cas de constatation de maladie réputée contagieuse et de la protection des consommateurs (avant Article 19)
+- SECTION PREMIERE — De la déclaration d'infection ou d'infestation (avant Article 19)
+- SECTION II — Des mesures curatives et préventives (avant Article 20)
+- TITRE III — DE LA PRESERVATION DU PATRIMOINE BIOLOGIQUE NATIONAL (avant Article 32)
+- CHAPITRE PREMIER — De la protection de la faune (avant Article 32)
+- CHAPITRE II — De l'amélioration génétique et de la protection du cheptel national (avant Article 36)
+- TITRE IV — PENALITES (avant Article 37)
