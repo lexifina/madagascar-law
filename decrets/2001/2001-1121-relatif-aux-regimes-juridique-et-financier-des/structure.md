@@ -1,0 +1,15 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — SOCIETES ANONYMES D'ASSURANCE ET DE CAPITALISATION (avant Article 5)
+- CHAPITRE III — SOCIETES D'ASSURANCE MUTUELLES (avant Article 9)
+- SECTION PREMIERE — Constitution (avant Article 9)
+- SECTION II — fonctionnement (avant Article 19)
+- SECTION III — Publicité (avant Article 41)
+- SECTION IV — Sociétés tontinnières (avant Article 44)
+- SOUS-SECTION PREMIERE — Dispositions communes (avant Article 44)
+- SECTION III — Association en cas de décès (avant Article 55)
+- TITRE II — REGIME FINANCIER (avant Article 58)
+- CHAPITRE PREMIER — LES ENGAGEMENTS REGLEMENTES (avant Article 58)
+- SECTION PREMIERE — Provisions techniques des opérations d'assurance sur la vie et de capitalisation (avant Article 58)
+- CHAPITRE II — REGLEMENTATION DES PLACEMENTS ET AUTRES ELEMENTS D'ACTIF (avant Article 70)
