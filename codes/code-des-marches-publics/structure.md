@@ -1,0 +1,17 @@
+# Structure
+
+- TITRE PREMIER — PRINCIPES GENERAUX (avant Article 4)
+- TITRE II — DES ORGANES DE L'ACHAT PUBLIC (avant Article 5)
+- TITRE III — DES CANDIDATURES ETE DES OFFRES (avant Article 8)
+- SECTION PREMIERE — seuils d'application des procédures (avant Article 14)
+- SECTION II — publicité (avant Article 15)
+- SECTION III — MODES DE PASSATION (avant Article 17)
+- SECTION IV — achèvement de la procédure (avant Article 27)
+- TITRE V — EXECUTION DES MARCHES PUBLICS (avant Article 29)
+- SECTION PREMIERE — mise en oeuvre du marché (avant Article 29)
+- SECTION II — objet et contenu des marchés publics (avant Article 33)
+- SECTION III — prix des marchés publics (avant Article 36)
+- SECTION IV — les garanties (avant Article 42)
+- SECTION VI — règlement des marchés publics (avant Article 45)
+- TITRE IX — DE L'ETHIQUE DES MARCHES PUBLICS (avant Article 60)
+- TITRE X — DISPOSITIONS DIVERSES ET FINALES (avant Article 61)
