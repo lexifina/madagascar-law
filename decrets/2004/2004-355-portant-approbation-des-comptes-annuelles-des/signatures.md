@@ -1,0 +1,2741 @@
+# Signatures
+
+Fait à Antananarivo, le 31 mars 2004
+
+Par Le Président de la République,
+
+RAVALOMANANA Marc
+
+Le Premier Ministre, Chef du Gouvernement
+
+Jacques SYLLA
+
+Le Ministre de l'Economie, des Finances et du Budget,
+
+RADAVIDSON Andriamparany Benjamin
+
+ETAT FINANCIERS
+
+EXERCICE 2000
+
+Banque Centrale 01/04/04-15:47 de Madagascar
+
+BILAN
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+ARRETE AU 31 DECEMBRE 2000
+
+ACTIF
+
+Rubrique
+
+Montant en FMG
+
+Contrevaleur des
+
+montants en devises
+
+Montant en FMG
+
+toutes devises
+
+confondues
+
+CAISSES ET DIVERS
+
+1 915 222 113 976
+
+14 740 583
+
+1 915 236 854 559
+
+CONCOURS AUX
+
+ETABLISSEMENTS DE CREDITS ET AUX INSTITUTIONS FINANCIERES
+
+RESIDENTS
+
+56 766 664 611
+
+3 086 990 763
+
+59 853 655 374
+
+Interventions sur le Marché Monétaire
+
+0
+
+0
+
+0
+
+Autres concours
+
+56 766 664 611
+
+3 086 990 763
+
+59 853 655 374
+
+CONCOURS AUX BANQUES ET AUX INSTITUTIONS FINANCIERES NON
+
+RESIDENTES
+
+0
+
+1 872 550 964 397
+
+1 872 550 964 397
+
+CONCOURS AU TRESOR PUBLIC
+
+1 489 475 877 614
+
+543 440 960 118
+
+2 032 916 837 732
+
+Prêts au Trésor Public
+
+1 477 123 563 767
+
+543 440 960 118
+
+2 020 564 523 885
+
+Souscription Bons du Trésor
+
+0
+
+0
+
+0
+
+Pension et escompte de Traites et Obligations Cautionnées
+
+12 352 313 847
+
+0
+
+12 352 313 847
+
+CONCOURS A LA CLIENTELE
+
+86 296 070 979
+
+95 410 739 988
+
+181 706 810 967
+
+COMPTES DE LIAISON
+
+2 342 554 526 475
+
+7 152 372 705
+
+2 349 706 899 180
+
+COMPTES D'ATTENTE DEBITEURS
+
+58 408 995 891
+
+1 294 076 243
+
+59 703 072 134
+
+DEBITEURS DIVERS
+
+88 928 690 918
+
+0
+
+88 928 690 918
+
+VALEURS RECUES A L'ENCAISSEMENT
+
+29 661 720 321
+
+0
+
+29 661 720 321
+
+COMPTES DE REGULARISATION ET
+
+DIVERS ACTIF
+
+18 869 997 156
+
+2 486 083
+
+18 872 483 239
+
+VALEURS IMMOBILISEES
+
+60 050 967 922
+
+0
+
+60 050 967 922
+
+TOTAL
+
+6 146 235 625 863
+
+2 522 953 330 880
+
+8 669 188 956 743
+
+Banque Centrale 01/04/04-15:47 de Madagascar
+
+BILAN
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+ARRETE AU 31 DECEMBRE 2000
+
+PASSIF
+
+Rubrique
+
+Montant en FMG
+
+Contrevaleur des
+
+montants en devises
+
+Montant en FMG
+
+toutes devises
+
+confondues
+
+BILLET ET MONNAIES EMIS
+
+3 788 576 847 594
+
+0
+
+3 788576 847 594
+
+DEPOTS DES ETABLISSEMENTS DE CREDITS ET DES INSTITUTIONS
+
+FINANCIERES RESIDENTS
+
+746 601 905 620
+
+105 018 400
+
+746 706 924 020
+
+Interventions sur le Marché Monétaire
+
+0
+
+0
+
+0
+
+Autres dépôts
+
+746 601 905 620
+
+105 018 400
+
+746 706 924 020
+
+DEPOT ET EMPRUNTS DES BANQUES ET DES INSTITUTIONS FINANCIERES NON RESIDENTES
+
+16 204 684 660
+
+854 078 584 765
+
+870 283 269 425
+
+DEPOTS DU TRESOR PUBLIC
+
+511 915 900 336
+
+337 906 674 051
+
+849 822 574 387
+
+DEPOTS DE LA CLIENTELE
+
+2 111 739 543
+
+6 688 344 084
+
+8 800 083 627
+
+COMPTES DE LIAISON
+
+2 303 306 654 648
+
+7 152372 705
+
+2 310 459 027 353
+
+CREDITEURS
+
+4 920 748 617
+
+6 329 189 934
+
+11 249 938 551
+
+CREDITEURS DIVERS
+
+19 406 518 827
+
+0
+
+19 406 518 827
+
+COMPTES EXIGIBLES APRES
+
+ENCAISSEMENT
+
+0
+
+2 486 083
+
+2 486 083
+
+COMPTES DE REGULARISATION ET DIVERS PASSIF
+
+22 197 731
+
+0
+
+22 197 731
+
+SUBVENTIONS D'EQUIPPEMENT
+
+36 403 374
+
+0
+
+36 403 374
+
+PROVISIONS
+
+20 490 508 612
+
+0
+
+20 490 508 612
+
+RESERVES
+
+17 616 186 772
+
+0
+
+17 616 186 772
+
+FONDS DE DOTATION
+
+15 138 521 846
+
+0
+
+15 138 521 846
+
+CAPITAL
+
+1 000 000 000
+
+0
+
+1 000 000 000
+
+REPORT A NOUVEAU
+
+-6 771 648 286
+
+0
+
+-6 771 648 286
+
+RESULTAT EN INSTANCE
+
+D'APPROBATION
+
+-1 289 124 059
+
+0
+
+-1 289 124 059
+
+RESULTAT DE L'EXERCICE
+
+17 638 240 886
+
+0
+
+17 638 240 886
+
+TOTAL
+
+7 456 926 286 721
+
+1 212 262 670 022
+
+8 669 188 956 743
+
+COMPTE DE RESULTAT DE LA BANQUE CENTRALE DE MADAGASCAR ARRETE AU 31 DECEMBRE 2000
+
+CHARGES
+
+PRODUITS
+
+60
+
+CHARGES SUR CIRCULATION FIDUCIAIRE & OPERATIONS INTERBANCAIRES
+
+59 166 419 431
+
+70
+
+PRODUITS SUR OPERATIONS INTERBANCAIRES
+
+101298865211
+
+61
+
+CHARGES SUR OPERAT. AVEC LE TRESOR,
+
+LA CLIENTELE ET SUR AUTRES OPERAT.
+
+9 864 601 116
+
+71
+
+PRODUITS SUR OPERA T. AVEC LE
+
+LA CLIENTELE ET SUR AUTRES OPERAT.
+
+76 496 624 828
+
+62
+
+CHARGES DE PERSONNEL
+
+37 466 099 474
+
+72
+
+SUBVENTIONS D'EXPLOITATION
+
+217 495 134
+
+63
+
+IMPOTS ET TAXES
+
+300 623 566
+
+75
+
+PRODUITS DIVERS D'EXPLOITATION
+
+487581 378
+
+64
+
+CHARGES EXTERNES
+
+15 960 503 332
+
+77
+
+PRODUITS EXCEPTIONNELS
+
+122 140 775
+
+65
+
+CHARGES DIVERSES D'EXPLOITATION
+
+293 239 709
+
+78
+
+REPRISES DE PROVISIONS
+
+5 574 831 026
+
+67
+
+CHARGES EXCEPTIONNELLES
+
+3 195 916 248
+
+79
+
+TRANSFERT DE CHARGES
+
+953 180 676
+
+68
+
+DOTATIONS AUX AMORTISSEMENTS
+
+ET AUX PROVISIONS
+
+41 265 075 260
+
+EXCEDENT PRODUITS SUR CHARGES
+
+17 638 240 886
+
+TOTAL
+
+185 150 719 028
+
+TOTAL
+
+185 150 719 028
+
+SITUATION DES HORS BILAN
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+ARRETE AU 31 DECEMBRE 2000
+
+N° Compte
+
+ELEMENT
+
+MONTANT en FMG
+
+Contrevaleur des
+
+Montants en devises
+
+Montant en FMG
+
+toutes devises
+
+confondues
+
+901
+
+Engagements de financement donnés
+
+275 287 680
+
+433 427 745 301
+
+433 703 032 981
+
+90121
+
+Engagement en faveur du personnel: Crédit immobilier
+
+275 287 680
+
+0
+
+275 287 680
+
+90131
+
+Acceptations à payer ou engagements de payer
+
+0
+
+433 427 745 301
+
+433 427 745 301
+
+902
+
+Engagements de financement reçus
+
+0
+
+135 944 133 506
+
+135 944 133 506
+
+90252
+
+Fonds monétaire international
+
+0
+
+135 944 133 506
+
+135 944 133 506
+
+911
+
+Engagements de garantie
+
+0
+
+28 021 734 250
+
+28 021 734 250
+
+91120
+
+Engagements de garantie donnés
+
+0
+
+28 021 734 250
+
+28 021 734 250
+
+931
+
+Opérations de change au comptant Engagements reçus
+
+0
+
+12 188 914 652
+
+12 188 914 652
+
+93121
+
+Devises achetées non encore reçues du MID
+
+0
+
+7 007 963 100
+
+7 007 963 100
+
+93123
+
+Devises achetées non encore reçues des clients non résidents
+
+0
+
+5 180 951 552
+
+5 180 951 552
+
+Engagements donnés
+
+6 979 946 740
+
+5 175 593 490
+
+12 155 540 230
+
+93131
+
+FMG vendus non encore livrés au MID
+
+6 979 946 740
+
+0
+
+6 979 946 740
+
+93143
+
+Devises vendues non encore livrées aux correspondants non résidents
+
+0
+
+5 173 950 000
+
+5 173 950 000
+
+93145
+
+Devises vendues non encore livrées aux clients non résidents
+
+0
+
+1 643 490
+
+1 643 490
+
+962
+
+Compte d'ajustement devises hors bilan
+
+36 661 403
+
+0
+
+36 661 403
+
+96212
+
+Compte d'ajustement devises liées aux opérations de change au comptant hors bilan
+
+36 661 403
+
+0
+
+36 661 403
+
+SITUATION DE LA COMPTABILITE MATIERES
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+ARRETE AU 31 DECEMBRE 2000
+
+N° Compte
+
+ELEMENT
+
+MONTANT en FMG
+
+Contrevaleur des
+
+Montants en devises
+
+Montant en FMG
+
+toutes devises
+
+confondues
+
+80
+
+TRAITES ET OBLIGATIONS CAUTIONNEES
+
+545 893 613
+
+0
+
+545 893 613
+
+801
+
+Traites et obligations cautionnées remises par le Trésor
+
+Public
+
+545 893 613
+
+0
+
+545 893 613
+
+802
+
+Traites et obligations cautionnées en recette
+
+0
+
+0
+
+0
+
+81
+
+BONS DU TRESOR ET LETTRES D'AUTORISATION DE DEBIT CONSERVES S/D
+
+1 194 241 079 614
+
+0
+
+1 194 241 079 614
+
+8111
+
+Fonds monétaire international
+
+1 162 478 519 394
+
+0
+
+1 162 478 519 394
+
+8112
+
+BIRD
+
+31 505 076 746
+
+0
+
+31 505 076 746
+
+8113
+
+AID
+
+257 483 474
+
+0
+
+257 483 474
+
+83
+
+COMPTES TITRES (Titres Trésor: B.T.A. )
+
+950 701 000 000
+
+950 701 000 000
+
+839121
+
+Titres détenus par les établissements de crédit
+
+427 004 722 920
+
+427 004 722 920
+
+83913
+
+Titres détenus par les clients des établissements de crédit
+
+40 836 277 080
+
+40 836 277 080
+
+83914
+
+Titres détenus par autres agents économiques
+
+482 860 000 000
+
+482 860 000 000
+
+0
+
+84
+
+BILLETS ET MONNAIE NON EMIS
+
+383 253 206 650
+
+0
+
+383 253 206 650
+
+841
+
+Billets et monnaie non émis en transit
+
+170 695 450 000
+
+0
+
+170 695 450 000
+
+842
+
+Billets et monnaie non émis
+
+206 307 555 000
+
+0
+
+206 307 555 000
+
+844
+
+Billets et monnaie émis en route
+
+6 250 000 000
+
+0
+
+6250000000
+
+847
+
+Billets et monnaies en attente de remplacement
+
+201 650
+
+0
+
+201 650
+
+85
+
+SUIVIS COMPTES DE TIERS
+
+0
+
+16 725 114 465
+
+16 725 114 465
+
+851
+
+Suivis comptes de tiers chez les banques commerciales
+
+0
+
+16725 114465
+
+16725 114465
+
+87
+
+CREDIT A L'ETAT
+
+0
+
+276 884 552 545
+
+276 884 552 545
+
+871
+
+Crédits chinois
+
+0
+
+276 883 045 311
+
+276 883 045 311
+
+872
+
+Crédits russes
+
+0
+
+1 507 234
+
+1 507 234
+
+ETATS FINANCIERS
+
+EXERCICE 2001
+
+BILAN
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+ARRETE AU 31 DECEMBRE 2001
+
+ACTIF
+
+Rubrique
+
+Montant en FMG
+
+Contrevaleur des
+
+montants en devises
+
+Montant en FMG
+
+toutes devises
+
+confondues
+
+CAISSES ET DIVERS
+
+2 523 294 147 017
+
+614 281 143
+
+2 523 908 428 160
+
+CONCOURS AUX ETABLISSEMENTS DE CREDITS ET AUX INSTITUTIONS FINANCIERES RESIDENTS
+
+40 159 314 732
+
+487 608 135
+
+40 646 922 867
+
+Interventions sur le Marché Monétaire Autres concours
+
+0
+
+40 159 314 732
+
+0
+
+487 608 135
+
+0
+
+40 646 922 867
+
+CONCOURS AUX BANQUES ETAUX INSTITUTIONS FINANCIERES NON RESIDENTES
+
+2 567 567
+
+2 648 345 366 044
+
+2 648 347 933 611
+
+CONCOURS AU TRESOR PUBLIC
+
+1 570 607 986 239
+
+543 608 098 455
+
+2 114 216 084 694
+
+Prêts au Trésor Public
+
+Souscription Bons du Trésor Pension et escompte de Traites et Obligations Cautionnées
+
+1 562 253 933 544
+
+0
+
+8 354 052 695
+
+543 608 098 455
+
+0
+
+0
+
+2 105 862 031 999
+
+0
+
+8 354 052 695
+
+CONCOURS A LA CLIENTELE
+
+156 801 316 203
+
+191 040 750 983
+
+347 842 067 186
+
+COMPTES DE LIAISON
+
+2 314 189 734 675
+
+7 521 399 804
+
+2 321 711 134 479
+
+COMPTES D'ATTENTE DEBITEURS
+
+41905713 417
+
+1 245 156 908
+
+43 150870325
+
+DEBITEURS DIVERS
+
+65 922 790 282
+
+0
+
+65 922 790 282
+
+VALEURS RECUES A L'ENCAISSEMENT
+
+68 912 077 791
+
+0
+
+68912077791
+
+COMPTES DE REGULARISATION ET DIVERS ACTIF
+
+14 305 236 182
+
+1 417 708
+
+14 306 653 890
+
+VALEURS IMMOBILISEES
+
+77 260 161 911
+
+0
+
+77 260 161 911
+
+TOTAL
+
+6 873 361 046 016
+
+3 392 864 079 181
+
+10 266 225 125 197
+
+BILAN
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+ARRETE AU 31 Décembre 2001
+
+PASSIF
+
+Rubrique
+
+Montant en FMG
+
+Contrevaleur des
+
+montants en devises
+
+Montant en FMG
+
+toutes devises
+
+confondues
+
+BILLETS ET MONNAIES EMIS
+
+4 776 276 186 594
+
+0
+
+4 776 276 186 594
+
+DEPOTS DES ETABLISSEMENTS DE CREDITS ET DES INSTITUTIONS
+
+FINANCIERES RESIDENTS
+
+1 140 475 815 530
+
+192 514 268
+
+1 140 668 329 798
+
+Interventions sur le Marché Monétaire
+
+Autres dépôts
+
+0
+
+1 140 475 815 530
+
+0
+
+192 514 268
+
+0
+
+1 140 668 329 798
+
+DEPOTS ET EMPRUNTS DES
+
+BANQUES ET DES INSTITUTIONS
+
+FINANCIERES NON RESIDENTES
+
+14 013 415 887
+
+997 041 779 178
+
+1 011 055 195 065
+
+DEPOTS DU TRESOR PUBLIC
+
+528 043 882 751
+
+348 776 359 817
+
+876 820 242 568
+
+DEPOTS DE LA CLIENTELE
+
+1 362 881 628
+
+7 023 034 399
+
+8 385 916 027
+
+COMPTES DE LIAISON
+
+2 308 281 331 483
+
+7 521 399 804
+
+2 315 802 731 287
+
+CREDITEURS
+
+3 477 797 735
+
+5 708 244 325
+
+9 186 042 060
+
+CREDITEURS DIVERS
+
+13 288 438 223
+
+0
+
+13 288 438 223
+
+COMPTES EXIGIBLES APRES ENCAISSEMENT
+
+0
+
+1417708
+
+1417708
+
+COMPTES DE REGULARISATION
+
+ET DIVERS PASSIF
+
+364 207 105
+
+0
+
+364 207 105
+
+SUBVENTIONS D'EQUIPPEMENT
+
+1l 533 824
+
+0
+
+1l 533 824
+
+PROVISIONS
+
+20 445 150 197
+
+0
+
+20 445 150 197
+
+RESERVES
+
+17 616 186 772
+
+0
+
+17 616 186 772
+
+FONDS DE DOTATION
+
+15 226 969 409
+
+0
+
+15 226 969409
+
+CAPITAL
+
+1 000 000 000
+
+0
+
+1 000 000 000
+
+REPORT A NOUVEAU
+
+-6 771 648 286
+
+0
+
+-6 771 648 286
+
+RESULTAT EN INSTANCE D'APPROBATION
+
+16 349 116 827
+
+0
+
+16 349 116 827
+
+RESULTAT DE L'EXERCICE
+
+50 499 110 019
+
+0
+
+50 499 110 019
+
+TOTAL
+
+8 899 960 375 698
+
+1 366 264 749 499
+
+10 266 225 125 197
+
+COMPTE DE RESULTAT
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+ARRETE AU 31 DECEMBRE 2001
+
+CHARGES
+
+PRODUITS
+
+60
+
+CHARGES SUR CIRCULATION FIDUCIAIRE
+
+& OPERATIONS INTERBANCAIRES
+
+57 873 200 962
+
+70
+
+PRODUITS SUR OPERATIONS
+
+INTERBANCAIRES
+
+96 525 623 292
+
+61
+
+CHARGES SUR OPERAT. AVEC LE TRESOR,
+
+LA CLIENTELE ET SUR AUTRES OPERAT.
+
+8 753 737 002
+
+71
+
+PRODUITS SUR OPERAT. AVEC LE
+
+LA CLIENTELE ET SUR AUTRES OPERAT.
+
+86 690 488 189
+
+62
+
+CHARGES DE PERSONNEL
+
+40 492 603 862
+
+72
+
+SUBVENTIONS D'EXPLOITATION
+
+409 382 941
+
+63
+
+IMPOTS ET TAXES
+
+282 805 178
+
+75
+
+PRODUITS DIVERS D'EXPLOITATION
+
+238 978 969
+
+64
+
+CHARGES EXTERNES
+
+16 660 165 991
+
+77
+
+PRODUITS EXCEPTIONNELS
+
+626 529 535
+
+65
+
+CHARGES DIVERSES D'EXPLOITATION
+
+229 418 245
+
+78
+
+REPRISES DE PROVISIONS
+
+6261 896 181
+
+67
+
+CHARGES EXCEPTIONNELLES
+
+513 407 935
+
+79
+
+TRANSFERT DE CHARGES
+
+0
+
+68
+
+DOTATIONS AUX AMORTISSEMENTS
+
+ET AUX PROVISIONS
+
+15 448 449 913
+
+EXCEDENT PRODUITS SUR CHARGES
+
+50 499 110 019
+
+TOTAL
+
+190 752 899 107
+
+TOTAL
+
+190 752 899 107
+
+SITUATION DES HORS BILAN
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+AU 31 DECEMBRE 2001
+
+N° Compte
+
+ELEMENT
+
+MONTANT en FMG
+
+Contrevaleur des
+
+Montants en devises
+
+Montant en FMG
+
+toutes devises
+
+confondues
+
+901
+
+Engagements de financement donnés
+
+170 379 520
+
+78 247 887 891
+
+78 418 267 411
+
+90121
+
+Engagement en faveur du personnel: Crédit immobilier
+
+170 379 520
+
+0
+
+170 379 520
+
+90131
+
+Acceptations à payer ou engagements de payer
+
+0
+
+78 247 887 891
+
+78 247 887 891
+
+902
+
+Engagements de financement reçus
+
+0
+
+132 596 088 404
+
+132 596 088 404
+
+90252
+
+Fonds monétaire international
+
+0
+
+132 596 088 404
+
+132 596 088 404
+
+911
+
+Engagements de garantie
+
+0
+
+28 367 169 830
+
+28 367 169 830
+
+91120
+
+Engagements de garantie donnés
+
+0
+
+28 367 169 830
+
+28 367 169 830
+
+931
+
+Opérations de change au comptant
+
+Engagements reçus
+
+40 096 910 586
+
+1 757 100 000
+
+41 854 010 586
+
+93111
+
+FMG achetés non encore reçus du MID
+
+7 028 635 000
+
+33 068 275 586
+
+0
+
+7 028 635 000
+
+93115
+
+FMG achetés non encore reçus des clients non résidents
+
+33 068 275 586
+
+0
+
+33 068 275 586
+
+93121
+
+Devises achetées non encore reçues du MID
+
+0
+
+1 757 100 000
+
+1 757 100 000
+
+93123
+
+Devises achetées non encore reçues des clients non résidents
+
+0
+
+0
+
+0
+
+Engagements donnés
+
+1 756 400 000
+
+40 437 668 421
+
+42 194 068 421
+
+93131
+
+FMG vendus non encore livrés au MID
+
+1 756 400 000
+
+0
+
+1 756 400 000
+
+93141
+
+Devises vendues non encore livrées au MID
+
+0
+
+7 028 400 000
+
+7 028 400 000
+
+93143
+
+Devises vendues non encore livrées aux correspondants non résidents
+
+0
+
+0
+
+0
+
+93145
+
+Devises vendues non encore livrées aux clients non résidents
+
+0
+
+33 409 268 421
+
+33 409 268 421
+
+962
+
+Compte d'ajustement devises hors bilan
+
+340 057 835
+
+0
+
+340 057 835
+
+96212
+
+Compte d'ajustement devises liées aux opérations de change au comptant hors bilan
+
+340 057 835
+
+0
+
+340 057 835
+
+SITUATION DE LA COMPTABILITE MATIERES
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+ARRETEE AU 31 décembre 2001
+
+COMPTES DEBITEURS
+
+MONTANT en FMG
+
+Contrevaleur des
+
+Montants en devises
+
+Montant en FMG
+
+toutes devises
+
+confondues
+
+80
+
+TRAITES ET OBLIGATIONS CAUTIONNEES
+
+1 155 243 644
+
+0
+
+1 155 243 644
+
+801
+
+Traites et obligations cautionnées remises par le Trésor Public
+
+673 230 529
+
+0
+
+673 230 529
+
+802
+
+Traites et obligations cautionnées en recette
+
+482013 115
+
+482013 115
+
+81
+
+BONS DU TRESOR ET LETTRES
+
+D'AUTORISATION DE DEBIT CONSERVES S/D
+
+1 052 633 138 859
+
+0
+
+1 052 633 138 859
+
+8111
+
+Fonds monétaire international
+
+1 026 570 578 639
+
+0
+
+1 026 570 578 639
+
+8112
+
+BIRD
+
+25 805 076 746
+
+0
+
+25 805 076 746
+
+8113
+
+AID
+
+257 483 474
+
+0
+
+257 483 474
+
+0
+
+83
+
+COMPTES TITRES (Titres Trésor: B. T. A.)
+
+1 708 299 000 000
+
+1 708 299 000 000
+
+839121
+
+Titres détenus par les établissements de crédit
+
+1 065 148 828 784
+
+1 065 148 828 784
+
+839131
+
+Titres détenus par les clients des établissements de crédit
+
+75110171216
+
+75 110171216
+
+0
+
+84
+
+BILLETS ET MONNAIE NON EMIS
+
+379 235 967 650
+
+0
+
+1 708 299 000 000
+
+841
+
+Billets et monnaie non émis en transit
+
+208 760 350 000
+
+0
+
+1 065 148828784
+
+842
+
+Billets et monnaie non émis
+
+170475365000
+
+0
+
+75 110171216
+
+844
+
+Billets et monnaie émis en route
+
+0
+
+0
+
+568 040 000 000
+
+845
+
+Billets et monnaies retirés de l'émission
+
+51 000
+
+0
+
+51 000
+
+847
+
+Billets et monnaies en attente de remplacement
+
+201 650
+
+0
+
+201 650
+
+85
+
+SUIVIS COMPTES DE TIERS
+
+0
+
+18 565 798 389
+
+18 565 798 389
+
+851
+
+Suivis comptes de tiers chez les banques commerciales
+
+0
+
+18 565 798 389
+
+18 565 798 389
+
+0
+
+87
+
+CREDIT A L'ETAT
+
+0
+
+281 779 637 392
+
+281 779 637 392
+
+871
+
+Crédits chinois
+
+0
+
+280 339 444 106
+
+280 339 444 106
+
+872
+
+Crédits russes
+
+0
+
+1 440 193 286
+
+1 440 193 286
+
+BANQUE CENTRALE
+
+DE
+
+MADAGASCAR
+
+ETATS FINANCIERS
+
+EXERCICE 2002
+
+Vu pour être annexés au DECRET N° 2004-355 du 31 mars 2004
+
+BILAN
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+ARRETE AU 31 décembre 2002
+
+ACTIF
+
+Rubrique
+
+Montant en FMG
+
+Contre valeur des montants en devises
+
+Montant en FMG toutes devises confondues
+
+CAISSES ET DIVERS
+
+2 805 828 455 774
+
+94 191 384
+
+2 805 922 647 158
+
+CONCOURS AUX
+
+ETABLISSEMENTS DE CREDITS ET AUX INSTITUTIONS FINANCIERS RESIDENTS
+
+27 266 514 321
+
+179 470 999
+
+27 445 985 320
+
+Interventions sur le Marché
+
+Monétaire
+
+0
+
+0
+
+0
+
+Autres concours
+
+27 266 514 321
+
+179 470 999
+
+27 445 985 320
+
+CONCOURS AUX BANQUES ET AUX INSTITUTIONS FINANCIERES NON RESIDENTES
+
+0
+
+2 319 464 911 777
+
+2 319 464 911 777
+
+CONCOURS AU TRESOR PUBLIC
+
+1 569 454 081 856
+
+526 650 965 432
+
+2 096 105 047 288
+
+Prêts au Trésor Public
+
+Souscription Bons du Trésor
+
+Pension et escompte de Traites et Obligations Cautionnées
+
+1 568 130 403 678
+
+0
+
+1 323 678 178
+
+526 650 965 432
+
+0
+
+0
+
+2 094 781 369 110
+
+0
+
+1 323 678 178
+
+CONCOURS A LA CLIENTELE
+
+174 857 786 457
+
+273 297 890 407
+
+448 155 676 864
+
+COMPTES DE LIAISON
+
+43 913 824 373
+
+0
+
+43 913 824 373
+
+COMPTES D'ATTENTE DEBITEURS
+
+886 410 224
+
+1 427 561 659
+
+2 313 971 883
+
+DEBITEURS DIVERS
+
+112 387 321 622
+
+0
+
+112 387 321 622
+
+VALEURS RECUES A L'ENCAISSEMENT
+
+47 761 877 043
+
+0
+
+47 761 877 043
+
+COMPTES DE REGULARISATION ET DIVERS ACTIF
+
+39 098 281 908
+
+8 499 026
+
+39 106 780 934
+
+VALEURS IMMOBILISEES
+
+86 933 534 565
+
+0
+
+86 933 534 565
+
+TOTAL
+
+4 908 388 088 143
+
+3 121 123 490 684
+
+8 029 511 578 827
+
+BILAN
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+ARRETE AU 31 décembre 2002
+
+PASSIF
+
+Rubrique
+
+Montant en FMG
+
+Contre valeur des montants en devises
+
+Montant en FMG toutes divises confondues
+
+BILLETS ET MONNAIES EMIS
+
+5 270 002 600 394
+
+0
+
+5 270 002 600 394
+
+DEPOTS DES ETABLISSEMENTS DE CREDITS ET DES INSTITUTIONS FINANCIERES RESIDENTS
+
+1 082 450 600 865
+
+322 011 408
+
+1 082 772 612 273
+
+Interventions sur le Marché Monétaire
+
+0
+
+0
+
+0
+
+Autres dépôts
+
+1 082 450 600 865
+
+322 011 408
+
+1 082 772 612 273
+
+DEPOTS DES BANQUES ET DES INSTITUTIONS FINANCIERES NON RESIDENTS
+
+11 775 979 572
+
+1 037 006 317 534
+
+1 048 782 297 106
+
+DEPOTS DU TRESOR PUBLIC
+
+445 727 163 053
+
+91 498 685 569
+
+537 225 848 622
+
+DEPOTS DE LA CLIENTELE
+
+3 866 397 467
+
+7 857 453 026
+
+11 723 850 493
+
+COMPTES DE LIASON
+
+37 066 685 776
+
+0
+
+37 066 685 776
+
+COMPETS D'ATTENTE CREDITEURS
+
+3 863 663 639
+
+6 357 769 096
+
+10 221 432 735
+
+CREDITEURS DIVERS
+
+5 831 625 944
+
+0
+
+5 831 625 944
+
+COMPTES EXIGIBLES APRES
+
+ENCAISSEMENT
+
+0
+
+8 499 026
+
+8 499 026
+
+COMPTES DE REGULARISATION ET DIVERS PASSIF
+
+5 910 031
+
+0
+
+5 910 031
+
+SUBVENTIONS D'EQUIPPEMENT
+
+0
+
+0
+
+0
+
+PROVISIONS
+
+20 790 664 087
+
+0
+
+20 790 664 087
+
+RESERVES
+
+17 616 186 772
+
+0
+
+17 616 186 772
+
+FONDS DE DOTATION
+
+15 513 894 944
+
+0
+
+15 513 894 944
+
+CAPITAL
+
+1 000 000 000
+
+0
+
+1 000 000 000
+
+REPORT A NOUVEAU
+
+-6 771 648 286
+
+0
+
+-6 771 648 286
+
+RESULTAT EN INSTANCE D'APPROBATION
+
+66 848 226 846
+
+0
+
+66 848 226 846
+
+RESULTAT DE L'EXERCICE
+
+-89 127 107 935
+
+0
+
+-89 127 107 935
+
+TOTAL
+
+6 886 460 843 169
+
+1 143 050 735 658
+
+8 029 511 578 827
+
+COMPTE DE RESULTAT
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+ARRETE AU 31 décembre 2002
+
+CHARGES
+
+PRODUITS
+
+60
+
+CHARGES SUR CIRCULATION FIDUCIAIRE & OPERATIONS INTERBANCAIRES
+
+41 503 236 846
+
+70
+
+PRODUITS SUR OPERATIONS INTERBANCAIRES
+
+60 584 755 767
+
+61
+
+CHARGES SUR OPERAT AVEC LE TRESOR. LA CLIENTELE ET SUR AUTRES OPERAT.
+
+7 180 470 139
+
+71
+
+PRODUITS SUR OPERAT. AVEC LE TRESOR. LA CLIENTELE ET SUR AUTRES OPERAT.
+
+86 037 108 629
+
+62
+
+CHARGES DE PERSONNEL
+
+44 103 257 029
+
+72
+
+SUBVENTIONS D'EXPLOITATION
+
+337 166 721
+
+63
+
+IMPOTS ET TAXES
+
+270 897 783
+
+75
+
+PRODUITS DIVERS D'EXPLOITATION
+
+302 165 810
+
+64
+
+CHARGES EXTERNES
+
+15 168 943 552
+
+77
+
+PRODUITS EXCEPTIONNELS
+
+176 059 360
+
+65
+
+CHARGES DIVERSES D'EXPLOITANTION
+
+457 024 795
+
+78
+
+REPRISES DE PROVISIONS
+
+5 969 960 313
+
+67
+
+CHARGES EXCEPTIONNELLES
+
+73 579 177
+
+79
+
+TRANSFERT DE CHARGES
+
+0
+
+68
+
+DOTATIONS AUX AMORTISSEMENTS ET AUX PROVISIONS
+
+133 776 915 214
+
+EXEDENT DES CHARGES SUR LES PRODUITS
+
+89 127 107 935
+
+TOTAL
+
+242 534 324 535
+
+TOTAL
+
+242 534 324 535
+
+SITUATION DES HORS BILAN
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+AU 31décembre 2002
+
+N°CPTE
+
+ELEMENT
+
+Montant en
+
+FMG
+
+Contre valeur des montants en devises
+
+Montant en FMG toutes devis confondues
+
+901
+
+90121
+
+90131
+
+Engagements de financement données
+
+Engagement en faveur du personnel: Crédit immobilier
+
+Acceptations à payer ou engagements de payer
+
+240 428 490
+
+240 428 490
+
+0
+
+0
+
+0
+
+0
+
+240 428 490
+
+240 428 490
+
+0
+
+902
+
+90252
+
+Engagements de financement reçus
+
+Fonds monétaire international
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+911
+
+91120
+
+Engagements de garantie Engagements de garantie donnés
+
+0
+
+0
+
+4 826 688 803
+
+4 826 688 803
+
+4 826 688 803
+
+4 826 688 803
+
+931
+
+93111
+
+93115
+
+93121
+
+93123
+
+Opérations de charge au comptant
+
+Engagements reçus
+
+FMG achetés non encore reçus de MID
+
+FMG achetés non encore reçus des clients non résidents
+
+Devises achetées non encore reçus du MID
+
+Devises achetées non encore reçus des clients non résidents
+
+56 987 040 882
+
+2 492 117 000
+
+54 494 923 882
+
+0
+
+0
+
+4 227 092 500
+
+0
+
+0
+
+4 227 092 500
+
+0
+
+61 214 133 382
+
+2 492 117 000
+
+54 494 923 882
+
+4 227 092 500
+
+0
+
+93131
+
+93141
+
+93143
+
+93145
+
+Engagements donnés
+
+FMG vendus non encore livrés au MID
+
+Devises vendues non encore livrées au MID
+
+Devises vendues non encore livrées aux correspondants non résidents
+
+Devises vendues non encore livrées aux clients non résidents
+
+4 226 859 200
+
+4 226 859 200
+
+0
+
+0
+
+0
+
+55 136 791309
+
+0
+
+2 491 265 000
+
+0
+
+52 645 526 309
+
+59 363 650 509
+
+4 226 859 200
+
+2 491 265 000
+
+0
+
+52 645 526 309
+
+962
+
+96212
+
+Compte d'ajustement devises hors bilan Compte d'ajustement devises liées aux opérations de change au comptant hors bilan
+
+1 850 482 873
+
+1 850 482 873
+
+0
+
+0
+
+1 850 482 873
+
+1 850 482 873
+
+SITUATION DE LA COMPTABILITE MATIERES
+
+DE LA BANQUE CENTRALE DE MADAGASCAR
+
+ARRETE AU 31 décembre 2002
+
+Comptes Débiteurs
+
+Montant en FMG
+
+Contre valeur des montants en devis
+
+Montant en FMG toutes devises confondues
+
+80
+
+801
+
+802
+
+TRAITES ET OBLIGATIONS CAUTIONNEES
+
+Traites et obligations cautionnées remises par le Trésor Public
+
+Traites et obligations cautionnées en recette
+
+3 065 246 236
+
+2 943 426 430
+
+121 819 806
+
+0
+
+0
+
+0
+
+3 065 246 236
+
+2 943 426 430
+
+121 819 806
+
+81
+
+8 111
+
+8 112
+
+8 113
+
+BONS DU TRESOR ET LETTRES D'AUTORISATION DE DEBIT CONSERVES S/D
+
+Fonds monétaire international
+
+BIRD
+
+AID
+
+1 106 462 033 060
+
+1 083 399 472 840
+
+22 805 076 746
+
+257 483 474
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1 106 462 033 060
+
+1 083 399 472 840
+
+22 805 076 746
+
+257 483 474
+
+83
+
+839121
+
+83 913
+
+83 914
+
+COMPTES TITRES (Titres Trésor: B.TA.)
+
+Titres détenus par les établissements de crédit
+
+Titres détenus par les clients des établissements de crédit
+
+Titres détenus par autres agents économiques
+
+2 046 700 000 000
+
+1 474 213 566 667
+
+24 986 433 333
+
+547 500 000 000
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2 046 700 000 000
+
+1 474 213 566 667
+
+24 986 433 333
+
+547 500 000 000
+
+84
+
+841
+
+842
+
+844
+
+845
+
+847
+
+BILLETS ET MONNAIE NON EMIS
+
+Billets et monnaie non émis en transit
+
+Billets et monnaie non émis
+
+Billets et monnaie non émis en route
+
+Billets et monnaie retirés de l'émission
+
+Billets et monnaies en attente de remplacement
+
+430 400 333 850
+
+299 292 720 000
+
+131 096 250 000
+
+0
+
+11 162 200
+
+201 650
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+430 400 333 850
+
+299 292 720 000
+
+131 096 250 000
+
+0
+
+11 162 200
+
+201 650
+
+85
+
+851
+
+SUIVIS COMPTES DE TIERS
+
+Suivis comptes de tiers chez les banques commerciales
+
+0
+
+0
+
+0
+
+37 572 562 720
+
+37 572 562 720
+
+37 572 562 720
+
+37 572 562 720
+
+87
+
+871
+
+872
+
+CREDIT A L'ETAT
+
+Crédits chinois
+
+Crédits russes
+
+0
+
+0
+
+0
+
+272 020 636 438
+
+272 019 309 269
+
+1 327 169
+
+272 020 636 438
+
+272 019 309 269
+
+1 327 169
