@@ -1,0 +1,3 @@
+# Signatures
+
+Antananarivo, le 27 mai 2002 Jacques SYLLA Par LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT Le Vice Premier Ministre chargé des Finances et du Budget, Narisoa RAJAONARIVONY Le Ministre de l'Enseignement Secondaire et de l'Education de Base, Michel RAZAFINDRANDRIATSIMANIRY Le Ministre de la Fonction Publique, Dr. Vola Dieudonné RAZAFINDRALAMBO Organigramme du Ministère de l'Enseignement Secondaire et de l'Education de Base CABINET COORDONNATEUR GENERAL DES PROJETS CELLEULE DE COMMUNICATION Organismes Sous-Tutelle EPT-UNESCO CREFOI-ONEFE-ONEP Service de Ralations Internationales Organisme rattache CNAPMAD DEPPE ORGANISMES RATTACHES INPF,BPEE, UERP, DES DCSL DEMC DGSE SERVICES RATTACHES DIRESEB(Provinces) DAF DRH DPO DOPPS DGASE SECRETAIRE GENERAL MINISTRE
