@@ -1,0 +1,5 @@
+# Structure
+
+- SECTION PREMIERE — LE CAPITAL SOCIAL (avant Article 2)
+- SECTION II — DE L'AGREMENT (avant Article 4)
+- SECTION III — DES FONCTIONS D'ADMINISTRATEUR (avant Article 11)
