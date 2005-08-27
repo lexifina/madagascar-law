@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — GENERALITES (avant Article premier)
+- TITRE III — DE L'ORGANISATION COMPTABLE ET FINANCIERE (avant Article 4)
+- TITRE IV — DISPOSITIONS DIVERSES (avant Article 9)
