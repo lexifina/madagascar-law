@@ -1,0 +1,15 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE PREMIER — STATUTS - SIEGE (avant Article premier)
+- CHAPITRE II — MISSIONS ET ATTRIBUTIONS (avant Article 4)
+- TITRE II — ORGANISATION - FONCTIONNEMENT (avant Article 6)
+- SOUS TITRE PREMIER — CONSEIL D'ADMINISTRATION (avant Article 7)
+- SOUS TITRE II — DIRECTION GENERALE (avant Article 10)
+- CHAPITRE PREMIER — STRUCTURES ADMINISTRATIVES (avant Article 18)
+- CHAPITRE II — ENTITES INDEPENDANTES (avant Article 22)
+- SECTION PREMIERE — La commission nationale des marchés publics - C.N.M (avant Article 23)
+- SECTION II — Comité de réglementation et de recours- C.R.R (avant Article 33)
+- TITRE IV — CONTROLE (avant Article 47)
+- TITRE V — DISPOSITIONS COMMUNES (avant Article 51)
+- TITRE VI — DISPOSITIONS TRANSITOIRES ET FINALES (avant Article 54)
