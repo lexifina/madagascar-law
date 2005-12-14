@@ -1,0 +1,7 @@
+# Structure
+
+- CHAPITRE PREMIER — DEFINITION ET PRINCIPES (avant Article premier)
+- CHAPITRE II — OBJECTIFS (avant Article 7)
+- CHAPITRE III — STRATEGIES (avant Article 9)
+- CHAPITRE IV — PLAN D'ACTION (avant Article 13)
+- CHAPITRE V — DISPOSITIONS DIVERSES ET FINALES (avant Article 22)
