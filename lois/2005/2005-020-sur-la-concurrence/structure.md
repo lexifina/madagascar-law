@@ -1,0 +1,15 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — DE LA LOYAUTE DE LA CONCURRENCE (avant Article 7)
+- CHAPITRE III — DE LA LIBERTE DE CONCURRENCE (avant Article 11)
+- SECTION PREMIERE — de l'obligation de transparence (avant Article 11)
+- SECTION II — des pratiques anticoncurrentielles (avant Article 13)
+- CHAPITRE IV — DU CADRE INSTITUTIONNEL (avant Article 28)
+- SECTION PREMIERE — du ministère charge du commerce (avant Article 28)
+- SECTION II — du conseil de la concurrence (avant Article 29)
+- CHAPITRE V — DES INFRACTIONS (avant Article 44)
+- CHAPITRE VI — DE LA PROCEDURE (avant Article 51)
+- SECTION PREMIERE — de l'enquête (avant Article 52)
+- SECTION II — de la poursuite des infractions (avant Article 58)
+- CHAPITRE VII — DISPOSITIONS DIVERSES (avant Article 63)
