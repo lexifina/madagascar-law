@@ -1,0 +1,15 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DE L'ADOPTION (avant Article 16)
+- CHAPITRE PREMIER — DE L'ADOPTION SIMPLE (avant Article 18)
+- SECTION PREMIERE — des conditions (avant Article 18)
+- SECTION II — des effets (avant Article 25)
+- CHAPITRE II — DE L'ADOPTION PLENIERE (avant Article 30)
+- SECTION PREMIERE — des conditions relatives à l'adoptant (avant Article 33)
+- SECTION II — des conditions relatives à l'adopté (avant Article 36)
+- CHAPITRE III — DE LA PHASE DE L'ADOPTION PLENIERE (avant Article 45)
+- SECTION PREMIERE — de la phase administrative (avant Article 45)
+- SECTION II — de la phase judiciaire (avant Article 55)
+- SECTION III — des effets de l'adoption plénière (avant Article 66)
+- TITRE III — DISPOSITIONS FINALES (avant Article 74)
