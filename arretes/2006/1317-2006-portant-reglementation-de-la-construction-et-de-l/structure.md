@@ -1,0 +1,15 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- SECTION PREMIERE — De l'implantation d'une nouvelle station-service (avant Article 5)
+- SECTION II — Des réservoirs de stockage, fosses et accessoires (avant Article 7)
+- SECTION III — Des postes de distribution (avant Article 16)
+- SECTION IV — Du monde de fonctionnement (avant Article 17)
+- SECTION V — Des prescriptions incendie - épandage (avant Article 18)
+- SECTION VI — De l'électricité (avant Article 21)
+- SECTION VII — De la livraison de carburants (avant Article 22)
+- SECTION VIII — De la propreté des station-service (avant Article 24)
+- SECTION IX — De la protection environnementale (avant Article 25)
+- SECTION X — Des contrôles d'une station-service (avant Article 27)
+- TITRE II — DES DISPOSITIONSTRANSITOIRES (avant Article 34)
+- TITRE III — DES DISPOSITIONS FINALES (avant Article 36)
