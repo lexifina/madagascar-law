@@ -1,0 +1,16 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- SECTION PREMIERE — Définition (avant Article premier)
+- SECTION II — champ d'application (avant Article 2)
+- SECTION III — Gestion administrative de la propriété foncière privée non titrée (avant Article 3)
+- SECTION PREMIERE — De la demande de reconnaissance de droit de propriété (avant Article 5)
+- Paragraphe 1 — Des demandes collectives (avant Article 6)
+- Paragraphe 2 — Des demandes individuelles (avant Article 10)
+- SECTION II — De la procédure de reconnaissance (avant Article 11)
+- SECTION III — De la délivrance de certificat foncier (avant Article 13)
+- SECTION IV — Valeur juridique du certificat foncier (avant Article 14)
+- CHAPITRE IV — SANCTIONS (avant Article 23)
+- CHAPITRE V — REGLEMENT DES LITIGES ET CONTENTIEUX (avant Article 24)
+- CHAPITRE VI — DISPOSITIONS TRANSITOIRES (avant Article 26)
+- CHAPITRE VII — DISPOSITIONS FINALES (avant Article 27)
