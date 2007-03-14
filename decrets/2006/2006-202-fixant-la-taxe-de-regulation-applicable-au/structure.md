@@ -1,0 +1,4 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DISPOSITIONS TRANSITOIRES ET FINALES (avant Article 7)
