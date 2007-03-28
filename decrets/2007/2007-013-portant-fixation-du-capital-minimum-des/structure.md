@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — CAPITAL MINIMUM (avant Article premier)
+- TITRE II — MONTANT DES PARTS SOCIALES (avant Article 8)
+- TITRE III — DISPOSITIONS GENERALES ET TRANSITOIRES (avant Article 9)
