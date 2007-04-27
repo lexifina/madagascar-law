@@ -1,4 +1,5 @@
 # Article 137
 
-La loi de finances de l’Etat fixe annuellement la proportion de recettes de l’Etat devant revenir aux provinces autonomes conformément aux dispositions de l’article 82.3.III.
-Des mesures spéciales seront prises en faveur du développement des zones les moins avancées, y compris la constitution d’un fonds spécial de solidarité pour ces même zones.
+Les Collectivités territoriales décentralisées jouissent de l'autonomie financière.
+Elles élaborent et gèrent leur budget selon les principes applicables en matière de gestion des finances publiques.
+Les budgets des Collectivités territoriales décentralisées bénéficient de ressources de toutes natures.

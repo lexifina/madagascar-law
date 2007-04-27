@@ -1,4 +1,3 @@
 # Article 101
 
-Les magistrats du ministère public sont soumis à la subordination hiérarchique ; toutefois, dans leurs conclusions ou réquisitions orales, ils agissent selon leur intime conviction et conformément à la loi.
-Ils disposent de la police judiciaire dont ils dirigent et supervisent les activités.
+Le Président de la République communique avec le Parlement par un message qui ne donne lieu à aucun débat.

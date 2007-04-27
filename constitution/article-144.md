@@ -1,3 +1,4 @@
 # Article 144
 
-Le Président de la République actuel exerce, jusqu’au terme de son mandat, les fonctions dévolues au Président de la République par la présente Constitution révisée.
+La fonction délibérante est exercée par le Conseil régional dont les membres sont élus au suffrage universel direct et selon les conditions fixées par la loi et les règlements.
+Les Parlementaires sont membres de droit du Conseil régional.

@@ -1,3 +1,4 @@
 # Article 2
 
-Les provinces autonomes, adoptant chacune sa loi statutaire, sont Antananarivo, Antsiranana, Fianarantsoa, Mahajanga, Toamasina et Toliara.
+La République de Madagascar est organisée en Collectivités territoriales décentralisées, dont l'autonomie administrative et financière est garantie par la Constitution.
+Ces collectivités territoriales concourent avec l'Etat au développement de la nation.

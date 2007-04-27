@@ -1,7 +1,7 @@
 # Article 47
 
-L’élection du Président de la République a lieu trente jours au moins, et soixante jours au plus, avant l’expiration du mandat du Président en exercice.
-Dans les cas prévus aux articles 51 et 113 de la présente Constitution, ces délais courront après la constatation de la vacance par la Haute Cour Constitutionnelle.
-L’élection a lieu au premier tour à la majorité absolue des suffrages exprimés. Si celle-ci n’est pas obtenue, le Président de la République est élu au second tour à la majorité des suffrages exprimés parmi les deux candidats ayant recueilli le plus grand nombre de suffrages au premier tour. Le second tour a lieu trente jours au plus après la proclamation officielle des résultats du premier tour.
-En cas de décès d’un candidat avant un tour de scrutin ou s’il survient un autre cas de force majeure dûment constaté par la Haute Cour Constitutionnelle, l’élection est reportée à une nouvelle date dans les conditions et les modalités qui seront définies par une loi organique.
-Le Président en exercice reste en fonction jusqu’à l’investiture de son successeur dans les conditions prévues à l’article 48.
+L'élection du Président de la République a lieu trente jours au moins, et soixante jours au plus, avant l'expiration du mandat du Président en exercice.
+Dans les cas prévus aux articles 51 et 126 de la présente Constitution, ces délais courront après la constatation de la vacance par la Haute Cour Constitutionnelle.
+L'élection a lieu au premier tour à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue , le Président de la République est élu au second tour à la majorité des suffrages exprimés, parmi les deux candidats ayant recueilli le plus grand nombre de suffrages au premier tour. Le second tour a lieu trente jours au plus après la proclamation officielle des résultats du premier tour.
+En cas de décès d'un candidat avant un tour de scrutin ou s'il survient un autre cas de force majeure dûment constaté par la Haute Cour Constitutionnelle, l'élection est reportée à une nouvelle date dans les conditions et selon les modalités qui seront définies par une loi organique.
+Le Président en exercice reste en fonction jusqu'à l'investiture de son successeur dans les conditions prévues à l'article 48.

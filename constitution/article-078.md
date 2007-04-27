@@ -1,3 +1,4 @@
 # Article 78
 
-Les règles de fonctionnement du Sénat, sa composition ainsi que les modalités d’élection et de désignation de ses membres sont fixées par une loi organique.
+Le Sénat comprend, pour deux tiers, des membres élus en nombre égal pour chaque région et pour un tiers, des membres nommés par le Président de la République, en raison de leurs compétences particulières en matière juridique, économique, sociale et culturelle.
+La nomination peut être abrogée dans les mêmes formes pour des causes déterminantes. Le sénateur nouvellement nommé termine le mandat de son prédécesseur.

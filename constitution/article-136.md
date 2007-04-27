@@ -1,4 +1,4 @@
 # Article 136
 
-La province jouit de l’autonomie financière.
-Elle élabore et gère librement son budget selon les principes applicables en matière de gestion des finances publiques.
+Les Collectivités territoriales décentralisées assurent, avec le concours de l'Etat, la sécurité publique, la défense civile, l'administration et l'aménagement du territoire, le développement économique, l'amélioration du cadre de vie.
+Dans ces domaines, la loi détermine la répartition des compétences en considération des intérêts nationaux et des intérêts locaux.

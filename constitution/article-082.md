@@ -1,3 +1,3 @@
 # Article 82
 
-Les lois organiques et les lois ordinaires sont votées par le Parlement dans les conditions fixées par le présent chapitre.
+Les dispositions des articles 68 à 76 sont applicables au Sénat.

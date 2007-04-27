@@ -1,4 +1,6 @@
 # Article 90
 
-Dans les trente jours de sa nomination, le Premier Ministre présente son programme de mise en oeuvre de la politique générale de l’Etat à l’Assemblée nationale qui peut émettre des suggestions.
-Si, en cours d’exécution, le Gouvernement estime que des modifications fondamentales de ce programme s’avèrent nécessaires, le Premier Ministre soumet lesdites modifications à 1’Assemblée nationale qui peut émettre des suggestions.
+Tout projet ou proposition de loi est examiné en premier lieu par l'Assemblée devant laquelle il a été déposé puis transmis à l'autre Assemblée.
+La discussion a lieu successivement dans chaque Assemblée jusqu'à l'adoption d'un texte unique.
+Lorsque par suite d'un désaccord entre les deux Assemblées, un projet ou une proposition de loi n'a pu être adoptée après deux lectures par chaque Assemblée ou si le Gouvernement a déclaré l'urgence, après une seule lecture par chacune d'elle, le Premier Ministre a la faculté de provoquer la réunion d'une commission mixte paritaire chargée de proposer une texte sur les dispositions restant en discussion. Le texte élaboré par la commission mixte peut être soumis par le Gouvernement pour approbation aux deux Assemblées. Aucun amendement n'est recevable sauf accord du Gouvernement.
+Si la commission ne parvient pas à l'adoption d'un texte commun ou si ce texte n'est pas adopté dans les conditions prévues à l'article précédent, l'Assemblée nationale statue définitivement à la majorité absolue des membres la composant.

@@ -1,3 +1,4 @@
 # Article 95
 
-Le Président de la République peut dissoudre l’Assemblée nationale pour des causes déterminantes.
+A la première session ordinaire, le Gouvernement présente à l'Assemblée Nationale un rapport annuel d'exécution de son programme.
+La présentation sera suivie d'un débat.

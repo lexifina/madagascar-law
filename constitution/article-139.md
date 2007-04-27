@@ -1,4 +1,4 @@
 # Article 139
 
-Dans le respect du " Fihavanana ", en vue de l’examen des questions d’intérêt commun entre le Pouvoir central et une ou des provinces autonomes, entre deux ou plusieurs provinces autonomes, le Président de la République peut réunir une Conférence interprovinciale à laquelle participent notamment le Premier Ministre, les membres du Gouvernement, les Gouverneurs, les membres des Conseils de Gouvernorat intéressés. Les Présidents du Parlement et des Conseils provinciaux des provinces autonomes ou leurs représentants assistent de droit à la Conférence.
-Le Premier Ministre peut, sur délégation expresse du Président de la République, présider une Conférence interprovinciale.
+Les Collectivités territoriales décentralisées s'administrent librement par des assemblées qui règlent, par leurs délibérations, les affaires dévolues à leur compétence par la présente Constitution et par la loi.
+Ces délibérations ne peuvent pas être contraires aux dispositions constitutionnelles, législatives, et réglementaires.

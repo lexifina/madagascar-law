@@ -1,3 +1,3 @@
 # Article 5
 
-La capitale de la République de Madagascar est Antananarivo.
+La Capitale de la République de Madagascar est Antananarivo.

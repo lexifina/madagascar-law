@@ -1,0 +1,3 @@
+# Article 157
+
+L'Assemblée Nationale exerce ses fonctions jusqu'au terme de son mandat actuel.

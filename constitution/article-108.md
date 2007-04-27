@@ -1,4 +1,3 @@
 # Article 108
 
-La Cour de Cassation veille à l’application des lois par les juridictions de l’ordre judiciaire.
-Outre les compétences qui lui sont reconnues par les lois particulières, elle statue sur les pourvois en cassation formés contre les décisions rendues en dernier ressort par ces juridictions.
+L'exercice des fonctions de magistrat au sein des Cours et Tribunaux est incompatible avec toute activité au sein d'un parti politique, l'exercice de tout mandat public électif ou de toute autre activité professionnelle rémunérée, sauf les activités d'enseignement.

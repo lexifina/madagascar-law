@@ -1,7 +1,3 @@
 # Article 121
 
-Avant leur promulgation, les lois organiques et les ordonnances sont soumises par le Président de la République à la Haute Cour Constitutionnelle qui statue sur leur conformité à la Constitution. Une disposition jugée inconstitutionnelle ne peut être promulguée. Dans ce cas, le Président de la République peut décider, soit de promulguer les autres dispositions de la loi ou de l’ordonnance, soit de soumettre l’ensemble du texte à une nouvelle délibération du Parlement ou du Conseil des Ministres selon le cas, soit de ne pas procéder à la promulgation.
-Le règlement intérieur de chaque assemblée est soumis au contrôle de constitutionalité avant sa mise en application.
-Une disposition jugée inconstitutionnelle ne peut être appliquée.
-Aux même fins, les lois ordinaires peuvent être déférées à la Haute Cour Constitutionnelle avant leur promulgation par tout Chef d’institution ou le quart des membres composant l’une des Assemblées parlementaires.
-Dans les cas prévus ci-dessus, la saisine de la Haute Cour Constitutionnelle suspend le délai de promulgation des lois.
+Outre les attributions qui lui sont dévolues par des lois particulières, la Cour Suprême règle les conflits de compétence entre deux juridictions d'ordre différent.

@@ -1,3 +1,6 @@
 # Article 117
 
-L’organisation et la procédure à suivre devant la Haute Cour de Justice sont fixées par une loi organique.
+La Cour Suprême est chargée de veiller au fonctionnement régulier des juridictions de l'ordre judiciaire, administratif et financier. Elle comprend:
+- la Cour de Cassation;
+- le Conseil d'Etat;
+- la Cour des Comptes.

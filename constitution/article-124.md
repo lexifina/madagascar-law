@@ -1,4 +1,8 @@
 # Article 124
 
-En matière de contentieux électoral et de consultation populaire direct, la Haute Cour Constitutionnelle rend des arrêts. Dans les autres matières relevant de sa compétence, hors le cas prévu à l’article 123, elle rend des décisions.
-Les arrêts et décisions de la Haute Cour Constitutionnelle sont motivés ; ils ne sont susceptibles d’aucun recours. Ils s’imposent à tous les pouvoirs publics ainsi qu’aux autorités administratives et juridictionnelles.
+La Cour des Comptes:
+1°- juge les comptes des comptables publics;
+2°- contrôle l'exécution des Lois de finances et des budgets des organismes publics;
+3°- contrôle les comptes et la gestion des entreprises publiques;
+4°- statue en appel des jugements rendus en matière financière par les juridictions ou les organismes administratifs à caractère juridictionnel;
+5°- assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances.

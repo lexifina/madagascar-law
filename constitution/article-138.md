@@ -1,9 +1,5 @@
 # Article 138
 
-Les ressources d’une province autonome comprennent également :
-- le produit des impôts et taxes votés par son Conseil provincial et perçus directement au profit du budget de la province ; la loi détermine la nature et le taux maximum de ces impôts et taxes en tenant dûment compte des charges assumées par les provinces et de la charge fiscale globale imposée à la Nation ;
-- la part qui lui revient de droit sur le produit des impôts et taxes perçus au profit du budget de l’Etat ; cette part qui est prélevée automatiquement au moment de la perception est déterminée par la loi suivant un pourcentage qui tient compte des charges assumées globalement et individuellement par les provinces autonomes, du niveau de leurs ressources propres, de leur capacité contributive propre, de façon à établir une juste répartition entre les provinces autonomes et assurer un développement économique et social équilibré entre toutes les provinces autonomes sur l’ensemble du territoire national ;
-- le produit des subventions affectées ou non affectées consenties par le budget de l’Etat à l’ensemble ou à chacune des provinces autonomes pour tenir compte de leur situation particulière, ou pour compenser, pour ces provinces autonomes, les charges entraînées par des programmes ou projets décidés par l’Etat et mis en oeuvre par les provinces autonomes ;
-- le produit des emprunts contractés par la province, soit sur le marché intérieur, soit à l’extérieur après accord des autorités monétaires et financières nationales, avec ou sans garantie de l’Etat ;
-- le produit des aides extérieures non remboursables et le produit des dons à la province autonome ;
-- les revenus de leur patrimoine.
+Les Collectivités territoriales décentralisées de la République sont les Régions et les Communes.
+La création et la délimitation des Collectivités territoriales décentralisées doivent répondre à des critères d'homogénéité géographique, économique, sociale et culturelle. Elles sont décidées par la loi.
+La dénomination de chaque Collectivité territoriale décentralisée peut être modifiée par décret en Conseil des Ministres après consultation des autorités régionales concernées.

@@ -1,3 +1,0 @@
-# Article 134. 1
-
-Le Conseil Economique et Social, saisi par le gouverneur donne son avis sur les projets ou propositions de texte et sur tout problème à caractère économique social ou environnemental qui lui sont soumis.

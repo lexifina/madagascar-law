@@ -1,4 +1,4 @@
 # Article 99
 
-Dans leurs activités juridictionnelles, les magistrats du siège, les juges et les assesseurs sont indépendants et ne sont soumis qu’à la Constitution et à la loi.
-A ce titre, hors les cas prévus par la loi et sous réserve du pouvoir disciplinaire, ils ne peuvent, en aucune manière, être inquiétés pour les actes accomplis dans 1’exercice de leurs fonctions.
+Le Parlement, par un vote à la majorité absolue des membres composant chaque Assemblée, peut déléguer son pouvoir de légiférer au Président de la République pendant un temps limité et pour un objet déterminé.
+La délégation de pouvoir autorise le Président de la République à prendre, par ordonnance en Conseil des Ministres, des mesures de portée générale sur des matières relevant du domaine de la loi.

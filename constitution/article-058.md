@@ -1,5 +1,4 @@
 # Article 58
 
-Le Président de la République peut prononcer la dissolution de l’Assemblée nationale dans les conditions prévues par 1’article 95 ci-dessous.
-Dans ce cas, il est procédé à 1’élection de nouveaux députés dans les conditions qui seront déterminées par une loi organique.
-Il ne peut être procédé à une nouvelle dissolution dans l’année qui suit cette élection
+Le Président de la République promulgue les lois dans les trois semaines qui suivent la transmission par l'Assemblée Nationale de la loi définitivement adoptée.
+Avant l'expiration de ce délai, le Président de la République peut demander au Parlement une nouvelle délibération de la loi ou de certains de ses articles. Cette nouvelle délibération ne peut être refusée.

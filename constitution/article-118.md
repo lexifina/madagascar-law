@@ -1,7 +1,4 @@
 # Article 118
 
-Outre les questions qui lui sont renvoyées par d’autres articles de la Constitution, la Haute Cour Constitutionnelle, dans les conditions fixées par une loi organique :
-- statue sur la conformité à la Constitution des traités, des lois, des ordonnances, des conventions interprovinciales et des règlements autonomes édictés par le Pouvoir central ;
-- règle les conflits de compétence entre deux ou plusieurs Institutions de l’Etat ou entre l’Etat et une ou plusieurs provinces autonomes ou entre deux ou plusieurs provinces autonomes ;
-- statue sur la conformité à la Constitution et aux lois organiques, des lois statutaires et des lois adoptées par les provinces autonomes ;
-- statue sur le contentieux des opérations de référendum, de l’élection du Président de la République et des élections des députés et sénateurs.
+Le Premier Président et le Procureur Général de la Cour Suprême sont les chefs de cette haute juridiction.
+Ils sont respectivement nommés en Conseil des Ministres sur proposition du Ministre chargé de la Justice après consultation du Conseil Supérieur de la Magistrature.

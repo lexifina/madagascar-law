@@ -1,5 +1,3 @@
 # Article 80
 
-Le Sénat se réunit de plein droit pendant les sessions de l’Assemblée nationale.
-Il peut être également réuni en session spéciale sur convocation du Gouvernement. Son ordre du jour est alors limitativement fixé par le décret de convocation pris en Conseil des Ministres
-Lorsque l’Assemblée nationale ne siège pas, le Sénat ne peut discuter que des questions dont le Gouvernement l’a saisi pour avis, à l’exclusion de tout projet législatif.
+Le Sénat est consulté par le Gouvernement pour donner son avis sur les questions économiques, sociales et d'organisation territoriale.

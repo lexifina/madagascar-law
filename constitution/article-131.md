@@ -1,9 +1,3 @@
 # Article 131
 
-La fonction exécutive est exercée par un Conseil de Gouvernorat composé d’un Gouverneur et de Commissaires Généraux.
-Le Gouverneur est élu par le Conseil provincial parmi et hors de ses membres, pour un mandat de cinq ans renouvelable.
-Il est le Chef de la province autonome.
-A ce titre, il assure les fonctions dévolues au Chef de l’Exécutif par la loi statutaire de la province.
-Le Gouverneur nomme les Commissaires Généraux et met fin à leurs fonctions.
-Le nombre des Commissaires Généraux est limité à douze au maximum.
-Le Gouverneur est le chef de l’Administration dans sa province.
+Les dispositions de la présente Constitution ne font pas obstacle à la ratification du statut de la Cour Pénale Internationale fait à Rome le 17 juillet 1998, et à l'exécution des obligations en découlant dans les conditions prévues dans ledit statut.

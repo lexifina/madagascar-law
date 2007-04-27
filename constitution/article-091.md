@@ -1,5 +1,4 @@
 # Article 91
 
-Le Premier Ministre, après délibération en Conseil des Ministres, peut engager la responsabilité de son Gouvernement en posant la question de confiance.
-Le vote ne peut avoir lieu que quarante-huit heures après le dépôt de la question. S’il est mis en minorité par la majorité absolue des membres composant l’Assemblée nationale le Gouvernement remet sa démission au Président de la République.
-Le Président de la République nomme un Premier Ministre, conformément à l’article 53.
+Les matières autres que celles qui sont du domaine de la loi ont un caractère réglementaire. Les textes de forme législative intervenus en ces matières peuvent être modifiés par décret pris après avis de la Haute Cour Constitutionnelle.
+Ceux de ces textes qui interviendraient après l'entrée en vigueur de la présente Constitution ne pourront être modifiés par décret que si la Haute Cour Constitutionnelle a déclaré qu'ils ont un caractère réglementaire en vertu de l'alinéa précédent.

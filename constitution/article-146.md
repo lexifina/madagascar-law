@@ -1,4 +1,4 @@
 # Article 146
 
-La juridiction constitutionnelle actuelle exerce les attributions dévolues par la Constitution révisée à la nouvelle Haute Cour Constitutionnelle, jusqu’à la mise en place de cette dernière.
-Si l’effectif de la juridiction constitutionnelle actuelle ne lui permet pas de fonctionner valablement, il peut être complété par décret pris en Conseil des Ministres.
+Les Communes sont des Collectivités territoriales décentralisées de base.
+Les Communes sont urbaines ou rurales en considération de leur assiette démographique réduite ou non à une agglomération urbanisée.

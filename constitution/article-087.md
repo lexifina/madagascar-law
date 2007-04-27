@@ -1,5 +1,7 @@
 # Article 87
 
-Le Gouvernement, en engageant sa responsabilité dans les conditions prévues à l’article 91 ci-dessous, peut exiger de chacune des Assemblées de se prononcer par un seul vote sur tout ou partie des dispositions des textes en discussion :
-- lors des sessions extraordinaires, à condition que ces textes aient été déposés dans les quarante-huit heures de l’ouverture de la session ;
-- dans les huit derniers jours de chacune des sessions ordinaires.
+Dans le cadre de la loi organique applicable en la matière, la loi de finances:
+1°- détermine, pour un exercice, la nature, le montant et l'affectation des ressources et des charges de l'Etat ainsi que l'équilibre budgétaire et financier qui en résulte compte tenu des contraintes d'ordre macroéconomique;
+2°- détermine la proportion des recettes publiques devant revenir à l'Etat, aux Collectivités territoriales décentralisées et aux Collectivités publiques ainsi que la nature et le taux maximum des impôts et taxes perçus directement au profit du budget desdites Collectivités.
+La loi précise les conditions des emprunts et décide la création éventuelle de fonds de réserve.
+3°- Les lois de programme déterminent les objectifs de l'action de l'Etat en matière économique, sociale et d'aménagement du territoire.

@@ -1,5 +1,5 @@
 # Article 6
 
-La souveraineté appartient au peuple, source de tout pouvoir, qui l’exerce par ses représentants élus au suffrage universel direct ou indirect ou par la voie du référendum. Aucune fraction du peuple, ni aucun individu ne peut s’attribuer l’exercice de la souveraineté.
-Sont électeurs dans les conditions déterminées par la loi, tous les nationaux des deux sexes, jouissant de leurs droits civils et politiques.
-La qualité d’électeur ne peut se perdre que par une décision. de justice devenue définitive.
+La souveraineté appartient au peuple, source de tout pouvoir, qui l'exerce par ses représentants élus au suffrage universel direct ou indirect ou par la voie du référendum. Aucune fraction du peuple, ni aucun individu ne peut s'attribuer l'exercice de la souveraineté.
+Sont électeurs dans les conditions déterminées par la loi tous les nationaux des deux sexes, jouissant de leurs droits civils et politiques.
+La qualité d'électeur ne peut se perdre que par une décision de justice devenue définitive.

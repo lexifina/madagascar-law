@@ -1,4 +1,3 @@
 # Article 147
 
-La Cour Suprême actuelle avec ses composantes judiciaire, administrative et financière, conformément à la législation en vigueur, exerce les attributions dévolues par la Constitution révisée à nouvelle Cour Suprême, jusqu’à la mise en place de cette dernière.
-Toutefois, l’effectif de la Formation de contrôle actuelle pourra être complété par décret du Président la République.
+Les Communes concourent au développement économique, social et culturel de leur ressort territorial. Les compétences de la commune tiennent compte essentiellement des principes constitutionnels et légaux ainsi que du principe de proximité, de promotion et de défense des intérêts des habitants.

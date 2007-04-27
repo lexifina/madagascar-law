@@ -1,8 +1,0 @@
-# Article 135.2
-
-La loi de l’Etat prime la loi des provinces autonomes.
-Dans les autres domaines non visés aux articles 135 et 135.1, les provinces autonomes ont le pouvoir de légiférer aussi longtemps et pour autant que l’Etat ne fait pas usage de son droit de légiférer.
-Toutefois, l’Etat intervient lorsque apparaîtra la nécessité de :
-- régler une question non résolue par les provinces autonomes ;
-- éviter qu’une loi d’une province autonome n’affecte les intérêts d’une autre province autonome ;
-- assurer la protection de l’unité juridique ou économique et l’homogénéité des conditions de vie au-delà des limites d’une province autonome.

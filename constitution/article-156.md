@@ -1,0 +1,4 @@
+# Article 156
+
+Le Président de la République est habilité à légiférer par voie d'ordonnance en Conseil des Ministres, pour prendre les mesures d'ordre législatif nécessaires à la mise en place des Institutions ou Collectivités territoriales décentralisées prévues par la présente Constitution révisée.
+Les Institutions et Collectivités territoriales décentralisées prévues par la présente Constitution révisée seront mises en place sous la responsabilité du Gouvernement dans un délai de trente mois à compter de l'entrée en vigueur desdites ordonnances.

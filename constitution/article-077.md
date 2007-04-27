@@ -1,3 +1,3 @@
 # Article 77
 
-Le Sénat comprend, pour deux tiers, des membres élus en nombre égal dans chaque province autonome et pour un tiers, des membres nommés par le Président de la République, en raison de leurs compétences particulières en matière juridique, économique, sociale et culturelle.
+Les membres du Sénat portent le titre de Sénateur. Leur mandat est de cinq ans.

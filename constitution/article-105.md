@@ -1,7 +1,4 @@
 # Article 105
 
-La Cour Suprême est chargée de veiller au fonctionnement régulier des juridictions de l’ordre judiciaire, administratif et financier.
-Elle comprend :
-- la Cour de Cassation ;
-- le Conseil d’Etat ;
-- la Cour des Comptes.
+Dans leurs activités juridictionnelles, les magistrats du siège, les juges et les assesseurs sont indépendants et ne sont soumis qu'à la Constitution et à la Loi.
+A ce titre, hors les cas prévus par la loi et sous réserve du pouvoir disciplinaire, ils ne peuvent en aucune manière, être inquiétés pour les actes accomplis dans l'exercice de leurs fonctions, sauf dans les cas de faute ou d'incompétence notoire constatée par le Conseil Supérieur de la Magistrature.

@@ -1,3 +1,6 @@
 # Article 62
 
-Les fonctions de membre du Gouvernement sont incompatibles avec l’exercice de tout mandat public électif, de toute fonction de représentation professionnelle, de tout emploi public ou de toute autre activité professionnelle rémunérée.
+Le Gouvernement est composé du Premier Ministre et des Ministres.
+Il met en oeuvre la politique générale de l'Etat.
+Il est responsable devant l'Assemblée nationale dans les conditions prévues aux articles 94 et 97 ci-dessous.
+Le Gouvernement dispose de l'Administration d'Etat.

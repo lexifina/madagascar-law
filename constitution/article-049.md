@@ -1,3 +1,3 @@
 # Article 49
 
-Les fonctions de Président de la République sont incompatibles avec toute fonction publique élective, toute autre activité professionnelle et toute activité au sein d’un parti politique ou d’une organisation politique.
+Les fonctions de Président de la République sont incompatibles avec toute fonction publique élective, toute autre activité professionnelle et toute activité au sein d'un parti politique.

@@ -1,3 +1,3 @@
 # Article 36
 
-La participation de chaque citoyen aux dépenses publiques doit être progressive et calculée en fonction de sa capacité contribuable.
+La participation de chaque citoyen aux dépenses publiques doit être progressive et calculée en fonction de sa capacité contributive.

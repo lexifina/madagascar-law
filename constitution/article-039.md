@@ -1,4 +1,4 @@
 # Article 39
 
-Toute personne a le devoir de respecter l’environnement.
-L’Etat, avec la participation des provinces autonomes, assure la protection, la conservation et la valorisation de l’environnement par des mesures appropriées.
+Toute personne a l'obligation de respecter les valeurs culturelles, les biens publics et l'environnement.
+L'Etat et les Collectivités territoriales décentralisées assurent la protection, la conservation et la valorisation de l'environnement par des mesures appropriées.

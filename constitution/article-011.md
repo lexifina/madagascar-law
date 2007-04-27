@@ -1,5 +1,5 @@
 # Article 11
 
-Tout individu a droit à l’information.
-L’information sous toutes ses formes n’est soumise à aucune contrainte préalable.
-La loi et la déontologie professionnelle déterminent les conditions de la liberté et de sa responsabilité.
+Tout individu a droit à l'information.
+L'information sous toutes ses formes n'est soumise à aucune contrainte préalable.
+La loi et la déontologie professionnelle déterminent les conditions de sa liberté et de sa responsabilité.

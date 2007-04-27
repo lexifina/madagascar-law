@@ -1,3 +1,3 @@
 # Article 142
 
-Le Président de la République, en Conseil des Ministres, peut décider de soumettre la révision de la Constitution à référendum.
+Dans les Régions, les fonctions exécutive et délibérante sont exercées par des organes distincts.

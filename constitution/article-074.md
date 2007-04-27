@@ -1,3 +1,4 @@
 # Article 74
 
-La nouvelle Assemblée nationale se réunit de plein droit en session spéciale le deuxième mardi qui suit la proclamation des résultats de son élection pour procéder à la constitution de son bureau. La session est close après épuisement de l’ordre du jour.
+Les séances de l'Assemblée Nationale sont publiques. Il en est tenu procès-verbal dont la publicité est assurée dans les conditions prévues par la loi.
+L'Assemblée Nationale siège à huis clos à la demande du Gouvernement ou du quart de ses membres. Il est dressé procès - verbal des débats.

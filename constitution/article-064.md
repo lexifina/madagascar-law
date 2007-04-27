@@ -1,7 +1,19 @@
 # Article 64
 
-Le Premier Ministre préside le Conseil de Gouvernement.
-En Conseil de Gouvernement :
-Il fixe le programme de mise en oeuvre de la politique générale de l’Etat et arrête les mesures à prendre pour en assurer l’exécution ;
-Il met en oeuvre les programmes nationaux de développement économique et social ainsi que celui de l’aménagement du territoire, préalablement élaborés conjointement avec les autorités des provinces autonomes.
-Il exerce les autres attributions pour lesquelles la consultation du Gouvernement est obligatoire en vertu de la présente Constitution et des lois particulières.
+Le Premier Ministre, Chef du Gouvernement:
+1°- conduit la politique générale de l'Etat;
+2°- a autorité sur les membres du Gouvernement dont il dirige l'action, et est responsable de la coordination des activités des départements ministériels ainsi que de la mise en oeuvre de tout programme national de développement;
+3°- a l'initiative des lois;
+4°- arrête les projets de lois à soumettre à la délibération du Conseil des Ministres et à déposer sur le bureau de l'une des deux Assemblées;
+5°- assure l'exécution des lois;
+6°- exerce le pouvoir réglementaire sous réserve des dispositions de l'article 54 alinéa 3;
+7°- veille à l'exécution des décisions de justice;
+8°- saisit, en tant que de besoin, les organes de contrôle de l'Administration et s'assure du bon fonctionnement des services publics, de la bonne gestion des finances des collectivités publiques et des organismes publics de l'Etat;
+9°- assure la sécurité, la paix et la stabilité sur toute l'étendue du territoire national dans le respect de l'unité nationale; à cette fin, il dispose de toutes les forces chargées de la police, du maintien de l'ordre, de la sécurité intérieure et de la défense;
+10°- préside le Comité Interministériel de la Défense qui est chargé de la mise en oeuvre de la politique générale de défense;
+11°- supplée le Président de la République, en cas d'absence, dans la présidence du Conseil Supérieur de la Défense Nationale;
+12°- est le Chef de l'Administration;
+13°- nomme aux emplois civils et militaires ainsi qu'à ceux des organismes relevant de l'Etat, sous réserve des dispositions de l'article 54 alinéa 4.
+Il peut déléguer certains de ses pouvoirs aux membres du Gouvernement avec faculté de subdélégation.
+Il assure le développement équilibré de toutes les régions.
+Il peut, sur délégation expresse du Président de la République et sur un ordre du jour déterminé, présider le Conseil des Ministres.

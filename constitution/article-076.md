@@ -1,3 +1,3 @@
 # Article 76
 
-Les membres du Sénat portent le titre de Sénateurs de Madagascar. Leur mandat est de six ans.
+Les règles relatives au fonctionnement de l'Assemblée Nationale sont fixées dans leurs principes généraux par une loi organique et dans leurs modalités par son règlement intérieur. Le règlement intérieur est publié au Journal officiel de la République.

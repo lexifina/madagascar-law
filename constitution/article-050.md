@@ -1,3 +1,3 @@
 # Article 50
 
-L’empêchement temporaire du Président de la République peut être déclaré par la Haute Cour Constitutionnelle par le Parlement statuant par vote séparé de chacune des assemblées à la majorité des deux tiers de ses membres pour cause d’incapacité physique ou mentale d’exercer ses fonctions, dûment établie.
+L'empêchement temporaire du Président de la République peut être déclaré par la Haute Cour Constitutionnelle, saisie par le Parlement, statuant par vote séparé de chacune des Assemblées à la majorité des deux tiers de ses membres, pour cause d'incapacité physique ou mentale d'exercer ses fonctions dûment établie.

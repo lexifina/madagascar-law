@@ -1,4 +1,0 @@
-# Article 135.4
-
-Les provinces autonomes assurent avec le concours du pouvoir central, la sécurité publique, la défense civile, l’administration et l’aménagement du territoire, le développement économique, l’amélioration du cadre de vie.
-Dans ces domaines, la loi détermine la répartition des compétences en considération des intérêts nationaux et des intérêts locaux.
