@@ -1,0 +1,4 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE III — GUIDE DE BONNES PRATIQUES (avant Article 9)
