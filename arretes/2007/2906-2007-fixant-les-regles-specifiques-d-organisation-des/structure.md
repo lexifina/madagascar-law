@@ -1,0 +1,4 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE III — DISPOSITIONS FINALES (avant Article 6)
