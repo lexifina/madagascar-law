@@ -1,0 +1,5 @@
+# Structure
+
+- CHAPITRE PREMIER — DE LA CREATION ET DES ATTRIBUTIONS (avant Article premier)
+- CHAPITRE II — DE L'ORGANISATION (avant Article 6)
+- CHAPITRE III — DU FONCTIONNEMENT (avant Article 11)
