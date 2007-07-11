@@ -1,0 +1,39 @@
+# Visas
+
+REPOBLIKAN'I MADAGASIKARA
+
+Tanindrazana-Fahafahana-Fahamarinana
+
+MINISTERE DES TRANSPORTS ET DU TOURISME
+
+ARRETE N° 6112/2007
+
+Portant régularisation de l'ouverture des formations maritimes
+
+dispensées à l'Ecole Nationale d'Enseignement Maritime
+
+de Mahajanga pour l'année 2006.
+
+LE MINISTRE DES TRANSPORTS ET DU TOURISME,
+
+Vu la Constitution ;
+
+Vu la Loi n° 94-034 du 25 Janvier 1995 autorisant la ratification de la Convention Internationale STCW de 1978 sur les normes de formation des gens de mer, de délivrance des brevets et de veille ;
+
+Vu la Loi n° 99-028 du 03 Février 2000 portant refonte du Code Maritime ;
+
+Vu le Décret N° 74-253 du 16 Août 1974 fixant le statut et l'organisation de l'Ecole Nationale d'Enseignement Maritime de Mahajanga ;
+
+Vu le Décret n°2001-631 du 11 Juillet 2001 fixant l'organisation générale de la formation professionnelle des gens de mer ;
+
+Vu le Décret n° 2007-022 du 20 Janvier 2007 portant nomination du Premier Ministre, Chef du Gouvernement ;
+
+Vu le Décret n° 2007-025 du 25 Janvier 2007, complété par le Décret N°2007-120 du 19 Février 2007, portant nomination des membres du Gouvernement ;
+
+Vu l'Arrêté n°5809/2001 du 16 Mai 2001 portant publication des amendements de 1995 et 1997 à la Convention Internationale de 1978 sur les normes de formation de gens de mer, de délivrance de brevets et de veille ;
+
+Vu l'Arrêté N°9784/2001 du 27 Août 2001 fixant les conditions de délivrance des agréments des établissements;
+
+Vu les Arrêtés N°9785/2001 du 27 Août 2001, portant agrément de l'Ecole Nationale d'Enseignement Maritime (ENEM) de Mahajanga en tant qu'établissement de formation maritime et ses modificatifs.
+
+A R R E T E :
