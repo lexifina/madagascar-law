@@ -1,0 +1,7 @@
+# Structure
+
+- TITRE I — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — CONDITIONS GÉNÉRALES D'ADMISSION (avant Article 4)
+- TITRE III — LA SCOLARITE (avant Article 15)
+- TITRE IV — EVALUATION DE LA FORMATION (avant Article 20)
+- TITRE VI — DISPOSITIONS FINALES (avant Article 26)
