@@ -1,0 +1,8 @@
+# Structure
+
+- TITRE I — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — CONDITIONS GÉNÉRALES D'ADMISSION (avant Article 5)
+- TITRE III — SCOLARITE (avant Article 17)
+- TITRE IV — EVALUATION (avant Article 26)
+- TITRE V — DIPLOME DE LICENCE ET MASTER EN NUTRITION (avant Article 31)
+- TITRE VI — DISPOSITIONS FINALES (avant Article 33)
