@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE I — ORGANISATION DU CONCOURS (avant Article 2)
+- TITRE II — DISPOSITION PARTICULIERE (avant Article 16)
+- TITRE III — DISPOSITIONS DIVERSES (avant Article 17)
