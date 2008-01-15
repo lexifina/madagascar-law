@@ -1,0 +1,5 @@
+# Structure
+
+- CHAPITRE PREMIER — DE LA COMMISSION NATIONALE (avant Article premier)
+- CHAPITRE II — DE LA COMMISSION AD HOC (avant Article 5)
+- CHAPITRE III — DISPOSITIONS TRANSITOIRES (avant Article 10)
