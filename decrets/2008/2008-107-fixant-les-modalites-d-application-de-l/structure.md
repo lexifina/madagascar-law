@@ -1,0 +1,15 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — DE LA PRESENTATION DES CANDIDATURES (avant Article 7)
+- SECTION PREMIERE — Des déclarations et des dossiers de candidature (avant Article 7)
+- SECTION II — De l'enregistrement des candidatures (avant Article 12)
+- CHAPITRE III — DES OPERATIONS ELECTORALES (avant Article 20)
+- SECTION PREMIERE — De la campagne électorale (avant Article 20)
+- Sous-section premier — Autorisation de faire campagne (avant Article 21)
+- Sous-section 2 — Emplacement d'affichage électoral (avant Article 25)
+- SECTION II — Des bulletins de vote et des enveloppes électorales (avant Article 30)
+- SECTION III — Des bureaux de vote (avant Article 44)
+- SECTION IV — Du port de badge (avant Article 46)
+- CHAPITRE IV — DISPOSITIONS DIVERSES (avant Article 52)
+- CHAPITRE V — DISPOSITIONS FINALES (avant Article 62)
