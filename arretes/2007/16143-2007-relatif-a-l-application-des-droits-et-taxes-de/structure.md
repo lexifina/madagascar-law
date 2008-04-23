@@ -1,0 +1,7 @@
+# Structure
+
+- TITRE PREMIER — DEFINITIONS (avant Article premier)
+- TITRE II — POIDS IMPOSABLES (avant Article 2)
+- TITRE III — TAXATION DES CONTENANTS ET EMBALLAGES (avant Article 3)
+- TITRE IV — VERIFICATION DES MARCHANDISES (avant Article 4)
+- TITRE V — DISPOSITIONS FINALES (avant Article 7)
