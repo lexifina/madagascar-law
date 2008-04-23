@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — PRINCIPES GENERAUX (avant Article 2)
+- TITRE II — PRINCIPES PEDAGOGIQUES (avant Article 4)
+- TITRE III — MODALITES D'APPLICATION (avant Article 7)
