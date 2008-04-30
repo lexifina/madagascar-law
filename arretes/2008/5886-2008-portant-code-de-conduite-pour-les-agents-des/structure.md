@@ -1,0 +1,16 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES Section I Définition (avant Article premier)
+- TITRE II — DES VALEURS ET DES PRINCIPES GENERAUX C h a p i t r e p r e m i e r Des valeurs qui sous-tendent le Code de conduite (avant Article 3)
+- Section II De l ’engagement de l'Administration (avant Article 9)
+- Section III De la cessation de fonctions (avant Article 12)
+- Section IV De la relation avec les anciens agents des douanes (avant Article 15)
+- TITRE III — ATTITUDES ET COM PORTEM ENTS AU SEIN DE L ’ADM INISTRATION DES DOUANES Section I De l ’exécution du service (avant Article 17)
+- Section II De la hiérarchie (avant Article 20)
+- Section III De l ’incompatibilité (avant Article 27)
+- TITRE IV — ATTITUDES ET COMPORTEM ENTS ENVERS LES AGENTS DES AUTRES ADM INISTRATIONS (avant Article 30)
+- TITRE V — ATTITUDES ET COM PORTEM ENTS ENVERS LES USAGERS Section I De la prestation (avant Article 32)
+- Section II Des réactions face aux offres d ’avantages indus (avant Article 34)
+- Section III De l ’influcence des autorités officielles (avant Article 36)
+- Section IV Du conflit d'intérêts (avant Article 37)
+- TITRE VI — DISPOSITIONS FINALES (avant Article 39)
