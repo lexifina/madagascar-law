@@ -1,0 +1,6 @@
+# Structure
+
+- TITRE PREMIER — DE LA CREATION ET DES ATTRIBUTIONS (avant Article premier)
+- TITRE II — DE L'ORGANISATION (avant Article 7)
+- TITRE III — DU FONCTIONNEMENT (avant Article 8)
+- TITRE IV — DES RESSOURCES ET DES DEPENSES (avant Article 15)
