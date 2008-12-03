@@ -1,0 +1,18 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE PREMIER — OBJET (avant Article premier)
+- CHAPITRE II — STATUT (avant Article 2)
+- TITRE II — ORGANISATION DE L'ARTEC (avant Article 3)
+- SECTION II — Fonctionnement (avant Article 9)
+- SECTION III — Attributions et pouvoirs du conseil d'administration (avant Article 12)
+- SECTION IV — DE LA CELLULE DE STRATEGIE (avant Article 15)
+- SECTION II — Mandat et conditions de révocation (avant Article 19)
+- SECTION III — contraintes et incompatibilités (avant Article 21)
+- SECTION IV — Attributions du Directeur Général (avant Article 22)
+- SECTION V — De l'organe de règlement des différends (avant Article 24)
+- CHAPITRE PREMIER — ATTRIBUTIONS DE L'ARTEC (avant Article 27)
+- CHAPITRE II — GESTION DE L'ARTEC (avant Article 29)
+- CHAPITRE III — RESSOURCES ET EMPLOIS DE L'ARTEC (avant Article 33)
+- CHAPITRE IV — COMMISSION D'EXAMEN DES MARCHES (avant Article 35)
+- CHAPITRE V — DISPOSITIONS TRANSITOIRES ET FINALES (avant Article 36)
