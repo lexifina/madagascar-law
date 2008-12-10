@@ -1,0 +1,16 @@
+# Structure
+
+- CHAPITRE PREMIER — LA BASE DE DONNEES ET SA GESTION (avant Article 2)
+- SECTION PREMIERE — Le registre permanent (avant Article 3)
+- SECTION II — Le registre des détenteurs (avant Article 6)
+- SECTION III — Le registre annuel (avant Article 9)
+- SECTION IV — Le registre opérationnel (avant Article 12)
+- CHAPITRE II — MODALITES DE GESTION DES LICENCES ET DES UNITES D'ENGINS DE PECHE (avant Article 15)
+- CHAPITRE III — DE L'AUTORISATION ANNUELLE (avant Article 19)
+- SECTION PREMIERE — Conditions de délivrance de l'autorisation annuelle (avant Article 19)
+- SECTION II — Dossier de demande d'autorisation annuelle (avant Article 21)
+- SECTION III — Visite de conformité (avant Article 24)
+- SECTION IV — De la délivrance de l'autorisation annuelle (avant Article 27)
+- SECTION V — De la modification de l'autorisation annuelle (avant Article 30)
+- SECTION VI — De la modification de la déclaration de répartition (avant Article 33)
+- CHAPITRE IV — TRANSMISSION DES DONNEES STATISTIQUES (avant Article 36)
