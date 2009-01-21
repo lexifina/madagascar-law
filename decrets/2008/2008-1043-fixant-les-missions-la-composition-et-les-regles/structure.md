@@ -1,0 +1,7 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — MISSIONS (avant Article 3)
+- CHAPITRE III — COMPOSITION (avant Article 4)
+- CHAPITRE IV — REGLES DE FONCTIONNEMENT (avant Article 8)
+- CHAPITRE V — DISPOSITIONS DIVERSES (avant Article 11)
