@@ -1,0 +1,7 @@
+# Signatures
+
+Antananarivo, le 12 décembre 2008
+
+Le Ministre de l'Economie, du Commerce et de l'Industrie,
+
+Ivohasina RAZAFIMAHEFA
