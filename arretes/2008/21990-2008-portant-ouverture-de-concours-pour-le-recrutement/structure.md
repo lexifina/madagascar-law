@@ -1,0 +1,4 @@
+# Structure
+
+- CHAPITRE PREMIER — ORGANISATION DU CONCOURS (avant Article 2)
+- CHAPITRE II — DISPOSITIONS DIVERSES (avant Article 15)
