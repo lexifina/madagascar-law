@@ -1,0 +1,18 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- SECTION PREMIERE — Définition (avant Article premier)
+- SECTION II — Champ d'application (avant Article 3)
+- TITRE II — DES VALEURS ET DES REGLES QUI SOUS-TENDENT LE CODE DE CONDUITE (avant Article 4)
+- SECTION PREMIERE — Des valeurs (avant Article 4)
+- SECTION II — De la cessation de fonction (avant Article 9)
+- TITRE III — ATTITUDES ET COMPORTEMENTS DANS L'EXERCICE DE SA FONCTION (avant Article 11)
+- SECTION PREMIERE — Du Professionnalisme (avant Article 11)
+- SECTION II — Des relations de travail (avant Article 13)
+- SECTION III — Du respect des règles déontologiques (avant Article 14)
+- TITRE IV — ATTITUDES ET COMPORTEMENTS ENVERS LES USAGERS DE L'ADMINISTRATION (avant Article 15)
+- SECTION PREMIERE — De la prestation (avant Article 15)
+- SECTION II — Des réactions face aux offres d'avantages indus (avant Article 17)
+- SECTION III — Des influences des autorités et des élus (avant Article 19)
+- SECTION IV — Du conflit d'intérêts (avant Article 20)
+- TITRE VI — DISPOSITIONS FINALES (avant Article 23)
