@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DES ATTRIBUTIONS (avant Article 5)
+- TITRE III — DISPOSITIONS DIVERSES ET FINALES (avant Article 10)
