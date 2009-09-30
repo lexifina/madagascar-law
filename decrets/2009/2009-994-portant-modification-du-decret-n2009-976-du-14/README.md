@@ -1,0 +1,9 @@
+# Décret n° 2009-994 du 27 juillet 2009 portant modification du décret n°2009-976 du 14 juillet 2009 modifiant le décret n°2008-971 du 20 octobre 2008 portant modification de certaines dispositions de l'ordonnance n°75-024 du 17 octobre 1975 portant création de la Société Jiro sy Rano Malagasy (JIRAMA) et fixant les statuts de ladite Société
+
+- Source : CNLEGIS (Direction du CNLEGIS, Secrétariat général du Gouvernement), fiche 40137, <https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2009-994#id=40137>
+- Date du texte : 2009-07-27 ; J.O. n° 3272 du 2009-09-28, p. 3037
+- En vigueur : 2009-09-30 (Ordonnance n° 62-041 du 19 septembre 1962, art. 3 : « un jour franc après l’arrivée du Journal officiel » ; jour d’arrivée non imprimé : date du JO + 2 jours, la plus tôt possible)
+- État selon CNLEGIS : En vigueur
+- Texte : texte HTML publié par CNLEGIS
+- Unités : 0 articles (aucun article repéré : texte intégral en un fichier)
+- Version : texte publié par CNLEGIS ; les modifications ultérieures ne sont pas appliquées.
