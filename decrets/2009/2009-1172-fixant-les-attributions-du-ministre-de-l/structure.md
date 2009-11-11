@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — DU CABINET DU MINISTRE (avant Article 4)
+- TITRE II — DU SECRETARIAT GÉNERAL (avant Article 7)
+- TITRE IV — DISPOSITIONS DIVERSES (avant Article 26)
