@@ -1,0 +1,11 @@
+# Structure
+
+- CHAPITRE PREMIER — INSIGNE DE CORPS (avant Article 2)
+- CHAPITRE II — INSIGNES DE GRADES (avant Article 3)
+- CHAPITRE III — INSIGNES DE FONCTIONS (avant Article 4)
+- CHAPITRE IV — INSIGNES DE SPECIALISTES (avant Article 5)
+- CHAPITRE V — INSIGNE DE CASQUETTE (avant Article 6)
+- CHAPITRE VI — INSIGNE DE BERET (avant Article 7)
+- CHAPITRE VII — ECUSSON DE MANCHES (avant Article 8)
+- CHAPITRE VIII — COINS DE COLS (avant Article 9)
+- CHAPITRE IX (avant Article 10)
