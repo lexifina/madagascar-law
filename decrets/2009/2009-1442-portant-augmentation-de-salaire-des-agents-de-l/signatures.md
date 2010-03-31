@@ -1,0 +1,203 @@
+# Signatures
+
+Fait à Antananarivo, le 31 décembre 2009
+
+Camille Albert VITAL
+
+Par Le Premier Ministre, Chef du Gouvernement
+
+de la Transition,
+
+Le Ministre de la Fonction Publique,
+
+du Travail et des Lois sociales,
+
+NOELSON William
+
+Le Ministre des Finances et du Budget;
+
+Hery M. RAJAONARIMAMPIANINA
+
+ANNEXE AU DECRET N° 2009-1442 du 31 DECEMBRE 2009
+
+Portant augmentation de salaire des Agents (personnels locaux) de l'Etat,
+
+des Collectivités Décentralisées et des Etablissements Publics
+
+CAT
+
+EFFECTIF 2010
+
+SALAIRES MOYENS
+
+MENSUELS SANS
+
+AUGMENTATION
+
+(rub 500 –501- 502 - 503 -505 - 506)
+
+AUGMENTA-TION
+
+MENSUELLE 10% DONT PART
+
+PATRONALE NON COMPRISE
+
+SALAIRES
+
+MESUELS AVEC
+
+AUGMENTATION
+
+PART PATRONALE 16% MENSUELLE
+
+IMPACT ANNUEL DE L’
+
+AUGMENTATION Y COMPRIS
+
+PART
+
+PATRONALE
+
+10
+
+487
+
+781 688
+
+78 168
+
+859 856
+
+12 506
+
+529 898 856
+
+9
+
+5 481
+
+635 606
+
+63 560
+
+699 166
+
+10 169
+
+4 849 303 788
+
+8
+
+9 835
+
+584 326
+
+58 432
+
+642 758
+
+9 349
+
+7 999 513 620
+
+7
+
+2 560
+
+487 469
+
+48 746
+
+536 215
+
+7 799
+
+1 737 062 400
+
+6
+
+6 357
+
+454 918
+
+45 491
+
+500 409
+
+7 278
+
+4 025 430 396
+
+5
+
+13 971
+
+404 897
+
+40 489
+
+445 386
+
+6 478
+
+7 874 111 484
+
+4
+
+4 284
+
+378 105
+
+37 810
+
+415 915
+
+6 049
+
+2 254 703 472
+
+3
+
+38 566
+
+298 411
+
+29 841
+
+328 252
+
+4 774
+
+16 019 545 080
+
+2
+
+55 057
+
+252 707
+
+25 270
+
+277 977
+
+4 043
+
+19 366 630 092
+
+1
+
+21 548
+
+215 741
+
+21 574
+
+237 315
+
+3 451
+
+6 470 864 400
+
+158 146
+
+71 127 063 588
