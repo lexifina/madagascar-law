@@ -1,0 +1,18 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- SECTION PREMIERE — Objet et définition (avant Article premier)
+- SECTION 3 — Planification de l'utilisation des zones côtières et marines (avant Article 11)
+- SECTION 4 — Protection des espaces naturels (avant Article 14)
+- CHAPITRE III — DE L'INFORMATION ET DE LA FORMATION DU PUBLIC (avant Article 21)
+- CHAPITRE IV — DU CADRE INSTITUTIONNEL (avant Article 23)
+- SECTION PREMIERE — le Comité National de Gestion Intégrée des Zones Côtières (avant Article 23)
+- SECTION 2 — L'organe de contrôle et de suivi (avant Article 27)
+- SECTION 3 — Dispositions financières (avant Article 29)
+- CHAPITRE V — DE LA GOUVERNANCE DES ZONES COTIERES ET MARINES (avant Article 30)
+- SECTION PREMIERE — La coordination et l'intégration des activités (avant Article 30)
+- SECTION 2 — La subsidiarité (avant Article 33)
+- SECTION 2 — Le Plan de développement (avant Article 40)
+- SECTION 4 — Les règles communes régissant les documents (avant Article 43)
+- CHAPITRE VII — DISPOSITIONS DIVERSES (avant Article 45)
+- CHAPITRE VIII — DISPOSITIONS FINALES (avant Article 48)
