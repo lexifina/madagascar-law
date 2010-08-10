@@ -1,0 +1,15 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — RESPONSABILITES ET MISSIONS (avant Article 5)
+- SECTION PREMIERE — Autorité compétente (avant Article 5)
+- SECTION 2 — Contrôle aux frontières (avant Article 7)
+- SECTION PREMIERE — Survol et escale (avant Article 9)
+- SECTION 2 — Désinsectisation et désinfection des aéronefs (avant Article 11)
+- SECTION 3 — Dispositions relatives aux opérations d’urgence (avant Article 15)
+- SECTION PREMIERE — Documents exigés (avant Article 16)
+- SECTION 2 — Traitement des personnes et de leurs bagages (avant Article 17)
+- CHAPITRE V — DISPOSITIONS DIVERSES (avant Article 21)
+- SECTION PREMIERE — Bagages séparés de leur propriétaire (avant Article 21)
+- SECTION 2 — Mesures spéciales (avant Article 22)
+- CHAPITRE VI — DISPOSITIONS FINALES (avant Article 25)
