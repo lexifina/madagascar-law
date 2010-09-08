@@ -1,0 +1,15 @@
+# Structure
+
+- CHAPITRE PREMIER — DU DOMAINE PRIVE IMMOBILIER DE L'ETAT (avant Article premier)
+- SECTION PREMIERE — Des attributions (avant Article premier)
+- SECTION 2 — Des mesures de conservation (avant Article 3)
+- SECTION 3 — De la gestion (avant Article 6)
+- SECTION 5 — De l'attribution gratuite (avant Article 42)
+- SECTION 6 — De la dotation (avant Article 43)
+- SECTION 7 — De la mise à disposition gratuite (avant Article 48)
+- SECTION 8 — Du cautionnement et des ventes aux enchères publiques (avant Article 49)
+- SECTION 9 — Du point de départ des contrats, notification (avant Article 56)
+- SECTION 10 — Du paiement des redevances périodiques ou des prix de vente (avant Article 57)
+- SECTION 13 — De la gestion des biens immobiliers des Collectivités décentralisées (avant Article 70)
+- SECTION 14 — Dispositions transitoires (avant Article 71)
+- CHAPITRE II — LES MEUBLES (avant Article 75)
