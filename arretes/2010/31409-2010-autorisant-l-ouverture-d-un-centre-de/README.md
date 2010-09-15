@@ -1,0 +1,9 @@
+# Arrêté n° 31409/2010 du 17 août 2010 autorisant l'ouverture d'un "Centre de récupération et d'éducation nutritionnelle ambulatoire" au III G Hangar Antohomadinika, Commune d'Antananarivo-I, District d'Antananarivo-Rénivohitra, Région Analamanga
+
+- Source : CNLEGIS (Direction du CNLEGIS, Secrétariat général du Gouvernement), fiche 40440, <https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=31409/2010#id=40440>
+- Date du texte : 2010-08-17 ; J.O. n° 3325 du 2010-09-13, p. 1592
+- En vigueur : 2010-09-15 (Ordonnance n° 62-041 du 19 septembre 1962, art. 3 : « un jour franc après l’arrivée du Journal officiel » ; jour d’arrivée non imprimé : date du JO + 2 jours, la plus tôt possible)
+- État selon CNLEGIS : En vigueur
+- Texte : texte HTML publié par CNLEGIS
+- Unités : 8 articles
+- Version : texte publié par CNLEGIS ; les modifications ultérieures ne sont pas appliquées.
