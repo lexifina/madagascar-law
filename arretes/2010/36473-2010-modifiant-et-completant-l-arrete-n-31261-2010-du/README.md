@@ -1,0 +1,9 @@
+# Arrêté n° 36473/2010 du 14 octobre 2010 modifiant et complétant l'arrêté n° 31261/2010 du 13/08/2010 portant ouverture et organisation d'un concours d'entrée dans le notariat pour l'année 2010
+
+- Source : CNLEGIS (Direction du CNLEGIS, Secrétariat général du Gouvernement), fiche 40481, <https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=36473/2010#id=40481>
+- Date du texte : 2010-10-14 ; J.O. n° 3339 du 2010-11-15, p. 2681
+- En vigueur : 2010-10-14 (le texte s’applique dès sa signature/promulgation ou immédiatement (« entrera immédiatement en vigueur ») (Ordonnance n° 62-041, art. 4 : jour de diffusion non imprimé, daté du jour du texte))
+- État selon CNLEGIS : En vigueur
+- Texte : texte HTML publié par CNLEGIS
+- Unités : 3 articles
+- Version : texte publié par CNLEGIS ; les modifications ultérieures ne sont pas appliquées.
