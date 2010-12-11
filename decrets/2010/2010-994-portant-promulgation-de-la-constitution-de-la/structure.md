@@ -1,0 +1,18 @@
+# Structure
+
+- TITRE III — DE L’ORGANISATION DE L’ETAT (avant Article 40)
+- CHAPITRE PREMIER — Du Président de la République (avant Article 45)
+- CHAPITRE II — Du Gouvernement (avant Article 63)
+- CHAPITRE PREMIER — De l’Assemblée Nationale (avant Article 69)
+- CHAPITRE II — Du Sénat (avant Article 80)
+- CHAPITRE III — Des rapports entre le Gouvernement et le Parlement (avant Article 86)
+- CHAPITRE PREMIER — Des principes fondamentaux (avant Article 106)
+- CHAPITRE II — De la Haute Cour Constitutionnelle (avant Article 114)
+- CHAPITRE III — De la Cour Suprême (avant Article 121)
+- CHAPITRE IV — De la Haute Cour de Justice (avant Article 131)
+- TITRE IV — DES TRAITES ET ACCORDS INTERNATIONAUX (avant Article 137)
+- CHAPITRE I — Des Communes (avant Article 148)
+- .CHAPITRE II — Des Régions (avant Article 153)
+- CHAPITRE III — Des Provinces (avant Article 157)
+- TITRE VI — DE LA REVISION DE LA CONSTITUTION (avant Article 161)
+- TITRE VII — DISPOSITIONS TRANSITOIRES ET DIVERSES (avant Article 164)
