@@ -1,5 +1,4 @@
 # Article 143
 
-La fonction exécutive est exercée par un organe dirigé par une personnalité élue selon les conditions et modalités fixées par la loi.
-Cette personnalité est le premier responsable de la stratégie et de la mise en oeuvre de toutes les actions de développement économique et social de sa Région.
-Elle est le Chef de l'Administration dans sa Région.
+Les Collectivités Territoriales décentralisées de la République sont les Communes, les Régions et les Provinces.
+La création et la délimitation des Collectivités Territoriales décentralisées doivent répondre à des critères d’homogénéité géographique, économique, sociale et culturelle. Elles sont décidées par la loi.

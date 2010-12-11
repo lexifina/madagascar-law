@@ -1,4 +1,3 @@
 # Article 119
 
-Le Premier Président de la Cour Suprême est secondé par trois vice-présidents, affectés respectivement à la présidence de la Cour de Cassation, du Conseil d'Etat et de la Cour des Comptes.
-Chaque vice-président est nommé en Conseil des Ministres sur proposition du Ministre chargé de la Justice, après consultation du Conseil Supérieur de la Magistrature, de préférence parmi les plus anciens dans le grade le plus élevé des magistrats respectivement de l'ordre judiciaire, administratif et financier.
+La Haute Cour Constitutionnelle peut être consultée par tout Chef d'Institution et tout organe des Collectivités Territoriales Décentralisées pour donner son avis sur la constitutionnalité de tout projet d'acte ou sur l'interprétation d'une disposition de la présente Constitution.

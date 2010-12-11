@@ -1,5 +1,4 @@
 # Article 159
 
-Jusqu'à la mise en place des organes régionaux prévus par la présente Constitution, la personnalité chargée de diriger l'organe exerçant les fonctions exécutives au niveau de la région est nommé en Conseil des ministres.
-Les Régions actuellement existantes continuent également de fonctionner selon la législation et la réglementation en vigueur.
-Les Communes sont régies par la législation en vigueur.
+La fonction délibérante est exercée par le conseil provincial dont les membres sont élus au suffrage universel.
+Les députés et les sénateurs issus des différentes circonscriptions de la province sont membres de droit du Conseil provincial, avec voix délibérative.

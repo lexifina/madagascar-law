@@ -1,3 +1,5 @@
 # Article 133
 
-Le Premier Ministre négocie et signe les accords internationaux non soumis à ratification.
+Les Présidents des Assemblées parlementaires, le Premier Ministre, les autres membres du Gouvernement et le Président de la Haute Cour Constitutionnelle sont pénalement responsables, devant la Haute Cour de Justice, des actes accomplis liés à l’exercice de leurs fonctions des actes qualifiés de crimes ou délits au moment où ils ont été commis.
+Ils peuvent être mis en accusation par l’Assemblée Nationale statuant au scrutin public à la majorité absolue de ses membres.
+L’initiative de la poursuite émane du Procureur Général de la Cour Suprême.

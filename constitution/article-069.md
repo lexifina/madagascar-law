@@ -1,3 +1,5 @@
 # Article 69
 
-Un décret pris en Conseil des Ministres fixe le nombre des membres de l'Assemblée Nationale, la répartition des sièges sur l'ensemble du territoire national ainsi que le découpage des circonscriptions électorales.
+Les membres de l'Assemblée Nationale sont élus pour cinq ans au suffrage universel direct.
+Le régime des scrutins est déterminé par une loi organique.
+Les membres de l'Assemblée Nationale portent le titre de "Député de Madagascar".

@@ -1,3 +1,4 @@
 # Article 108
 
-L'exercice des fonctions de magistrat au sein des Cours et Tribunaux est incompatible avec toute activité au sein d'un parti politique, l'exercice de tout mandat public électif ou de toute autre activité professionnelle rémunérée, sauf les activités d'enseignement.
+Dans leurs activités juridictionnelles, les Magistrats du siège, les juges et assesseurs sont indépendants et ne sont soumis qu’à la Constitution et à la loi.
+A ce titre, hors les cas prévus par la loi et sous réserve du pouvoir disciplinaire, ils ne peuvent, en aucune manière, être inquiétés dans l’exercice de leurs fonctions.

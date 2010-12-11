@@ -1,4 +1,4 @@
 # Article 144
 
-La fonction délibérante est exercée par le Conseil régional dont les membres sont élus au suffrage universel direct et selon les conditions fixées par la loi et les règlements.
-Les Parlementaires sont membres de droit du Conseil régional.
+Les Collectivités Territoriales décentralisées s’administrent librement par des assemblées qui règlent, par leurs délibérations, les affaires dévolues à leur compétence par la présente Constitution et par la loi.
+Ces délibérations ne peuvent pas être contraires aux dispositions constitutionnelles, législatives, et réglementaires.

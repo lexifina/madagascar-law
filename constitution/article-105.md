@@ -1,4 +1,6 @@
 # Article 105
 
-Dans leurs activités juridictionnelles, les magistrats du siège, les juges et les assesseurs sont indépendants et ne sont soumis qu'à la Constitution et à la Loi.
-A ce titre, hors les cas prévus par la loi et sous réserve du pouvoir disciplinaire, ils ne peuvent en aucune manière, être inquiétés pour les actes accomplis dans l'exercice de leurs fonctions, sauf dans les cas de faute ou d'incompétence notoire constatée par le Conseil Supérieur de la Magistrature.
+Le Conseil économique, social et culturel, saisi par le Gouvernement, donne son avis sur les projets de loi, d'ordonnance ou de décret ainsi que sur les propositions de lois qui lui sont soumis.
+Il est compétent pour examiner les projets et propositions de loi à caractère économique, social et culturel à l’exclusion des lois de finances.
+Il peut entreprendre, de sa propre initiative, toutes études ou enquêtes se rapportant aux questions économique, sociale et culturelle. Ses rapports sont transmis au Président de la République.
+La composition, les attributions et le fonctionnement du Conseil économique, social, et culturel sont fixés par une loi organique.

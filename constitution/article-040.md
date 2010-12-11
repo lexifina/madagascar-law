@@ -1,4 +1,7 @@
 # Article 40
 
-L'Etat garantit la neutralité politique de l'administration, des forces armées, de la justice, de l'enseignement et de l'éducation.
-L'Etat assure, par l'institution d'organismes spécialisés, la promotion et la protection des droits de l'homme.
+Les Institutions de l’Etat sont :
+- le Président de la République et le Gouvernement;
+- l’Assemblée Nationale et le Sénat;
+- la Haute Cour Constitutionnelle.
+La Cour Suprême, les Cours d’Appel et les juridictions qui leur sont rattachées ainsi que la Haute Cour de Justice exercent la fonction juridictionnelle.

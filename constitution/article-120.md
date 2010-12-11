@@ -1,8 +1,5 @@
 # Article 120
 
-Le Parquet général de la Cour Suprême comprend:
-- un Parquet général de la Cour de cassation;
-- un Commissariat général de la loi pour le Conseil d'Etat;
-- un Commissariat général du Trésor public pour la Cour des Comptes.
-Le Procureur général de la Cour Suprême est secondé par les trois chefs de ces Parquets généraux.
-Le chef du Parquet général de la Cour de Cassation, du Commissariat général de la loi ou du Commissariat général du Trésor public est nommé en Conseil des Ministres sur proposition du Ministre chargé de la Justice, après consultation du Conseil Supérieur de la Magistrature, de préférence parmi les magistrats les plus anciens dans le grade le plus élevé respectivement de l'ordre judiciaire, administratif et financier.
+En matière de contentieux électoral et de consultation populaire directe, la Haute Cour Constitutionnelle rend des arrêts.
+Dans les autres matières relevant de sa compétence, hors le cas prévu à l'article 119, elle rend des décisions.
+Les arrêts et décisions de la Haute Cour Constitutionnelle sont motivés ; ils ne sont susceptibles d'aucun recours. Ils s'imposent à tous les pouvoirs publics ainsi qu'aux autorités administratives et juridictionnelles.

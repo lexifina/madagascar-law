@@ -1,6 +1,3 @@
 # Article 62
 
-Le Gouvernement est composé du Premier Ministre et des Ministres.
-Il met en oeuvre la politique générale de l'Etat.
-Il est responsable devant l'Assemblée nationale dans les conditions prévues aux articles 94 et 97 ci-dessous.
-Le Gouvernement dispose de l'Administration d'Etat.
+Les actes du Président de la République, hors les cas prévus aux articles 54 alinéas 1er et 2, 58 alinéas 1 et 2, 59, 81, 60, 94 100, 114, 117 et 119, sont contresignés par le Premier Ministre et, le cas échéant, par les Ministres concernés.

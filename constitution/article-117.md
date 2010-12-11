@@ -1,6 +1,6 @@
 # Article 117
 
-La Cour Suprême est chargée de veiller au fonctionnement régulier des juridictions de l'ordre judiciaire, administratif et financier. Elle comprend:
-- la Cour de Cassation;
-- le Conseil d'Etat;
-- la Cour des Comptes.
+Avant leur promulgation, les lois organiques, les lois et les ordonnances sont soumises obligatoirement par le Président de la République à la Haute Cour Constitutionnelle qui statue sur leur conformité à la Constitution.
+Une disposition jugée inconstitutionnelle ne peut être promulguée. Dans ce cas, le Président de la République peut décider, soit de promulguer les autres dispositions de la loi ou de l'ordonnance, soit de soumettre l'ensemble du texte à une nouvelle délibération du Parlement ou du Conseil des Ministres selon le cas, soit de ne pas procéder à la promulgation.
+Dans les cas prévus ci-dessus, la saisine de la Haute Cour Constitutionnelle suspend le délai de promulgation des lois.
+Le règlement intérieur de chaque Assemblée est soumis au contrôle de constitutionnalité avant sa mise en application. Une disposition jugée inconstitutionnelle ne peut être appliquée.

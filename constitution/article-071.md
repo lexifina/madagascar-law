@@ -1,3 +1,5 @@
 # Article 71
 
-Le Président de l'Assemblée Nationale et les membres du bureau sont élus au début de la première session pour la durée de la législature. Toutefois, ils peuvent être démis de leurs fonctions respectives de membres de bureau pour motif grave par un vote des deux tiers des députés.
+Le mandat de député est incompatible avec l'exercice de tout autre mandat public électif et de tout emploi public, excepté l'enseignement.
+Le député nommé membre du Gouvernement est suspendu d’office de son mandat. Il est remplacé par son suppléant.
+Le député exerce son mandat suivant sa conscience et dans le respect des règles d'éthique déterminées dans les formes fixées à l'article 79 ci-dessous.

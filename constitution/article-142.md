@@ -1,3 +1,5 @@
 # Article 142
 
-Dans les Régions, les fonctions exécutive et délibérante sont exercées par des organes distincts.
+Les Collectivités Territoriales décentralisées jouissent de l’autonomie financière.
+Elles élaborent et gèrent leur budget selon les principes applicables en matière de gestion des finances publiques.
+Les budgets des Collectivités Territoriales décentralisées bénéficient de ressources de diverses natures.

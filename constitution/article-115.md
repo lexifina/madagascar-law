@@ -1,3 +1,3 @@
 # Article 115
 
-La Haute Cour Constitutionnelle peut être consultée par tout Chef d'Institution pour donner son avis sur la constitutionnalité de tout projet d'acte ou sur l'interprétation d'une disposition de la présente Constitution.
+Les fonctions de membre de la Haute Cour Constitutionnelle sont incompatibles avec celles de membres du Gouvernement, du Parlement, avec tout mandat public électif, toute autre activité professionnelle rémunérée, à l’exception des activités d'enseignement, ainsi que toute activité au sein d'un parti politique ou d'un syndicat.

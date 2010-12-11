@@ -1,5 +1,4 @@
 # Article 141
 
-Les Régions ont une vocation essentiellement économique et sociale.
-En collaboration avec les organismes publics ou privés, elles dirigent, dynamisent, coordonnent et harmonisent le développement économique et social de l'ensemble de leur ressort territorial et assurent, à ce titre, la planification, l'aménagement du territoire et la mise en oeuvre de toutes les actions de développement.
-La Région constitue un pôle stratégique de développement.
+Les Collectivités Territoriales décentralisées assurent avec le concours de l’Etat, notamment la sécurité publique, la défense civile, l’administration, l’aménagement du territoire, le développement économique, la préservation de l’environnement et l’amélioration du cadre de vie.
+Dans ces domaines, la loi détermine la répartition des compétences en considération des intérêts nationaux et des intérêts locaux.

@@ -1,3 +1,5 @@
 # Article 98
 
-Le Président de la République peut dissoudre l'Assemblée Nationale pour des causes déterminantes.
+Le Gouvernement, en engageant sa responsabilité dans les conditions prévues à l'article 100 ci-dessous, peut exiger de chacune des Assemblées de se prononcer par un seul vote sur tout ou partie des dispositions des textes en discussion :
+- lors des sessions extraordinaires, à condition que ces textes aient été déposés dans les quarante-huit heures de l'ouverture de la session ;
+- dans les huit derniers jours de chacune des sessions ordinaires.

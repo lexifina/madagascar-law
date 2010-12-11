@@ -1,5 +1,4 @@
 # Article 110
 
-La Haute Cour Constitutionnelle comprend neuf membres dont le mandat dure sept ans.
-Trois des membres sont nommés par le Président de la République, deux sont élus par l'Assemblée nationale, deux par le Sénat, deux sont élus par le Conseil supérieur de la Magistrature.
-Le Président de la Haute Cour Constitutionnelle est nommé par décret du Président de la République. La désignation des autres membres est constatée par décret du Président de la République.
+Les Magistrats du ministère public sont soumis à la subordination hiérarchique; toutefois, dans leurs conclusions ou réquisitions orales, ils agissent selon leur intime conviction et conformément à la loi. Ils disposent de la police judiciaire dont ils peuvent contrôler les activités et le fonctionnement.
+Le fait de leur enjoindre d’accomplir des actes qui sont manifestement contraires à la loi entraîne pour les solliciteurs des sanctions prévues par la loi.

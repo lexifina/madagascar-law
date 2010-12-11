@@ -1,8 +1,6 @@
 # Article 41
 
-Les Institutions de l'Etat sont:
-- le Président de la République et le Gouvernement;
-- l'Assemblée Nationale et le Sénat;
-- la Haute Cour Constitutionnelle.
-Les trois fonctions de l'Etat - exécutive, législative et juridictionnelle - obéissent au principe de la séparation des pouvoirs et sont exercées par des organes distincts.
-La Cour Suprême, les Cours d'Appel et les juridictions qui leur sont rattachées ainsi que la Haute Cour de Justice exercent la fonction juridictionnelle.
+La loi détermine le montant, les conditions et les modalités d'attribution des indemnités allouées aux personnalités appelées à exercer un mandat public, à accomplir des fonctions ou à effectuer des missions au sein des Institutions prévues par la présente Constitution.
+Préalablement à l’accomplissement de fonctions ou de missions et à l’exercice d’un mandat, toutes les personnalités visées au précédent alinéa déposent auprès de la Haute Cour Constitutionnelle une déclaration de patrimoine.
+A l'exception de ses droits et sous peine de déchéance, aucune des personnalités visées à l'article 40 ne peut accepter d'une personne physique ou morale, étrangère ou nationale, des émoluments ou rétributions dans le cadre de ses fonctions.
+La loi fixe les modalités d'application de ces dispositions, notamment en ce qui concerne la détermination des droits, des émoluments et des rétributions ainsi que la procédure de déchéance.

@@ -1,0 +1,7 @@
+# Article 166
+
+Jusqu’à la mise en place progressive des Institutions prévues par la présente Constitution, les Institutions et les organes prévus pour la période de la Transition continuent d’exercer leurs fonctions.
+Le Conseil Supérieur de la Transition et le Congrès de la Transition cesse leurs fonctions dès l’élection du bureau de la nouvelle Assemblée Nationale.
+En attendant la mise en place du Sénat, l’Assemblée Nationale a la plénitude du pouvoir législatif.
+Jusqu’à l’investiture du nouveau Président de la République, l’actuel Président de la Haute Autorité de la Transition continue d’exercer les fonctions de Chef de l’Etat..
+En cas de vacance de la Présidence, pour quelque cause que ce soit, les fonctions de Chef de l’Etat sont exercées collégialement par le Premier Ministre, le Président du Conseil Supérieur de la Transition, et le Président du Congrès.

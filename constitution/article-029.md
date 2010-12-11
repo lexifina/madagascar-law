@@ -1,3 +1,3 @@
 # Article 29
 
-Tout citoyen a droit selon la qualité et le produit de son travail à une juste rémunération lui assurant, ainsi qu'à sa famille, une existence conforme à la dignité humaine.
+Tout citoyen a droit à une juste rémunération de son travail lui assurant, ainsi qu'à sa famille, une existence conforme à la dignité humaine.

@@ -1,4 +1,8 @@
 # Article 116
 
-En matière de contentieux électoral et de consultation populaire directe, la Haute Cour Constitutionnelle rend des arrêts. Dans les autres matières relevant de sa compétence, hors le cas prévu à l'article 115, elle rend des décisions.
-Les arrêts et décisions de la Haute Cour Constitutionnelle sont motivés; ils ne sont susceptibles d'aucun recours. Ils s'imposent à tous les pouvoirs publics ainsi qu'aux autorités administratives et juridictionnelles.
+Outre les questions qui lui sont renvoyées par d'autres articles de la Constitution, la Haute Cour Constitutionnelle, dans les conditions fixées par une loi organique :
+1° statue sur la conformité à la Constitution des traités, des lois, des ordonnances, et des règlements autonomes;
+2° règle les conflits de compétence entre deux ou plusieurs Institutions de l'Etat ou entre l'Etat et une ou plusieurs Collectivités Territoriales Décentralisées ou entre deux ou plusieurs Collectivités Territoriales Décentralisées;
+3° statue sur la conformité à la Constitution des délibérations et des actes réglementaires adoptés par les Collectivités Territoriales Décentralisées;
+4° statue sur le contentieux des opérations de référendum, de l'élection du Président de la République et des élections des députés et sénateurs;
+5° proclame le résultat officiel des élections présidentielles, législatives et des consultations par référendum.

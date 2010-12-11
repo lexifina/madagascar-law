@@ -1,3 +1,3 @@
 # Article 3
 
-Le territoire national est inaliénable.
+La République de Madagascar est un Etat reposant sur un système de Collectivités Territoriales Décentralisées composées de Communes, de Régions et des Provinces dont les compétences et les principes d’autonomie administrative et financière sont garantis par la Constitution et définis par la Loi.

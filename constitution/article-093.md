@@ -1,4 +1,4 @@
 # Article 93
 
-Dans les trente jours de sa nomination, le Premier Ministre présente son programme de mise en oeuvre de la politique générale de l'Etat à l'Assemblée Nationale qui peut émettre des suggestions.
-Si, en cours d'exécution, le Gouvernement estime que des modifications fondamentales de ce programme s'avèrent nécessaires, le Premier Ministre soumet lesdites modifications à l'Assemblée Nationale qui peut émettre des suggestions.
+La Cour des comptes assiste le Parlement dans le contrôle de l'action du Gouvernement. Elle assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances ainsi que dans l'évaluation des politiques publiques. Par ses rapports publics, elle contribue à l'information des citoyens.
+Les comptes des Administrations publiques doivent être réguliers et sincères, et donner une image fidèle du résultat de leur gestion, de leur patrimoine et de leur situation financière.

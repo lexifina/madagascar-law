@@ -1,3 +1,5 @@
 # Article 61
 
-Les actes du Président de la République, hors les cas prévus aux articles 53 alinéas 1er et 2, 57 alinéas 1 et 2, 58, 78, 94, 98, 101, 110, 113 à 115, sont contresignés par le Premier Ministre et, le cas échéant, par les Ministres concernés.
+Lorsque les Institutions de la République, l'indépendance de la Nation, son unité ou l'intégrité de son territoire sont menacées et que le fonctionnement régulier des pouvoirs publics se trouve compromis, le Président de la République peut proclamer, sur tout ou partie du territoire national, la situation d'exception, à savoir l’état d'urgence, l’état de nécessité ou la loi martiale. La décision est prise par le Président de la République en Conseil des Ministres, après avis des Présidents de l'Assemblée Nationale, du Sénat et de la Haute Cour Constitutionnelle.
+La proclamation de la situation d'exception confère au Président de la République des pouvoirs spéciaux dont l'étendue et la durée sont fixées par une loi organique.
+Dès la proclamation de l'une des situations d'exception précitées, le Président de la République peut légiférer par voie d'ordonnance pour des matières qui relèvent du domaine de la loi.

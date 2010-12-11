@@ -1,3 +1,4 @@
 # Article 155
 
-Le Président de la République actuel exerce, jusqu'au terme de son mandat, les fonctions dévolues au Président de la République par la présente Constitution révisée.
+La fonction délibérante est exercée par le Conseil régional dont les membres sont élus au suffrage universel.
+Les députés et les sénateurs issus des différentes circonscriptions de la région sont membres de droit du Conseil régional, avec voix délibérative.

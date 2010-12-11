@@ -1,3 +1,4 @@
 # Article 101
 
-Le Président de la République communique avec le Parlement par un message qui ne donne lieu à aucun débat.
+En début de chaque première session ordinaire, le Gouvernement présente à l'Assemblée Nationale un rapport d'exécution de son programme.
+La présentation sera suivie d'un débat portant sur les résultats des actions du Gouvernement et l’évaluation des politiques publiques.

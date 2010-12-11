@@ -1,5 +1,3 @@
 # Article 138
 
-Les Collectivités territoriales décentralisées de la République sont les Régions et les Communes.
-La création et la délimitation des Collectivités territoriales décentralisées doivent répondre à des critères d'homogénéité géographique, économique, sociale et culturelle. Elles sont décidées par la loi.
-La dénomination de chaque Collectivité territoriale décentralisée peut être modifiée par décret en Conseil des Ministres après consultation des autorités régionales concernées.
+Le Premier Ministre négocie et signe les accords internationaux non soumis à ratification.

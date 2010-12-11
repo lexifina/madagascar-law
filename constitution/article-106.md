@@ -1,3 +1,3 @@
 # Article 106
 
-Les magistrats du siège sont inamovibles; ils occupent les postes dont ils sont titulaires en raison de leur grade; ils ne peuvent recevoir sans leur consentement, aucune affectation nouvelle sauf nécessité de service dûment constatée par le Conseil supérieur de la Magistrature.
+Dans la République de Madagascar, la justice est rendue, conformément à la Constitution et à la loi, au nom du Peuple malagasy, par la Cour Suprême, les Cours d’Appel et les juridictions qui leur sont rattachées ainsi que la Haute Cour de Justice.

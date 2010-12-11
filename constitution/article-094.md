@@ -1,5 +1,3 @@
 # Article 94
 
-Le Premier Ministre, après délibération en Conseil des Ministres, peut engager la responsabilité de son Gouvernement en posant la question de confiance.
-Le vote ne peut avoir lieu que quarante-huit heures après le dépôt de la question. S'il est mis en minorité par la majorité absolue des membres composant l'Assemblée Nationale, le Gouvernement remet sa démission au Président de la République.
-Le Président de la République nomme un Premier Ministre conformément à l'article 53.
+Le Président de la République communique avec le Parlement par un message qui ne donne lieu à aucun débat.

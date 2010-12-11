@@ -1,3 +1,5 @@
 # Article 158
 
-Le Sénat continue d'exercer ses fonctions jusqu'au renouvellement de ses membres tel que prévu par la présente Constitution révisée.
+La fonction exécutive est exercée par un organe dirigé par le Chef de Province élu au suffrage universel.
+Le Chef de Province est le premier responsable de la stratégie et de la mise en œuvre de toutes les actions de développement économique et social de sa province.
+Il est le Chef de l’Administration de la province.

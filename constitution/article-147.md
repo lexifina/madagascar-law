@@ -1,3 +1,9 @@
 # Article 147
 
-Les Communes concourent au développement économique, social et culturel de leur ressort territorial. Les compétences de la commune tiennent compte essentiellement des principes constitutionnels et légaux ainsi que du principe de proximité, de promotion et de défense des intérêts des habitants.
+Les ressources d’une collectivité territoriale décentralisée comprennent notamment :
+- le produit des impôts et taxes votés par son Conseil et perçus directement au profit du budget de la Collectivité Territoriale Décentralisée ; la loi détermine la nature et le taux maximum de ces impôts et taxes en tenant dûment compte des charges assumées par les Collectivités Territoriales Décentralisées et de la charge fiscale globale imposée à la Nation ;
+- la part qui lui revient de droit sur le produit des impôts et taxes perçus au profit du budget de l’Etat ; cette part qui est prélevée automatiquement au moment de la perception est déterminée par la loi suivant un pourcentage qui tient compte des charges assumées globalement et individuellement par les Collectivités Territoriales Décentralisées et assurer un développement économique et social équilibré entre toutes les Collectivités Territoriales Décentralisées sur l’ensemble du territoire national ;
+- le produit des subventions affectées ou non affectées consenties par le budget de l’Etat à l’ensemble ou à chacune des Collectivités Territoriales Décentralisées pour tenir compte de leur situation particulière, ou pour compenser, pour ces Collectivités Territoriales Décentralisées, les charges entraînées par des programmes ou projets décidés par l’Etat mis en œuvre par les Collectivités Territoriales Décentralisées ;
+- le produit des aides extérieures non remboursables et le produit des dons à la collectivité territoriale décentralisée ;
+- les revenus de leur patrimoine;
+- les emprunts dont les conditions de souscription sont fixées par la loi.
