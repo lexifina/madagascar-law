@@ -1,0 +1,6 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DU CABINET DU MINISTRE (avant Article 3)
+- TITRE III — DU SECRETARIAT GENERAL (avant Article 5)
+- TITRE VI — DISPOSITIONS DIVERSES (avant Article 17)
