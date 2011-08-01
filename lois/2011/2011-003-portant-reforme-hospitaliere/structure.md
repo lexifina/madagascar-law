@@ -1,0 +1,18 @@
+# Structure
+
+- CHAPITRE II — DES DROITS ET DES OBLIGATIONS DES USAGERS (avant Article 14)
+- CHAPITRE IV — DE L'AGENCE NATIONALE HOSPITALIERE (avant Article 22)
+- CHAPITRE V — DE LA DIRECTION CENTRALE (avant Article 24)
+- CHAPITRE II — DE L'ORGANISATION INSTITUTIONNELLE ET TERRITORIALE (avant Article 36)
+- SECTION PREMIERE — Des Etablissements Hospitaliers Publics (avant Article 36)
+- CHAPITRE III — DE L'ORGANISATION FONCTIONNELLE (avant Article 42)
+- CHAPITRE IV — DE L'ORGANISATION TECHNIQUE (avant Article 44)
+- SECTION PREMIERE — Du Projet D'établissement Hospitalier (avant Article 57)
+- SECTION II — du système d'information et de l'évaluation (avant Article 61)
+- SECTION PREMIERE — Du Régime Du Personnel (avant Article 64)
+- SECTION II — Des Activités Personnalisées Et De L'intéressement (avant Article 70)
+- CHAPITRE PREMIER — DES RESSOURCES ET EMPLOI (avant Article 74)
+- CHAPITRE III — DU REGIME FINANCIER ET COMPTABLE (avant Article 84)
+- CHAPITRE IV — DU CONTROLE (avant Article 91)
+- CHAPITRE II — DU REGIME DES AUTORISATIONS (avant Article 97)
+- TITRE V — DES DISPOSITIONS FINALES (avant Article 114)
