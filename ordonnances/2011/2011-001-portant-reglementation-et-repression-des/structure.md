@@ -1,0 +1,6 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DES SANCTIONS ET PENALITES (avant Article 4)
+- TITRE III — DE LA PROCEDURE (avant Article 12)
+- TITRE IV — DISPOSITIONS FINALES (avant Article 13)
