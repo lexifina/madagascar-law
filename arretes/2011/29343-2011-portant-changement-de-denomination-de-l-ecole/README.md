@@ -1,0 +1,9 @@
+# Arrêté n° 29343/2011 du 11 octobre 2011 portant changement de dénomination de l'Ecole Primaire Publique d'Ambalakirajy, Commune Morafeno-I , Cisco Befandriana-Nord, DREN Sofia
+
+- Source : CNLEGIS (Direction du CNLEGIS, Secrétariat général du Gouvernement), fiche 41222, <https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=29343/2011#id=41222>
+- Date du texte : 2011-10-11 ; J.O. n° 3395 du 2011-11-21, p. 1902
+- En vigueur : 2011-11-23 (Ordonnance n° 62-041 du 19 septembre 1962, art. 3 : « un jour franc après l’arrivée du Journal officiel » ; jour d’arrivée non imprimé : date du JO + 2 jours, la plus tôt possible)
+- État selon CNLEGIS : En vigueur
+- Texte : texte HTML publié par CNLEGIS
+- Unités : 3 articles
+- Version : texte publié par CNLEGIS ; les modifications ultérieures ne sont pas appliquées.
