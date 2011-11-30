@@ -1,0 +1,7 @@
+# Structure
+
+- TITRE PREMIER — DE LA CREATION (avant Article premier)
+- TITRE II — DE L’ORGANISATION ET DES ATTRIBUTIONS (avant Article 2)
+- TITRE III — DES STRUCTURES DU COMITE (avant Article 10)
+- TITRE IV — DU FONCTIONNEMENT (avant Article 11)
+- TITRE V — DES RESSOURCES ET DEPENSES (avant Article 18)
