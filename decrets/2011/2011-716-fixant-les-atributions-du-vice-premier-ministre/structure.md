@@ -1,0 +1,17 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- SECTION PREMIERE — Du Cabinet du Vice-Premier Ministre (avant Article 5)
+- SECTION 2 — Du Secrétariat Général et des Services à lui rattachés (avant Article 7)
+- SOUS-SECTION PREMIERE — De la Direction Générale de l'Aménagement du Territoire (avant Article 11)
+- SOUS-SECTION 2 — De la Direction Générale des Services Fonciers (avant Article 14)
+- SOUS-SECTION 3 — De la Direction Générale du Développement (avant Article 19)
+- SOUS-SECTION 4 — De la Direction de l'Inspection des Services (avant Article 22)
+- SOUS-SECTION 5 — De la Direction des Affaires Administratives et Financières (avant Article 23)
+- SOUS-SECTION 6 — De la Direction de la Législation et de la Documentation (avant Article 24)
+- SOUS-SECTION 8 — De la Cellule Environnementale (avant Article 26)
+- SOUS-SECTION 9 — De l'Observatoire du Foncier (avant Article 27)
+- SOUS-SECTION 10 — De l'Observatoire de l'Aménagement du Territoire (avant Article 28)
+- SECTION 3 — de la personne responsable des marchés publics (avant Article 29)
+- SECTION 4 — de la cellule de communication (avant Article 31)
+- CHAPITRE III — DISPOSITIONS DIVERSES ET FINALES (avant Article 32)
