@@ -1,0 +1,16 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DES MISSIONS DE L’AGENCE (avant Article 4)
+- TITRE III — DE L’ORGANISATION ADMINISTRATIVE DE L’AGENCE (avant Article 6)
+- CHAPITRE PREMIER — Du Conseil d’Administration (avant Article 7)
+- CHAPITRE II — De la Direction Générale (avant Article 10)
+- TITRE IV — DU REGIME FINANCIER ET COMPTABLE DE L’AGENCE (avant Article 13)
+- CHAPITRE PREMIER — De l’Ordonnateur (avant Article 14)
+- CHAPITRE II — De l’Agent Comptable (avant Article 16)
+- TITRE V — DU CONTRÔLE (avant Article 18)
+- TITRE VI — DES RESSOURCES ET DEPENSES DE L’AGENCE (avant Article 19)
+- TITRE VII — DU STATUT DU PERSONNEL DE L’AGENCE (avant Article 21)
+- TITRE VIII — DU REGIME DOUANIER ET FISCAL DE L’AGENCE (avant Article 22)
+- TITRE IX — DISPOSITIONS DIVERSES (avant Article 23)
+- TITRE X — DISPOSITIONS FINALES (avant Article 24)
