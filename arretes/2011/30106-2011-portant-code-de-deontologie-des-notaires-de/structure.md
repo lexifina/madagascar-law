@@ -1,0 +1,15 @@
+# Structure
+
+- CHAPITRE PREMIER — LES PRINCIPES DE DEONTOLOGIE (avant Article premier)
+- Section première — Le notaire (avant Article premier)
+- Section II — Les devoirs généraux du notaire (avant Article 2)
+- Paragraphe I — Envers lui-même (avant Article 2)
+- Paragraphe II — Envers l’Etat (avant Article 4)
+- Paragraphe III — Envers la clientèle (avant Article 5)
+- Paragraphe IV — Envers les confrères (avant Article 12)
+- Paragraphe V — Envers les futurs notaires et les collaborateurs (avant Article 17)
+- Paragraphe VI — Envers la profession notariale (avant Article 18)
+- Section II — Les prohibitions (avant Article 31)
+- Paragraphe I — Interdiction d’instrumenter (avant Article 31)
+- Paragraphe II — Information et publicité (avant Article 32)
+- Paragraphe III — Prohibitions diverses (avant Article 33)
