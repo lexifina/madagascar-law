@@ -1,0 +1,10 @@
+# Structure
+
+- CHAPITRE PREMIER — DES DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — DE LA PROMOTION COMMERCIALE (avant Article 4)
+- CHAPITRE V — DE L'HOMOLOGATION DES PRODUITS VISES (avant Article 19)
+- CHAPITRE VI — DE L'ADMINISTRATION (avant Article 21)
+- CHAPITRE VII — DES INFRACTIONS ET DES SANCTIONS (avant Article 22)
+- SECTION PREMIERE — des infractions (avant Article 22)
+- SECTION 2 — des sanctions (avant Article 24)
+- CHAPITRE VIII — DES DISPOSITIONS FINALES (avant Article 29)
