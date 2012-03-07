@@ -1,0 +1,4 @@
+# Structure
+
+- TITRE PREMIER — ORGANISATION GENERALE DU MINISTERE (avant Article 2)
+- TITRE II — LES ATTRIBUTIONS (avant Article 3)
