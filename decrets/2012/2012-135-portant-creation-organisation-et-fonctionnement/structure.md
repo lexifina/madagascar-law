@@ -1,0 +1,8 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DES MISSIONS ET STRATEGIES (avant Article 3)
+- TITRE III — DES ORGANES (avant Article 5)
+- TITRE IV — DE L'ORGANISATION FINANCIERE ET COMPTABLE (avant Article 13)
+- TITRE V — DU PERSONNEL (avant Article 16)
+- TITRE VI — DISPOSITIONS DIVERSES (avant Article 17)
