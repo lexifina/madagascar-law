@@ -1,0 +1,6 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DES MISSIONS ET STRATEGIES (avant Article 4)
+- TITRE III — DE L'ORGANISATION (avant Article 5)
+- TITRE IV — DISPOSITIONS DIVERSES (avant Article 9)
