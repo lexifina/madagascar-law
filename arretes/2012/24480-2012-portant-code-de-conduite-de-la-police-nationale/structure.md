@@ -1,0 +1,18 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- SECTION PREMIERE — Définition (avant Article 2)
+- SECTION II — Champ d'application (avant Article 3)
+- SECTION PREMIERE — Des valeurs (avant Article 4)
+- SECTION II — Du port d'uniforme (avant Article 8)
+- SECTION PREMIERE — Pendant le travail (avant Article 11)
+- SECTION II — Envers les usages (avant Article 18)
+- SECTION III — En dehors du cercle du travail (avant Article 23)
+- SECTION PREMIERE — De l'exercice du commandement (avant Article 25)
+- SECTION II — Du respect de la Hiérarchie (avant Article 31)
+- SECTION PREMIERE — Des droits humains (avant Article 34)
+- SECTION II — De l'usage de la force (avant Article 38)
+- TITRE VI — DE L’INTEGRITE (avant Article 41)
+- SECTION PREMIERE — Des règles générales (avant Article 41)
+- SECTION II — De la corruption et du conflit d'intérêts (avant Article 45)
+- TITRE VIII — DISPOSITIONS FINALES (avant Article 52)
