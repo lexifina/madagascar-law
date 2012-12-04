@@ -1,0 +1,359 @@
+# Signatures
+
+Fait à Antananarivo, le 04 décembre 2012
+
+Jean Omer BERIZIKY
+
+Par le Premier Ministre, Chef du Gouvernement,
+
+de Transition d’Union Nationale,
+
+Le Vice Premier Ministre, Chargé
+
+de l’Economie et de l’Industrie,
+
+Pierrot BOTOZAZA
+
+Le Ministre de l’Intérieur,
+
+Florent RAKOTOARISOA
+
+Le Ministre des Finances et du Budget,
+
+Hery RAJAONARIMAMPIANINA
+
+Le Ministre du Commerce,
+
+Olga RAMALASON
+
+Le Ministre de l’Energie,
+
+Nestor RAZAFINDRORIAKA
+
+Le Ministre des Travaux Publics,
+
+BOTOMANOVATSARA
+
+Le Ministre des Transport,
+
+Benjamina Ramarcel RAMANANTSOA
+
+Le Ministre des Télécommunication,
+
+des Postes et de la Communication,
+
+Ny Hasina ANDRIAMANJATO
+
+ANNNEXE
+
+du décret N° 2012-1113 du 04 décembre 2012 portant suspension à l’exportation,
+
+des ferrailles, des déchets d’aluminium, des déchets de cuivre et, autorisant
+
+à titre exceptionnel certaines Sociétés à envoyer leurs marchandises.
+
+LISTE DES SOCIETES AUTORISEES A ENVOYER LEURS MARCHANDISES
+
+N
+
+EXPORTATEUR
+
+DAU
+
+DATE
+
+DECLA-RANT
+
+DESTINA-TION
+
+CONTAINER(TC)
+
+POIDS
+
+1
+
+RASOAVELOMANANA
+
+Maurille
+
+E 10864
+
+22/10/2012
+
+LA SEAL
+
+INDE
+
+01 TC de 20’
+
+- CRXU 117996/4
+
+7 000Kg
+
+2
+
+SOCIETE MITSINGY
+
+E 10853
+
+23/10/2012
+
+LA SEAL
+
+CHINE
+
+01 TC DE 40’
+
+- CLHU864126/0
+
+04 TC DE 20
+
+’- CRXU127404/6
+
+-MSCU 174127/8
+
+-MSCU 217557/6
+
+-TTNU 341985/3
+
+100000Kg
+
+SOCIETE MITSINGY
+
+E 10851
+
+23/10/2012
+
+LA SEAL
+
+CHINE
+
+02 TC DE 20’
+
+-FSCU 350135/0
+
+-FSCU370826/6
+
+40000Kg
+
+3
+
+PRA SAD BIRENDA
+
+E 10857
+
+23/10/12
+
+DAMCO
+
+INDE
+
+04 TC de 20’
+
+-GLDU 212350/9
+
+-MSKU343050/4
+
+-MSKU 364970/3
+
+-PONU 064673/7
+
+80000Kg
+
+4
+
+PMS HOLDING
+
+E 10856
+
+23/10/12
+
+DAMCO
+
+INDE
+
+04 TC DE 20’
+
+-DAYU 215489/4
+
+-MRKU 718195/9
+
+-MSKU583325/8
+
+-MSKU726312/8
+
+80000Kg
+
+PMS HOLDING
+
+E 10862
+
+23/10/2012
+
+DAMCO
+
+INDE
+
+04 TC DE 20’
+
+-MRKU760685/8
+
+-MSKU 360208/0
+
+-MSKU 758632/6
+
+-PONU 083083/1
+
+80000Kg
+
+PMS HOLDING
+
+E 10984
+
+25/10/2012
+
+DAMCO
+
+INDE
+
+01 TC DE 20’
+
+-MOAU 048212/7
+
+03 TC DE 40’
+
+-MOTU 020836/5
+
+-TCNU 619908/7
+
+-TCNU 757014/5
+
+80000Kg
+
+PMS HOLDING
+
+E 11061
+
+26/10/2012
+
+DAMCO
+
+INDE
+
+04 TC DE 20’
+
+-GLDU 518341/4
+
+-MOAU 056443/6
+
+- TEMU 329484/0
+
+-TEMU 388820/4
+
+80000Kg
+
+5
+
+MADAGASCAR
+
+RECYCLAGE
+
+E 4804
+
+12/10/2012
+
+P PRIDE
+
+SINGAPORE
+
+02 TC de 20’
+
+- FCIU 359118/6
+
+-TCLU 243617/8
+
+40000Kg
+
+MADAGASCAR
+
+RECYCLAGE
+
+E 5011
+
+23/10/2012
+
+P PRIDE
+
+SINGAPORE
+
+05 TC de 20’
+
+-CAXU 63668/6
+
+-MAEU 670030/7
+
+-MSKU 429098/4
+
+-MSKU 597606/9
+
+-POCU 048465/3
+
+100000Kg
+
+MADAGASCAR
+
+RECYCLAGE
+
+E 5012
+
+23/10/2012
+
+P PRIDE
+
+SINGAPORE
+
+05 TC de 20’
+
+-GESU 218695/9
+
+-INBU 329913/1
+
+-MSKU 429992/9
+
+-UESU 222017/3
+
+-UXXU228795/8
+
+100000Kg
+
+6
+
+MULLAT
+
+E 901
+
+05/10/12
+
+TRANSIT MEVA
+
+INDE
+
+03 TC
+
+-CLHU 207907/4
+
+-CLHU 332975/3
+
+-CLHU 118252/5
+
+60000Kg
+
+Par le Premier Ministre, Chef du Gouvernement,
+
+de Transition d’Union Nationale
+
+Jean Omer BERIZIKY
+
+Le Ministre du Commerce,
+
+Olga RAMALASON
