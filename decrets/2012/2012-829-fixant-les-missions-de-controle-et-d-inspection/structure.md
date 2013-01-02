@@ -1,0 +1,17 @@
+# Structure
+
+- CHAPITRE PREMIER — DES OFFICIERS DE POLICE JUDICIAIRE (OPJ) (avant Article 2)
+- SECTION PREMIERE — De la recherche des infractions (avant Article 8)
+- SECTION 2 — De la constatation des infractions (avant Article 9)
+- SECTION PREMIERE — De la saisie (avant Article 13)
+- SECTION 2 — Des prélèvements d’échantillons (avant Article 17)
+- SECTION 3 — Des analyses d’échantillons (avant Article 21)
+- CHAPITRE IV — DES PROCES VERBAUX (avant Article 30)
+- SECTION PREMIERE — Le procès-verbal de constatation d’infraction (avant Article 31)
+- SECTION 2 — Le procès-verbal de saisie (avant Article 34)
+- SECTION 3 — L’acte de prélèvement d’échantillons (avant Article 39)
+- TITRE II — DE LA TRANSACTION (avant Article 40)
+- CHAPITRE PREMIER — DES REGLES SUR LA TRANSACTION (avant Article 41)
+- CHAPITRE II — DE L’ASSIETTE DE LA TRANSACTION (avant Article 46)
+- CHAPITRE III — DE LA REPARTITION DES PRODUITS DE LA TRANSACTION (avant Article 52)
+- TITRE III — DISPOSITIONS DIVERSES ET FINALES (avant Article 54)
