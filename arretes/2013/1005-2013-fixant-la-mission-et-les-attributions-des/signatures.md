@@ -1,0 +1,19 @@
+# Signatures
+
+Antananarivo, le 22 janvier 2013
+
+Le Ministre de la Santé Publique,
+
+NDAHIMANANJARA Johanita
+
+Le Ministre de l’Enseignement Supérieur
+
+et de la Recherche Scientifique,
+
+RAZAFINDEHIBE Etienne Hilaire
+
+Le Ministre de la Fonction Publique, du Travail
+
+et des Lois Sociales,
+
+RANDRIAMANANTSOA Tabera
