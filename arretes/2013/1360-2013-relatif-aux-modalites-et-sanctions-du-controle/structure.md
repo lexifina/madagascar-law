@@ -1,0 +1,10 @@
+# Structure
+
+- CHAPITRE PREMIER — DÉFINITIONS (avant Article premier)
+- CHAPITRE II — DU CONTRÔLE (avant Article 3)
+- CHAPITRE III — DES INFRACTIONS (avant Article 7)
+- CHAPITRE IV — DES SANCTIONS (avant Article 8)
+- CHAPITRE V — DES AMENDES (avant Article 11)
+- CHAPITRE VI — DE LA RÉCIDIVE (avant Article 17)
+- CHAPITRE VII — DES DISPOSITIONS TRANSITOIRES (avant Article 18)
+- CHAPITRE VIII — DES DISPOSITIONS FINALES (avant Article 21)
