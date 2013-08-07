@@ -1,0 +1,17 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — ORGANISATION ET FONCTIONNEMENT (avant Article 5)
+- SECTION PREMIERE — Gestion administrative (avant Article 5)
+- SOUS SECTION PREMIERE — Assemblée Générale (avant Article 6)
+- SOUS SECTION II — Bureau exécutif (avant Article 15)
+- SOUS SECTION III — Relation entre le Bureau Exécutif et l'Assemblée Générale (avant Article 19)
+- SECTION II — Gestion financière (avant Article 21)
+- TITRE III — PLATEFORMES REGIONALES (avant Article 24)
+- CHAPITRE PREMIER — MISSIONS ET ATTRIBUTIONS (avant Article 24)
+- CHAPITRE II — ORGANISATION ET FONCTIONNEMENT (avant Article 26)
+- SECTION PREMIERE — Gestion administrative (avant Article 26)
+- SOUS SECTION PREMIERE — L'Assemblée Générale (avant Article 27)
+- SOUS SECTION II — Le bureau exécutif (avant Article 36)
+- SECTION II — Gestion financière (avant Article 43)
+- TITRE IV — DISPOSITIONS DIVERSES (avant Article 46)
