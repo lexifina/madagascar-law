@@ -1,0 +1,7 @@
+# Structure
+
+- CHAPITRE PREMIER — DE LA CREATION (avant Article premier)
+- CHAPITRE II — DE LA MISSION ET DES ATTRIBUTIONS (avant Article 3)
+- CHAPITRE III — DE L'ORGANISATION (avant Article 5)
+- CHAPITRE IV — DU FONCTIONNEMENT (avant Article 9)
+- CHAPITRE V — DISPOSITIONS FINALES (avant Article 13)
