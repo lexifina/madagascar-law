@@ -1,0 +1,16 @@
+# Structure
+
+- CHAPITRE II — DISPOSITIONS GENERALES (avant Article 7)
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article 25)
+- CHAPITRE II — OBLIGATIONS DU VENDEUR (avant Article 30)
+- SECTION PREMIERE — Livraison des marchandises et remise des documents (avant Article 31)
+- SECTION II — Conformité des marchandises et droits ou prétentions de tiers (avant Article 35)
+- CHAPITRE III — OBLIGATIONS DE L'ACHETEUR (avant Article 53)
+- SECTION PREMIERE — Paiement du prix (avant Article 54)
+- SECTION II — Prise de livraison (avant Article 60)
+- CHAPITRE IV — TRANSFERT DES RISQUES (avant Article 66)
+- SECTION II — Dommages Intérêts (avant Article 74)
+- SECTION III — Intérêts (avant Article 78)
+- SECTION IV — Exonération (avant Article 79)
+- SECTION V — Effets de la résolution. (avant Article 81)
+- SECTION VI — Conservation des marchandises (avant Article 85)
