@@ -1,0 +1,18 @@
+# Structure
+
+- SECTION PREMIERE — De la création et du siège social (avant Article premier)
+- SECTION II — De la nature juridique et de la tutelle (avant Article 3)
+- SECTION PREMIERE — De la mission (avant Article 4)
+- SECTION II — Des attributions (avant Article 5)
+- SECTION PREMIERE — Du Conseil d'Administration (avant Article 7)
+- SECTION II — De la Direction et ses Services (avant Article 15)
+- SECTION III — Du Conseil Médical Hospitalo-Universitaire ou CMHU (avant Article 19)
+- SECTION PREMIERE — Des différentes catégories du personnel (avant Article 27)
+- SECTION II — Du régime de rémunérations (avant Article 28)
+- SECTION III — Des modes de recrutement (avant Article 30)
+- SECTION PREMIERE — De l'exercice budgétaire (avant Article 31)
+- SECTION II — De la préparation et de l'exécution du budget (avant Article 32)
+- CHAPITRE II — COMPTES ANNUELS (avant Article 36)
+- SECTION PREMIERE — Compte administratif et Compte financier (avant Article 37)
+- CHAPITRE III — DU CONTROLE (avant Article 43)
+- TITRE IV — DISPOSITIONS DIVERSES ET FINALES (avant Article 45)
