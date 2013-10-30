@@ -1,0 +1,12 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — ORGANES DU SOC (avant Article 7)
+- CHAPITRE PREMIER — DU CONSEIL D'ADMINISTRATION (avant Article 8)
+- CHAPITRE II — DE LA DIRECTION EXECUTIVE (avant Article 14)
+- SECTION PREMIERE — Du Directeur Exécutif de l'ANCOS (avant Article 14)
+- SECTION II — Des Services de l'ANCOS (avant Article 16)
+- TITRE III — ORGANISATION FINANCIERE ET COMPTABLE (avant Article 17)
+- CHAPITRE PREMIER — DES RESSOURCES ET DES CHARGES (avant Article 17)
+- CHAPITRE III — DU CONTROLE (avant Article 25)
+- TITRE IV — DISPOSITIONS DIVERSES (avant Article 27)
