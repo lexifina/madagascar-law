@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DES STRATEGIES ET PRINCIPALES ACTIONS (avant Article 7)
+- TITRE III — DISPOSITIONS DIVERSES (avant Article 9)
