@@ -1,0 +1,8 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE III — STRUCTURE ET COMPOSITION (avant Article 7)
+- SOUS TITRE PREMIER — STRUCTURE (avant Article 7)
+- SOUS TITRE II — COMPOSITION (avant Article 8)
+- TITRE IV — FONCTIONNEMENT (avant Article 11)
+- TITRE V — DISPOSITIONS FINALES (avant Article 13)
