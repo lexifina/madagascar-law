@@ -1,0 +1,15 @@
+# Structure
+
+- TITRE PREMIER — INSTITUTION ET DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — VISION ET MISSIONS (avant Article 3)
+- TITRE III — ATTRIBUTIONS (avant Article 6)
+- TITRE IV — ORGANISATION ET FONCTIONNEMENT (avant Article 10)
+- CHAPITRE PREMIER — ORGANISATION (avant Article 11)
+- SECTION PREMIERE — Du Conseil d'Administration (avant Article 11)
+- SECTION II — De la Direction Générale (avant Article 15)
+- SECTION III — Des Directions (avant Article 18)
+- SECTION IV — Du Collège des Enseignants (avant Article 22)
+- CHAPITRE II — FONCTIONNEMENT (avant Article 23)
+- TITRE V — ORGANISATION FINANCIERE ET COMPTABLE (avant Article 27)
+- TITRE VI — CONTROLE (avant Article 31)
+- TITRE VII — DISPOSITIONS DIVERSES (avant Article 34)
