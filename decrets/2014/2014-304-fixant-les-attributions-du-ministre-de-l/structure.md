@@ -1,0 +1,5 @@
+# Structure
+
+- CHAPITRE PREMIER — MISSIONS (avant Article premier)
+- CHAPITRE II — ORGANISATION GENERALE DU MINISTERE (avant Article 3)
+- CHAPITRE III — ATTRIBUTIONS (avant Article 4)
