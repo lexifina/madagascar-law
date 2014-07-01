@@ -1,0 +1,16 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — OPÉRATIONS ÉLECTORALES (avant Article 4)
+- CHAPITRE PREMIER — DE LA LISTE ELECTORALE ET DE LA CARTE D’ELECTEUR (avant Article 4)
+- CHAPITRE II — DE LA CANDIDATURE (avant Article 7)
+- CHAPITRE III — DES BULLETINS DE VOTE (avant Article 8)
+- CHAPITRE IV — DES CONDITIONS DE LA CAMPAGNE ELECTORALE (avant Article 10)
+- SECTION PREMIERE — De la tenue des réunions électorales publiques (avant Article 10)
+- SECTION II — De l’emplacement d’affichage électoral (avant Article 15)
+- SECTION III — Des affiches, tracts et circulaires électoraux (avant Article 16)
+- TITRE III — ORGANISATION DU SCRUTIN (avant Article 20)
+- CHAPITRE PREMIER — DE LA LISTE ET EMPLACEMENT DES BUREAUX DE VOTE (avant Article 20)
+- CHAPITRE II — BADGES (avant Article 21)
+- CHAPITRE III — DE LA SECTION DE RECENSEMENT MATERIEL DE VOTE (avant Article 25)
+- TITRE IV — DISPOSITIONS FINALES (avant Article 26)
