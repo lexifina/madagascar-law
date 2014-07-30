@@ -1,0 +1,13 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DES ORGANES DU CONSEIL (avant Article 4)
+- CHAPITRE PREMIER — DU CONSEIL D'ADMINISTRATION (avant Article 5)
+- CHAPITRE II — DE L'ORGANE ADMINISTRATIF ET JURIDICTIONNEL (avant Article 11)
+- SECTION PREMIERE — De la fonction administrative (avant Article 11)
+- SECTION II — De la fonction Juridictionnelle (avant Article 16)
+- TITRE III — REGIME FINANCIER ET COMPTABLE (avant Article 39)
+- CHAPITRE PREMIER — DE L'AGENT COMPTABLE (avant Article 43)
+- CHAPITRE II — DES RESSOURCES ET DEPENSES DU CONSEIL (avant Article 46)
+- CHAPITRE III — DE LA REMUNERATION (avant Article 50)
+- TITRE IV — DISPOSITIONS FINALES (avant Article 53)
