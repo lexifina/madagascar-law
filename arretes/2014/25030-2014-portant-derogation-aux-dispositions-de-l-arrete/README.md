@@ -1,0 +1,9 @@
+# Arrêté n° 25030/2014 du 1er août 2014 portant dérogation aux dispositions de l'arrêté n°33471/2013 relatif à la limitation temporaire des charges des poids lourds traversant le pont de Betsiboka au PK 337 + 900 et le pont de Kamoro au PK 406 +300 de la Route Nationale Primaire 4
+
+- Source : CNLEGIS (Direction du CNLEGIS, Secrétariat général du Gouvernement), fiche 43115, <https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=25030/2014#id=43115>
+- Date du texte : 2014-08-01 ; J.O. n° 3580 du 2014-10-13, p. 3884
+- En vigueur : 2014-08-01 (le texte s’applique dès sa signature/promulgation ou immédiatement (« entre immédiatement en vigueur ») (Ordonnance n° 62-041, art. 4 : jour de diffusion non imprimé, daté du jour du texte))
+- État selon CNLEGIS : En vigueur
+- Texte : texte HTML publié par CNLEGIS
+- Unités : 4 articles
+- Version : texte publié par CNLEGIS ; les modifications ultérieures ne sont pas appliquées.
