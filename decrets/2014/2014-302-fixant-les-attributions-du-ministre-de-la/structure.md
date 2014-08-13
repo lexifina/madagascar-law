@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — DU CABINET DU MINISTRE (avant Article 4)
+- TITRE III — DU SECRETARIAT GENERAL (avant Article 8)
+- TITRE V — LES DIRECTIONS INTER-REGIONALES (avant Article 22)
