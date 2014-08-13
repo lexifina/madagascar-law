@@ -1,0 +1,5 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE V — DISPOSITIONS DIVERSES (avant Article 11)
+- CHAPITRE VI — DISPOSITIONS FINALES (avant Article 25)
