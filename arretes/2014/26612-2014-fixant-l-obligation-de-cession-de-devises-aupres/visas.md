@@ -1,0 +1,31 @@
+# Visas
+
+REPOBLIKAN'I MADAGASIKARA
+
+Fitiavana-Tanindrazana-Fandrosoana
+
+MINISTERE DES FINANCES ET DU BUDGET
+
+ARRETE N° 26612/2014
+
+Fixant l’obligation de cession de devises auprès
+
+du Marché Interbancaire des Devises.
+
+LE MINISTRE DES FINANCES ET DU BUDGET,
+
+Vu la Constitution;
+
+Vu la Loi n° 2006-008 du 02 Août 2006 portant Code des Changes ;
+
+Vu le Décret n°2009-048 du 12 Janvier 2009 fixant les modalités d’application de la loi n°2006-008 du 02 Août 2006 portant Code des Changes;
+
+Vu le Décret n° 2014-200 du 11 avril 2014 portant nomination du Premier Ministre, Chef du Gouvernement ;
+
+Vu le Décret n°2014-235 du 18 avril 2014 portant nomination des membres du Gouvernement;
+
+Vu le Décret n°1102 du 22 juillet 2014 fixant les attributions du Ministre des Finances et du Budget ainsi que l’organisation de son Ministère.
+
+Vu l’Arrêté n°8211-2014/MFB/SG/DGT/DRSFP/SSOC du 10 février 2014 relatif au délai de rapatriement des devises nées des exportations de marchandises et de prestations de services.
+
+A R R E T E :
