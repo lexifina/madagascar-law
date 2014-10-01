@@ -1,0 +1,7 @@
+# Structure
+
+- TITRE PREMIER — GENERALITES (avant Article premier)
+- TITRE II — DE LA STRUCTURE (avant Article 4)
+- CHAPITRE PREMIER — DU CONSEIL D’ADMINISTRATION (avant Article 5)
+- CHAPITRE II — DE LA DIRECTION GENERALE (avant Article 12)
+- TITRE V — DISPOSITIONS DIVERSES (avant Article 27)
