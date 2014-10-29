@@ -1,0 +1,18 @@
+# Structure
+
+- SECTION PREMIERE — De la création et du siège social (avant Article premier)
+- SECTION II — De la nature juridique et de la tutelle des GCHU et des CHU (avant Article 5)
+- CHAPITRE PREMIER — DES ORGANES DES GCHU ET DES CHU (avant Article 9)
+- CHAPITRE II — DE LA GESTION DU PERSONNEL DES CHU (avant Article 38)
+- SECTION PREMIERE — Des différentes catégories du personnel (avant Article 38)
+- SECTION II — Du régime de rémunérations (avant Article 39)
+- SECTION III — Des modes de recrutement (avant Article 41)
+- SECTION IV — Du principe de plein emploi (avant Article 42)
+- SECTION PREMIERE — De l’exercice budgétaire (avant Article 43)
+- SECTION II — De la préparation et de l’exécution du budget (avant Article 44)
+- CHAPITRE II — COMPTES ANNUELS (avant Article 49)
+- SECTION PREMIERE — Compte administratif et Compte financier (avant Article 50)
+- CHAPITRE III — DU CONTROLE (avant Article 54)
+- TITRE IV — DISPOSITIONS SPECIALES (avant Article 56)
+- TITRE V — DISPOSITIONS TRANSITOIRES (avant Article 58)
+- TITRE VI — DISPOSITIONS DIVERSES ET FINALES (avant Article 59)
