@@ -1,0 +1,7 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — MISSION ET RESPONSABILITES (avant Article 2)
+- TITRE III — COMPOSITION (avant Article 5)
+- TITRE IV — FONCTIONNEMENT (avant Article 10)
+- TITRE V — DISPOSITIONS FINALES (avant Article 12)
