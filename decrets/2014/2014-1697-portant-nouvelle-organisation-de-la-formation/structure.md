@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GÉNÉRALES (avant Article premier)
+- TITRE II — FORMATIONS ACADEMIQUES (avant Article 6)
+- TITRE III — DISPOSITIONS DIVERSES (avant Article 19)
