@@ -1,0 +1,16 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- SECTION PREMIERE — De la création et du siège social (avant Article premier)
+- SECTION II — De la nature juridique et de la tutelle (avant Article 3)
+- SECTION III — De la mission et des attributions du CNTS (avant Article 4)
+- SECTION PREMIERE — Du Conseil d’Administration (avant Article 7)
+- SECTION PREMIERE — Des différentes catégories de personnel (avant Article 30)
+- SECTION II — Du régime de rémunération (avant Article 31)
+- SECTION III — Du mode de recrutement (avant Article 32)
+- SECTION PREMIERE — De l’exercice budgétaire (avant Article 33)
+- SECTION II — De la préparation et de l’exécution du budget (avant Article 34)
+- CHAPITRE II — DES COMPTES ANNUELS (avant Article 40)
+- SECTION PREMIERE — Du compte administratif et du compte financier (avant Article 41)
+- CHAPITRE III — DU CONTROLE (avant Article 47)
+- TITRE IV — DISPOSITIONS DIVERSES ET FINALES (avant Article 49)
