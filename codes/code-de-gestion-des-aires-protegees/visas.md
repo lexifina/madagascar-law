@@ -1,21 +1,21 @@
 # Visas
 
-REPOBLIKAN'I MADAGASIKARA
+REPOBLIKAN’I MADAGASIKARA
 
-Tanindrazana-Fahafahana-Fandrosoana
+Fitiavana-Tanindrazana-Fandrosoana
 
 PRESIDENCE DE LA REPUBLIQUE
 
-LOI N° 2001-005
+LOI N° 2015-005
 
-Portant code de gestion des aires protégées
+Portant refonte du Code de Gestion des Aires Protégées.
 
-L'Assemblée Nationale et le Sénat ont adopté en leurs séances respectives en date du 26 juillet 2001 et du 07 août 2002,
+L’Assemblée nationale a adopté en sa séance du 22 janvier 2015,
 
 LE PRESIDENT DE LA REPUBLIQUE,
 
-Vu la Constitution;
+Vu la Constitution,
 
-Vu la décision n°01-HCC/D.3 du 05 février 2003;
+Vu la Décision n° 15 - HCC/D3 du 18 février 2015 de la Haute Cour Constitutionnelle,
 
-PROMULGUE LA LOI DONT LA TENEUR SUIT:
+PROMULGUE LA LOI DONT LA TENEUR SUIT :
