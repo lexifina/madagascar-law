@@ -1,0 +1,7 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE PREMIER — MISSIONS (avant Article 2)
+- CHAPITRE II — COMPOSITION (avant Article 3)
+- CHAPITRE III — ORGANISATION ET FONCTIONNEMENT (avant Article 5)
+- TITRE II — DISPOSITIONS FINALES (avant Article 8)
