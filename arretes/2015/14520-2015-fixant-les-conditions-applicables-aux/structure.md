@@ -1,0 +1,5 @@
+# Structure
+
+- CHAPITRE PREMIER — GENERALITES (avant Article premier)
+- CHAPITRE II — CONSTITUTION ET RECONNAISSANCE (avant Article 5)
+- CHAPITRE V — DISPOSITIONS TRANSITOIRES (avant Article 28)
