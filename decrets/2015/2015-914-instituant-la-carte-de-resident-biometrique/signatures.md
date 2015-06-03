@@ -1,0 +1,5 @@
+# Signatures
+
+Fait à Antananarivo, le 03 juin 2015 Hery RAJAONARIMAMPIANINA Par Le Président de la République, Le Premier Ministre, Chef du Gouvernement, RAVELONARIVO Jean Le Ministre de l’Intérieur et de la Décentralisation, MAHAFALY Solonandrasana Olivier Le Garde des Sceaux, Ministre de la Justice, RAMANANTENASOA Noëline Le Ministre des Affaires étrangères, ATTALAH Béatrice www.cnlegis.gov.mg 2/4 Le Ministre des Finances et du Budget, RAKOTOARIMANANA François Marie Maurice Gervais Le Ministre de la Défense Nationale, RAKOTOZAFY Dominique Jean Olivier Le Ministre de la Fonction Publique, du Travail et des Lois sociales, MAHARANTE Jean De Dieu Le Ministre de la Sécurité Publique, RANDIMBISOA Blaise Richard Le Ministre de la Communication et des Relations avec les Institutions, ANDRIANJATO RAZAFINDAMBO Vonison Le Ministre du Commerce et de la Consommation, RABESAHALA Henry Le Secrétaire d’Etat chargé de la Gendarmerie, PAZA Didier Gérard www.cnlegis.gov.mg 3/4 Annexe du Décret n°2015-914 instituant la Carte de Résident Biométrique Modèle de la Carte de Résident Biométrique RECTO :
+
+85 mm x 54 mm 85 mm Épaisseur : 0.8mm www.cnlegis.gov.mg 4/4
