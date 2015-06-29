@@ -1,0 +1,7 @@
+# Signatures
+
+Antananarivo, le 29 juin 2015
+
+LE MINISTRE DE L’ENVIRONNEMENT, DE L’ECOLOGIE, DE LA MER ET DES FORET
+
+Ralava BEBOARIMISA
