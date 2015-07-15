@@ -1,0 +1,6 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — ORGANISATION (avant Article 3)
+- CHAPITRE III — ATTRIBUTIONS (avant Article 8)
+- CHAPITRE IV — DISPOSITIONS DIVERSES ET FINALES (avant Article 10)
