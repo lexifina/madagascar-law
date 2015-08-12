@@ -1,0 +1,6 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DE LA STRUCTURE (avant Article 7)
+- CHAPITRE PREMIER — DU CONSEIL D’ADMINISTRATION (avant Article 8)
+- CHAPITRE II — DE LA DIRECTION (avant Article 15)
