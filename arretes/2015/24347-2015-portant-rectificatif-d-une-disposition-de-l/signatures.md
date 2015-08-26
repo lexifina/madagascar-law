@@ -1,0 +1,13 @@
+# Signatures
+
+Antananarivo, le 27juillet 2017
+
+LE MINISTRE DE LA FONCTION PUBLIQUE, DU TRAVAIL ET DES SOCIALES
+
+MAHARANTE Jean de Dieu
+
+LE MINISTRE DE LA SECURITE PUBLIQUE
+
+RANDIMBISOA Blaise Richard
+
+Inspecteur Général de Police
