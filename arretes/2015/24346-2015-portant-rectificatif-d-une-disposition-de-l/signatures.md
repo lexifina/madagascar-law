@@ -1,0 +1,13 @@
+# Signatures
+
+Antananarivo, le 27 juillet 2015
+
+LE MINISTRE DE LA FONCTION PUBLIQUE, DU TRAVAIL ET DES LOIS SOCIALES
+
+MAHARANTE Jean de Dieu
+
+LE MINISTRE DE LA SECURITE PUBLIQUE
+
+RANDIMBISOA Blaise Richard
+
+Inspecteur Général de Police
