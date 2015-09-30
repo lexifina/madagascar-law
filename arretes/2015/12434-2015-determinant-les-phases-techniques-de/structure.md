@@ -1,0 +1,16 @@
+# Structure
+
+- CHAPITRE PREMIER — Définitions (avant Article premier)
+- CHAPITRE II — Généralités (avant Article 2)
+- SECTION 1 — Procédure à suivre (avant Article 4)
+- SECTION 2 — Phases de certification (avant Article 5)
+- SECTION 3 — La phase de pré-candidature (avant Article 6)
+- SECTION 4 — La phase de demande formelle (avant Article 7)
+- SECTION 5 — Evaluation de la demande (avant Article 8)
+- SECTION 6 — La phase d’évaluation des documents (avant Article 10)
+- SECTION 7 — La phase de démonstration et d’inspection (avant Article 11)
+- SECTION 8 — La phase de délivrance de certificat (avant Article 12)
+- CHAPITRE IV — Renouvellement, modification et transfert du certificat (avant Article 15)
+- CHAPITRE V — Obligation du détenteur d’un certificat (avant Article 18)
+- CHAPITRE VI — Sanctions et mesures d’urgence (avant Article 20)
+- CHAPITRE X — Dispositions finales (avant Article 27)
