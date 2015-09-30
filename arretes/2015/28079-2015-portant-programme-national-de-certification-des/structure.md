@@ -1,0 +1,17 @@
+# Structure
+
+- TITRE PREMIER — Généralités (avant Article premier)
+- Section 2 — Activités et tâches des agents actifs de sûreté (avant Article 8)
+- Section 3 — Qualifications, compétences et aptitudes personnelles (avant Article 9)
+- Section 4 — Critères physiques (avant Article 10)
+- Section 5 — Qualifications et vérifications des compétences (avant Article 11)
+- TITRE III — CERTIFICATION DES AGENTS ACTIFS DE SURETE (avant Article 12)
+- Section 1 — Phase de pré-évaluation ou phase préliminaire (avant Article 12)
+- Section 2 — Phase de demande formelle (avant Article 13)
+- Section 3 — Phase d’évaluation des documents (avant Article 16)
+- Section 4 — Phase de démonstration et d’évaluation sur site (avant Article 17)
+- Section 5 — Phase de délivrance de la certification (avant Article 22)
+- Section 5 — Surveillance de la certification (avant Article 24)
+- TITRE IV — DISPOSITIONS RELATIVES AUX INSTRUCTEURS NATIONAUX EN SURETE DE L’AVIATION CIVILE (avant Article 25)
+- TITRE V — DISPOSITIONS RELATIVES AUX INSPECTEURS AUDITEURS NATIONAUX (avant Article 32)
+- TITRE VI — DISPOSITIONS DIVERSES ET FINALES (avant Article 36)
