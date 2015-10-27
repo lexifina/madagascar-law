@@ -1,0 +1,18 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- SECTION II — Du dépôt et d’enregistrement de candidature (avant Article 9)
+- CHAPITRE IV — DE LA CAMPAGNE ELECTORALE (avant Article 19)
+- SECTION PREMIERE — De la tenue des réunions publiques électorales (avant Article 19)
+- SECTION II — De l’emplacement d’affichage électoral (avant Article 25)
+- SECTION III — Des affiches, tracts et circulaires électoraux (avant Article 26)
+- SECTION V — Des tirages au sort (avant Article 32)
+- CHAPITRE V — DES BULLETINS DE VOTE (avant Article 34)
+- CHAPITRE VI — DU PORT DE BADGE (avant Article 40)
+- CHAPITRE VII — DE L’ORGANISATION DU SCRUTIN (avant Article 45)
+- SECTION PREMIERE — Des bureaux de vote (avant Article 45)
+- SECTION II — Du déroulement du scrutin (avant Article 48)
+- SECTION PREMIERE — De la Section chargée du recensement matériel des votes (avant Article 56)
+- SECTION II — Du traitement et de la publication des résultats (avant Article 58)
+- SECTION III — Du contentieux électoral (avant Article 66)
+- CHAPITRE IX — DISPOSITIONS DIVERSES ET FINALES (avant Article 67)
