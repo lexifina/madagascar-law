@@ -1,0 +1,7 @@
+# Signatures
+
+Antananarivo, le 29 avril 2015
+
+LE MINISTRE DU TOURISME, DES TRANSPORTS ET DE LA METEOROLOGIE
+
+ANDRIANTIANA Tacques Ulrich
