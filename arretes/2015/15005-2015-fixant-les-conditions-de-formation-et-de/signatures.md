@@ -1,0 +1,9 @@
+# Signatures
+
+Antananarivo, le 22 avril 2015
+
+LE MINISTRE DU TOURISME
+
+DES TRANSPORTS ET DE LA METEOROLOGIE
+
+ANDRIANTIANA Jacques Ulrich
