@@ -1,0 +1,3 @@
+# Article 24 bis
+
+(nouveau) La gestion financière et comptable de l’O.MA.CI est assurée par un Agent Comptable, comptable public, nommé par Arrêté du Ministre Chargé des Finances et du Budget, et placé sous l’autorité administrative du Directeur de l’O.MA.CI. Toutefois, l’Agent Comptable conserve à son égard l’autonomie fonctionnelle qui lui confère son statut de comptable public. A ce titre, il est chargé de la prise en charge du recouvrement des droits et ressources diverses, de contrôle et du paiement des dépenses, de la garde et de la conservation des fonds et valeurs, du maintien des fonds, de la tenue de la comptabilité administrative.
