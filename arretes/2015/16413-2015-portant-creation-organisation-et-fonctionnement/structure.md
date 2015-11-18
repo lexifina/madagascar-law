@@ -1,0 +1,4 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — DE LA MISSION ET DES ATTRIBUTIONS (avant Article 2)
