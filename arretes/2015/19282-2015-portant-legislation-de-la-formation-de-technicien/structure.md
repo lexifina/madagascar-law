@@ -1,0 +1,7 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DE L’ORGANISATION (avant Article 4)
+- TITRE III — DE L’AGREMENT DE FILIERES (avant Article 7)
+- TITRE IV — DE L’EVALUATION (avant Article 16)
+- TITRE V — DISPOSITIONS FINANCIERES (avant Article 25)
