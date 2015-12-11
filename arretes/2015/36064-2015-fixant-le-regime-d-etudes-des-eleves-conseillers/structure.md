@@ -1,0 +1,6 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DE L’ORGANISATION DES FORMATIONS (avant Article 5)
+- TITRE III — CONDITION D’ADMISSION (avant Article 10)
+- TITRE IV — DISPOSITIONS DIVERSES (avant Article 13)
