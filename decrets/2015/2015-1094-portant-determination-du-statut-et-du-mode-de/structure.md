@@ -1,0 +1,5 @@
+# Structure
+
+- CHAPITRE PREMIER — OBJET (avant Article premier)
+- CHAPITRE II — DÉFINITION ET CHAMPS D’APPLICATION (avant Article 2)
+- CHAPITRE V — DISPOSITIONS DIVERSES ET FINALES (avant Article 16)
