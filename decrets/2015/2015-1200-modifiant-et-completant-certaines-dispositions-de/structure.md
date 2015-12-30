@@ -1,0 +1,16 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE PREMIER (avant Article 7)
+- SECTION PREMIERE — Désignation et Nomination des Membres (avant Article 7)
+- SECTION II — Formalité et Périodicité des Réunions (avant Article 9)
+- SECTION III — Le pouvoir du conseil d’Administration (avant Article 16)
+- CHAPITRE II — DE LA DIRECTION (avant Article 19)
+- TITRE III — DE L’ORGANISATION FINANCIERE ET COMPTABLE (avant Article 28)
+- CHAPITRE PREMIER (avant Article 28)
+- CHAPITRE II — LE BUDGET DE PROGRAMME (avant Article 31)
+- CHAPITRE III — DU CONTROLE (avant Article 42)
+- TITRE V — LES PROGRAMMES DE FORMATION (avant Article 47)
+- TITRE VI — AUTRES DISPOSITIONS (avant Article 49)
+- TITRE VII — DE LA DISSOLUTION-LIQUIDATION (avant Article 50)
+- TITRE VIII — DISPOSITIONS DIVERSES (avant Article 55)
