@@ -1,0 +1,18 @@
+# Structure
+
+- TITRE PREMIER — DES DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE PREMIER — DES BRIGADES MIXTES D’ENQUETE (avant Article 5)
+- SECTION PREMIERE — De la composition (avant Article 5)
+- SECTION II — Des attributions (avant Article 9)
+- SECTION III — De la procédure (avant Article 10)
+- CHAPITRE II — DE LA COUR SPECIALE (avant Article 21)
+- SECTION PREMIERE — De la composition (avant Article 27)
+- SECTION II — Des attributions et de la procédure (avant Article 33)
+- SOUS-SECTION PREMIERE — Du Parquet (avant Article 33)
+- SOUS SECTION II — De l’instruction (avant Article 38)
+- SOUS SECTION III — De la juridiction de jugement (avant Article 48)
+- SOUS-SECTION IV — Des voies de recours (avant Article 64)
+- TITRE III — DES INFRACTIONS ET DES PEINES (avant Article 69)
+- TITRE V — DES MESURES DE PROTECTION (avant Article 90)
+- TITRE VI — DE LA COOPERATION INTERNATIONALE (avant Article 98)
+- TITRE VII — DES DISPOSITIONS TRANSITOIRES ET FINALES (avant Article 99)
