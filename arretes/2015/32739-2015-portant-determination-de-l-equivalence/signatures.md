@@ -1,0 +1,11 @@
+# Signatures
+
+Antananarivo, le 02 novembre 2015
+
+P.LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT
+
+et par délégation
+
+LE MINISTRE DE LA FONCTION PUBLIQUE,
+
+DU TRAVAIL ET DES LOIS SOCIALES
