@@ -1,0 +1,17 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE PREMIER — DU CHAMP D’APPLICATION (avant Article 7)
+- SECTION PREMIERE — De l’Etat (avant Article 23)
+- SECTION II — Des Collectivités Territoriales Décentralisées (avant Article 28)
+- PARAGRAPHE PREMIER — Des Provinces (avant Article 29)
+- PARAGRAPHE II — Des Régions (avant Article 30)
+- PARAGRAPHE III — Des Communes (avant Article 31)
+- CHAPITRE VI — DES PLANS D’URBANISME (avant Article 51)
+- CHAPITRE VII — DU PLAN LOCAL D’OCCUPATION FONCIERE (avant Article 54)
+- CHAPITRE VIII — DE LA POLITIQUE NATIONALE FONCIERE (avant Article 56)
+- TITRE IV — DE L’OBSERVATOIRE DU TERRITOIRE (avant Article 59)
+- CHAPITRE UNIQUE — DU FONDS D’AMENAGEMENT DU TERRITOIRE (avant Article 65)
+- TITRE VI — DISPOSITIONS SPECIFIQUES (avant Article 67)
+- CHAPITRE PREMIER — DES TERRITOIRES A VOCATION SPECIFIQUE (avant Article 67)
+- TITRE VII — DISPOSITIONS DIVERSES ET FINALES (avant Article 75)
