@@ -1,0 +1,9 @@
+# Structure
+
+- CHAPITRE PREMIER — DES DISPOSITIONS GENERALES (avant Article 2)
+- CHAPITRE II — DES PRINCIPES (avant Article 4)
+- CHAPITRE III — DE LA MISE EN ŒUVRE (avant Article 12)
+- SECTION II — Des plans d’intervention (avant Article 19)
+- CHAPITRE IV — DISPOSITIONS FINANCIERES (avant Article 24)
+- CHAPITRE V — DES DISPOITIONS TRANSITOIRES (avant Article 30)
+- CHAPITRE VI — DES DISPOSITIONS FINALES (avant Article 31)
