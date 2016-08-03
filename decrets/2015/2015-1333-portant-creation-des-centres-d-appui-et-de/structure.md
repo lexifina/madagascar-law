@@ -1,0 +1,11 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITION GENERALE (avant Article premier)
+- TITRE II — LES ATTRIBUTIONS (avant Article 4)
+- TITRE III — ORGANES DU CAFPA (avant Article 6)
+- CHAPITRE PREMIER — DU CONSEIL D’ADMINISTRATION (avant Article 7)
+- CHAPITRE II — DE LA DIRECTION (avant Article 17)
+- TITRE V — STATUT DU PERSONNEL (avant Article 26)
+- TITRE VI — DU CONTROLE (avant Article 27)
+- TITRE VII — DISPOSITIONS DIVERSES (avant Article 28)
+- TITRE VIIII — DISPOSITIONS FINALES (avant Article 31)
