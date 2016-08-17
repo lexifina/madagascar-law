@@ -1,0 +1,9 @@
+# Signatures
+
+Antananarivo, le 29 Février 2016
+
+LE MINISTRE DU TOURISME,
+
+DES TRANSPORTS ET DE LA METEOROLOGIE
+
+ANDRIANTIANA Jacques Ulrich
