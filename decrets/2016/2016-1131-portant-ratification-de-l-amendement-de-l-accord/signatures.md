@@ -1,0 +1,23 @@
+# Signatures
+
+Fait à Antananarivo, le 17 Août 2016
+
+RAJAONARIMAMPIANINA Hery
+
+Par le Président de la République,
+
+Le Premier Ministre, Chef du Gouvernement,
+
+MAHAFALY Solonandrasana Olivier
+
+Le Ministre des Finances et du Budget,
+
+RAKOTOARIMANANA François Marie
+
+Maurice Gervais
+
+Le Ministre auprès de la Présidence
+
+chargé de l'Agriculture et de l'Elevage,
+
+RAKOTOVAO Rivo
