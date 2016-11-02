@@ -1,0 +1,5 @@
+# Structure
+
+- CHAPITRE PREMIER — GENERALITE (avant Article premier)
+- CHAPITRE III — LES AUTORITÉS COMPÉTENTES (avant Article 16)
+- CHAPITRE IV — DISPOSITIONS DIVERSES (avant Article 19)
