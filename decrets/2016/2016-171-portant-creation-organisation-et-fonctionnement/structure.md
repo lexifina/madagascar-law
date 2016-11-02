@@ -1,0 +1,15 @@
+# Structure
+
+- TITRE II — DE L’ORGANISATION ADMINISTRATIVE DU CAMUM (avant Article 8)
+- CHAPITRE PREMIER — DES ORGANES DU CAMUM (avant Article 8)
+- CHAPITRE II — DE LA GESTION DU PERSONNEL DU CAMUM (avant Article 32)
+- SECTION PREMIERE — Des différentes catégories de personnel (avant Article 32)
+- SECTION II — Du régime de rémunération et des avantages (avant Article 33)
+- SECTION III — Du mode de recrutement (avant Article 35)
+- CHAPITRE PREMIER — DU BUDGET (avant Article 36)
+- SECTION PREMIERE — De l’exercice budgétaire (avant Article 36)
+- CHAPITRE II — DES COMPTES ANNUELS (avant Article 42)
+- CHAPITRE III — DU CONTROLE (avant Article 49)
+- TITRE IV — DISPOSITIONS DIVERSES ET FINALES (avant Article 51)
+- CHAPITRE PREMIER — REGIME DES BIENS (avant Article 51)
+- CHAPITRE II — AUTRES (avant Article 52)
