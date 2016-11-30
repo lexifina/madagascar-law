@@ -1,0 +1,9 @@
+# Arrêté n° 16593/2016 du 4 août 2016 portant désaffectation d'un terrain de53ha 53a 64ca, de la propriété dite : Le Proserie Centrale, titre n° 144-H, sise à Soamananety, Commune Ambohidratrimo, District d'Ambohidratrimo, Région Analamanga
+
+- Source : CNLEGIS (Direction du CNLEGIS, Secrétariat général du Gouvernement), fiche 44933, <https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=16593/2016#id=44933>
+- Date du texte : 2016-08-04 ; J.O. n° 3721 du 2016-11-28, p. 7192
+- En vigueur : 2016-11-30 (Ordonnance n° 62-041 du 19 septembre 1962, art. 3 : « un jour franc après l’arrivée du Journal officiel » ; jour d’arrivée non imprimé : date du JO + 2 jours, la plus tôt possible)
+- État selon CNLEGIS : En vigueur
+- Texte : texte HTML publié par CNLEGIS
+- Unités : 5 articles
+- Version : texte publié par CNLEGIS ; les modifications ultérieures ne sont pas appliquées.
