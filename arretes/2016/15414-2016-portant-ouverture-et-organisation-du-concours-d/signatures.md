@@ -1,0 +1,9 @@
+# Signatures
+
+Antananarivo, le 26 juillet 2016
+
+LE MINISTRE DE L’ENSEIGNEMENT SUPERIEUR
+
+DE LA RECHERCHE SCIENTIFIQUE
+
+RASOAZANANERA Marie Monique
