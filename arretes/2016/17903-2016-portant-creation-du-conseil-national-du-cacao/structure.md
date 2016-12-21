@@ -1,0 +1,6 @@
+# Structure
+
+- TITRE 1 : — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE 2 : — DE L’ORGANISATION ET DU FONCTIONNEMENT DU CONSEIL (avant Article 6)
+- TITRE 3 : — DES RESSOURCES DU CONSEIL (avant Article 9)
+- TITRE 4 : — DISPOSITIONS DIVERSES (avant Article 11)
