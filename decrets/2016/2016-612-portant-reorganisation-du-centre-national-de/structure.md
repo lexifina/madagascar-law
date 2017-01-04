@@ -1,0 +1,18 @@
+# Structure
+
+- CHAPITRE PREMIER — DE L'ORGANISATION ADMINISTRATIVE (avant Article 4)
+- SECTION PREMIERE — Du Conseil d'Administration (avant Article 5)
+- SECTION II — Du Conseil Scientifique d'Orientation (avant Article 11)
+- SECTION III — De la Direction (avant Article 14)
+- SECTION IV — Des Départements (avant Article 17)
+- SECTION V — Des Antennes Locales (avant Article 25)
+- CHAPITRE II — DE L'ORGANISATION FINANCIERE ET COMPTABLE (avant Article 26)
+- SECTION PREMIERE — Du Budget et Comptes (avant Article 26)
+- SECTION II — De l'Agence Comptable (avant Article 32)
+- CHAPITRE III — DES RESSOURCES ET CHARGES (avant Article 34)
+- SECTION PREMIERE — Des Ressources (avant Article 34)
+- SECTION II — Des Charges (avant Article 36)
+- TITRE III — DU CONTROLE (avant Article 37)
+- CHAPITRE PREMIER — DU COMMISSAIRE DU GOUVERNEMENT (avant Article 37)
+- CHAPITRE II — DE LA COUR DES COMPTES ET AUTRES (avant Article 38)
+- TITRE IV — DES DISPOSITIONS DIVERSES (avant Article 39)
