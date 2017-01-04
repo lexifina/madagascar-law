@@ -1,0 +1,17 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DE L’ORGANISATION ADMINISTRATIVE (avant Article 5)
+- CHAPITRE PREMIER — DU CONSEIL D’ADMINISTRATION (avant Article 6)
+- SECTION PREMIERE — Membres, nomination, avantages et prérogatives (avant Article 6)
+- SECTION II — Du fonctionnement (avant Article 16)
+- SECTION III — Des pouvoirs et des attributions (avant Article 19)
+- SECTION III — Des Directions techniques (avant Article 33)
+- TITRE III — DE LA GESTION FINANCIERE ET COMPTABLE (avant Article 39)
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article 39)
+- CHAPITRE II — L’ORDONNATEUR ET LE COMPTABLE (avant Article 42)
+- SECTION PREMIERE — L’ordonnateur (avant Article 42)
+- SECTION II — L’Agent comptable et les comptables subordonnés (avant Article 45)
+- CHAPITRE III — CONTROLE (avant Article 52)
+- CHAPITRE V — DU REGIME FISCAL ET DOUANIER (avant Article 60)
+- TITRE IV — DISPOSITIONS FINALES (avant Article 61)
