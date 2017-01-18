@@ -1,0 +1,16 @@
+# Structure
+
+- CHAPITRE PREMIER — DE L'ORGANISATION ADMINISTRATIVE (avant Article 4)
+- SECTION PREMIERE — Du Conseil d'Administration (avant Article 5)
+- SECTION II — Du Conseil Scientifique et d'Orientation (avant Article 8)
+- SECTION III — De la Direction (avant Article 9)
+- SECTION PREMIERE — Du Département Administratif et Financier (avant Article 14)
+- SECTION II — Du Département Chimie (avant Article 15)
+- SECTION V — Du Département Energétique (avant Article 18)
+- SECTION VII — Des Antennes locales (avant Article 20)
+- CHAPITRE III — DE LA GESTION DES RESSOURCES HUMAINES (avant Article 21)
+- CHAPITRE PREMIER — DU COMMISSAIRE DU GOUVERNEMENT (avant Article 22)
+- CHAPITRE II — DE L'ORGANISATION FINANCIERE (avant Article 23)
+- SECTION PREMIERE — Des Ressources du Centre (avant Article 24)
+- SECTION II — Des Charges du Centre (avant Article 26)
+- TITRE IV — DES DISPOSITIONS DIVERSES (avant Article 36)
