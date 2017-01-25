@@ -1,5 +1,5 @@
 # Signatures
 
-Antananarivo, le 26 juillet 2004
+Promulguée à Antananarivo, le 25 janvier 2017
 
-Marc RAVALOMANANA
+RAJAONARIMAMPIANINA Hery Martial

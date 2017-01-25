@@ -2,112 +2,114 @@
 
 REPOBLIKAN'I MADAGASIKARA
 
-Tanindrazana-Fahafahana-Fandrosoana
+Fitiavana-Tanindrazana-Fandrosoana
 
 PRESIDENCE DE LA REPUBLIQUE
 
-LOI N° 2004-009
+LOI N° 2016-055
 
-Portant Code des Marchés Publics.
+Portant Code des Marchés Publics
 
 EXPOSE DES MOTIFS
 
-Le Gouvernement de la République de Madagascar a adopté au début de l'année 2004, le Document de Stratégie de Réduction de la Pauvreté, appelé communément le DSRP complet.
+Après une décennie de mise en application ponctuée par des séances de formation, de sensibilisation, d’appropriation et d’internalisation effectuées, aussi bien au niveau national qu’au niveau décentralisé et déconcentré de l’Etat, la loi n°2004-009 du 26 juillet 2004 portant Code des marchés publics et ses textes et documents d’application semblent actuellement se trouver en fin de cycle. Cette période de mise en œuvre relativement longue a permis de tirer de nombreux constats et enseignements quant à l’efficacité du système.
 
-Renfermant la stratégie et le plan d'actions visant à nous permettre de parvenir à un développement économique rapide et durable et de réduire de moitié en dix ans la pauvreté qui touche encore actuellement près de 80% de la population.
+En effet, au-delà des réticences ou résistances, prévisibles et somme toute compréhensibles, inhérentes à tout changement, il ressort des évaluations et constatations faites que certaines dispositions de la loi sont difficiles d’application, soit parce qu’elles ne correspondent pas aux réalités, soit qu’elles sont peu compatibles avec les objectifs d’efficacité de la dépense publique.
 
-Ce DSRP repose essentiellement sur trois axes principaux que sont :
+Suite à d’intenses travaux de réflexion et de concertation avec tous les acteurs des marchés publics, il en ressort qu’une redynamisation et un recadrage du système ainsi qu’une réorientation stratégique sont plus qu’opportuns.
 
-- la restauration de l'Etat de droit et d'une société pratiquant la bonne gouvernance ;
+Pour ce faire, dans l’optique de clarifier certaines dispositions et d’expliciter certaines notions, il est proposé de procéder à quelques amendements et modifications plus ou moins importantes de la version initiale de la loi n°2004-009 du 26 juillet 2004.
 
-- la promotion d'une croissance économique à base sociale très élargie et concernant le plus grand nombre;
+L’exercice ne consiste en aucun cas à faire table rase des anciennes dispositions, ni à remettre en cause les grands principes et l’économie générale du Code actuel, mais d’y apporter quelques améliorations, mise à jour et actualisation au profit de l’efficacité et de l’efficience de la dépense publique.
 
-- la promotion des systèmes de la sécurisation humaine et matérielle et de protection associant les couches les plus vulnérables de la population.
+Les aspects les plus significatifs de ces réformes sont axés essentiellement sur les points ci-après :
 
-La réforme comme la modernisation de l'achat dans le secteur public s'inscrit naturellement dans le premier axe stratégique, relatif à la bonne gouvernance. L'un des objectifs globaux vise la lutte contre la corruption, la transparence de la gestion et l'amélioration de la qualité des services rendus.
+1°- La consécration du principe de séparation de la fonction «contrôle» et celle de « régulation».
 
-Par le présent Code, le Gouvernement malgache entend réaffirmer sa volonté politique de s'impliquer de façon responsable dans la pratique de la bonne gouvernance, dont les éléments essentiels sont l'obligation de rendre compte, l'imputabilité, la rigueur, l'allègement, la transparence des procédures et des résultats et l'efficacité.
+À cet effet, l’aménagement est marqué par la scission de l’Autorité de Régulation des Marchés Publics en deux organes distincts et indépendants qui seront chargés d’exercer séparément ces deux fonctions :
 
-Ce qui est d'ailleurs souligné à l'article 4 du présent Code qui dispose que: " Quel que soit leur montant, les marchés publics respectent les principes de libertés d'accès à la commande publique, d'égalité de traitement des candidats, d'efficacité et de transparence des procédures. Ces principes permettent d'assurer l'efficience de la commande publique et la bonne utilisation des deniers publics. .. ".
+- d’une part, l’Autorité de Régulation des Marchés Publics ayant statut d’autorité administrative indépendante, dotée de personnalité morale et jouissant de l’autonomie administrative et financière ;
 
-Commencée en l'année 2000, dans le cadre national de la Réforme et le Renforcement des Organes de Contrôle (CRROC) qui en a jeté les bases par le renforcement des acquis des modifications antérieurs, tout en le mettant au diapason de la modernisation, La conception du nouveau Code a été poursuivie dans un cadre plus élargi impliquant la participation, outre celui du Comité National de Pilotage et de Suivi de la Réforme, des partenaires techniques et financiers, qu'était le Country Procurement Assessment Review (CPAR) ou la Revue par Pays des Processus de Passation des Marchés, menée entre décembre 2002 et juin 2003.
+- d’autre part, l’organe chargé du contrôle des marchés publics, structure administrative placée sous la tutelle technique du Ministre des Finances et du Budget, chargée de la mise en œuvre de la nouvelle stratégie de contrôle des marchés publics.
 
-Le CPAR a conclu à un éventail de recommandations dont l'essentiel peut se résumer en ces points :
+L’adoption de ces nouvelles dispositions a été dictée par les préoccupations suivantes :
 
-- élaboration d'un nouveau cadre juridique et réglementaire plus clair, basé sur les pratiques internationales;
+i°) éviter le conflit d’intérêts, mais aussi et surtout mettre en exergue la complémentarité de la fonction de contrôle et celle de régulation ;
 
-- renforcement du partenariat avec les opérateurs économiques et préservation des intérêts et des droits de ces derniers par l'institution d'un mécanisme de recours indépendant;
+ii°) assurer l’indépendance fonctionnelle respective de l’Autorité de Régulation des Marchés Publics et de la Commission Nationale des Marchés, notamment par :
 
-- renforcement de la capacité institutionnelle par la professionnalisation de l'achat public tant au sein de l'Administration qu'à celui du secteur privé;
+la révision du statut de l’Autorité de Régulation des Marchés Publics, qui sera mué en autorité administrative indépendante, au lieu d’un simple Établissement Public à caractère administratif ;
 
-- mise en place d'un système de contrôle et introduction du principe d'une Autorité de Régulation des Marchés Publics dont la tâche essentielle sera de suivre, d'assister la passation des marchés et de procéder à l'évaluation et suivi de la performance de l'achat dans le secteur public;
+la déconcentration des structures et des compétences des deux organes ;
 
-- renforcement du dispositif de lutte contre lia corruption, incluant les modalités d'application des sanctions.
+la mise à disposition des ressources adéquates en vue de la pérennisation des organes de contrôle et de régulation des marchés publics, notamment afin d’assurer l’effectivité des missions qui leur sont confiées et d’asseoir leur indépendance opérationnelle et effective.
 
-C'est dire que le présent Code se distingue :
+2°- Nonobstant les nombreuses campagnes d’information effectuées, force est de constater que les notions de régulation et de contrôle ont été confondues dans l’opinion publique au point de les considérer comme synonymes. Le présent projet de révision met en évidence les particularités respectives de la fonction de régulation, et celle de contrôle. La mise en œuvre des activités afférentes à la régulation est marquée entre autres par l’opérationnalisation des missions d’observation et d’évaluation, en sus des missions non moins importantes de formation et d’audit dévolues traditionnellement à l’Autorité de Régulation des Marchés Publics. L’activation de ces missions de régulation devrait contribuer de manière efficace à la prévention des irrégularités commises, volontairement ou inconsciemment, pendant la période de passation et d’attribution des marchés publics, d’autant plus que l’Autorité de Régulation des Marchés Publics est désormais dotée de pouvoir de sanction.
 
-- par son caractère solennel: son adoption par la voie législative doit être perçue sous le triple aspect de la consécration des aspirations de la population à une bonne gouvernance, de la légitimation de l'action publique et du renforcement de la crédibilité de l'Etat tant interne qu'externe;
+3°- La réforme relative au règlement des différends, qui constitue une mise en conformité avec les pratiques internationales, implique la redéfinition des compétences et statut de l’organe administratif chargé de statuer sur les plaintes.
 
-- par son caractère d'universalité, en ce qu'il tâche de prendre en compte les réalités nationales, tout en intégrant de nouveaux mécanismes devant nous permettre d'être plus performant dans le contexte de la globalisation des échanges commerciaux aux niveaux international et régional;
+Il est question de doter l’organe administratif chargé de trancher sur les recours, dénommé désormais « Comité de Règlement des Différends », d’un statut lui permettant de décider conformément à l’esprit de la loi type sur les marchés publics recommandée par la Commission des Nations Unies pour le Droit Commercial International (CNUDCI) et reprise dans les directives sur les marchés publics du Marché commun de l'Afrique orientale et australe (COMESA). Désormais, cet organe de recours sera également chargé des règlements amiables des différends relatifs à l’exécution des marchés publics.
 
-- et enfin, par son caractère systématique, s'agissant d'un document destiné à rassembler l'ensemble du droit des marchés publics malgache dans un texte unique, d'où s'inspireront et découleront les textes d'application, tant dans leur esprit que dans leur lettre. Systématique, il s'est également voulu être simple, clair et d'intelligibilité aisée.
+Ces nouvelles dispositions confirment la volonté du Gouvernement de donner davantage de sens à la notion de «redevabilité sociale», dans la mesure où la gestion des plaintes implique non seulement l’État mais également le secteur privé et la Société civile, par le biais de leur participation active et effective aux travaux du Comité de Règlement des Différends, organe tripartite et hautement paritaire.
 
-Les principales préoccupations destinées à guider le législateur pour la compréhension du Code sont les suivantes:
+4°- Afin de mettre l’achat public en adéquation avec les exigences d’ordre budgétaire, la notion de marchés à commandes est davantage explicitée et proposée comme alternative crédible par rapport aux incertitudes liées non seulement aux quantités à commander mais également à la disponibilité des ressources. Dans le même ordre d’idée, l’introduction du mécanisme d’accord-cadre pourrait contribuer à aider les Autorités à faire face aux aléas de la disponibilité des fonds publics, notamment pour les achats à caractère répétitif.
 
-- suivre un plan clairement déterminé, définissant les marchés publics, en établissant les principes fondamentaux, en déclinant les acteurs puis le processus de gestion ou l'institution de l'Autorité de Régulation des Marchés Publics, enfin le règlement des différends ;
+5°- La réforme du système ne serait jamais aboutie sans un système d’information fiable et efficace. Le présent projet ne fait que confirmer cette volonté de mettre en place progressivement, et dans la mesure de nos possibilités techniques et financières, les procédures dématérialisées afin d’optimiser le système informatisé de gestion des marchés publics (SIGMP) et les actions de fiabilisation des bases de données sur les commandes publiques ;
 
-- capitaliser les acquis des réformes antérieures, notamment la notion de Personne Responsable des Marchés Publics (PRMP), les seuils de contrôle a priori et a posteriori, ou encore l'établissement de plan de passation de marchés par les services administratifs;
+6°- En vue de veiller au respect du Code d’éthique des marchés publics, le présent projet propose la mise en place d’un comité d’éthique au niveau de l’Autorité de Régulation des Marchés Publics. Le caractère tripartite et paritaire de ce comité constitue une garantie pour l’équité et la crédibilité de sa décision.
 
-- prendre en compte les effets de l'autonomie des Collectivités Territoriales Décentralisées, avec toutefois des dispositions particulières d'assistance technique à certaines communes.
+7°- D’autres modifications de plus ou moins grande envergure sont également apportées. Dans la plupart des cas, ces retouches portent soit sur des clarifications utiles pour certaines notions, soit sur des redressements rédactionnels destinés à mettre en cohérence l’ensemble du texte ou tout simplement pour un meilleur confort de lecture. Il en est par exemple de la possibilité pour les candidats non nationaux de concourir dans des appels d’offres nationaux. Il en va de même pour les dispositions précisant les conditions de participation d’une personne publique à une mise en concurrence, etc.
 
-Le Code comprend onze titres :
+Bref, la réalisation et la mise en œuvre effective de cette politique de réforme impliquent nécessairement un aménagement assez important du cadre juridique des marchés publics actuel, c’est la raison pour laquelle le présent projet de révision du Code des marchés publics est élaboré en vue d’adapter les normes par rapport au nouveau contexte induit par cette nouvelle orientation.
 
-- le Titre Préliminaire définit la notion de marché public suivie d'une énumération des différents types de marchés publics en quatre catégories (travaux, fournitures, services et prestations intellectuelles) et le champ d'application du présent Code;
+Le présent Code comporte douze titres :
 
-- le Titre I énonce les principes généraux et institue l'Autorité de Régulation des Marchés Publics (ARMP) ;
+Le Titre Préliminaire porte sur la notion de marché public et la définition de diverses terminologies utilisées dans le Code ;
 
-- le Titre II énumère les intervenants au niveau du secteur public dans le processus de passation de marché public, tels que la Personne Responsable: des Marchés Publics (PRMP), la Commission d'Appel d'Offres et les Groupements d'Achats Publics ;
+Le Titre I énonce les principes généraux qui régissent les marchés publics ainsi que la notion de seuils ;
 
-- le Titre III énumère les intervenants cocontractants de l'Administration et précise les critères de qualifications, d'exclusion et de candidature des groupements d'entreprises;
+Le Titre II traite du cadre institutionnel des marchés publics ;
 
-- le Titre IV décrit les procédures de passation des marchés publics, et donne de précision sur le mode de computation des seuils, la publicité et les modes de passation des marchés publics (Appel d'offres ouvert, Appel d'offres ouvert avec pré-qualification, Appel d'offres ouvert en deux étapes, Appel d'offres restreint, Appel d'offres infructueux...) ;
+Le Titre III aborde la notion de soumissionnaires ainsi que des conditions y afférentes ;
 
-- le Titre V se rapporte à l'exécution proprement dite des marchés publics: il mentionne la forme des marchés publics, l'objet et contenu des marchés publics, les prix des marchés, les garanties, ainsi que les changements en cours d'exécution des marchés publics et les règlement des marchés publics;
+Le Titre IV définit les opérations préalables à la passation des marchés publics, y compris la détermination des besoins ainsi que la planification des marchés publics ;
 
-- le Titre VI concerne la résiliation et ajournement des marchés publics;
+Le Titre V décrit les procédures de passation des marchés publics, et donne des précisions sur la publicité et les modes de passation des marchés publics ;
 
-- le Titre VII constitue l'Autorité de Régulation des Marchés Publics (ARMP) et précise son organisation, son fonctionnement et ses missions;
+Le Titre VI se rapporte à l’exécution proprement dite des marchés publics : il mentionne la forme des marchés publics, l’objet et le contenu des marchés publics, les prix des marchés, les garanties, les changements en cours d’exécution des marchés publics et les règlements des marchés publics ;
 
-- le Titre VIII régit le mode de règlement des litiges et recours ;
+Le Titre VII concerne la résiliation et l’ajournement des marchés publics ;
 
-- le Titre IX traite de l'Ethique des Marchés Publics;
+Le Titre VIII régit le mode de règlement des litiges et recours ;
 
-- le Titre X concerne les dispositions diverses et finales.
+Le Titre IX évoque l’éthique des Marchés Publics ;
 
-La réforme comme la modernisation du Code de marché s'inscrit dans la durée: elle doit être menée de manière progressive. Les étapes franchies revêtent cependant un caractère irréversible.
+Le Titre X énumère les sanctions relatives aux Marchés Publics ;
 
-L'adoption de ce Code marque le premier pas qui constitue le jalon fondamental dans ce processus de réforme. Suivra la mise en oeuvre des textes d'application, en particulier des décrets et arrêtés dont l'annonce est faite dans les articles du présent Code, ainsi que les documents d'appui (Cahiers de Clauses Administratives Générales - (CCAG), Dossier d'Appel d'Offres - (DAO), Cahiers de Clauses Administratives Particulières - (CCAP)...).
+Le Titre XI concerne les dispositions diverses et finales.
 
-Un vaste programme d'Information, d'Education et de Communication pour un Changement de Comportement (IEC/CCC) confortera l'internalisation et l'appropriation de la réforme à tous les niveaux: ordonnateurs et comptables publics, contrôleurs et vérificateurs, universitaires, opérateurs économiques...
-
-Tel est l'objet de la présente loi.
+Tel est l’objet de la présente loi.
 
 REPOBLIKAN'I MADAGASIKARA
 
-Tanindrazana-Fahafahana-Fandrosoana
+Fitiavana-Tanindrazana-Fandrosoana
 
 PRESIDENCE DE LA REPUBLIQUE
 
-LOI N° 2004-009
+LOI N° 2016-055
 
-Portant Code des Marchés Publics.
+Portant Code des Marchés Publics
 
-L'Assemblée Nationale et le Sénat ont adopté en leur séance respectivement en dater du 16 juin 2004 et du 24 juin 2004 ;
+L’Assemblée nationale et le Sénat ont adopté en leur séance respective en date du 14 décembre 2016 et du 16 décembre 2016,
 
 LE PRESIDENT DE LA REPUBLIQUE,
 
-Vu la Constitution ;
+Vu la Constitution,
 
-Vu la décision n°11-HCC/D3 du 14 juillet 2004 de la Haute Cour Constitutionnelle ;
+Vu la décision n°06-HCC/D3 du 16 janvier 2017 de la Haute Cour Constitutionnelle,
 
-TITRE PRELIMINAIRE
+PROMULGUE LA LOI DONT LA TENEUR SUIT:
+
+TITRE PRÉLIMINAIRE
+
+DEFINITIONS ET NOTIONS
