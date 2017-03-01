@@ -1,0 +1,17 @@
+# Signatures
+
+Antananarivo, le 07 Novembre 2016
+
+MAHAFALY Solonandrasana Olivier
+
+PAR.LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT
+
+et par délégation
+
+LE MINISTRE DE LA FONCTION PUBLIQUE,
+
+, DE LA REFORME DE L’ADMINISTRATION,
+
+DU TRAVAIL ET DES LOIS SOCIALES
+
+MAHARANTE Jean de Dieu
