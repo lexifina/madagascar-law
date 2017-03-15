@@ -1,0 +1,7 @@
+# Structure
+
+- TITRE I : GENERALITES (avant Article premier)
+- TITRE II : STRUCTURES DE GESTION (avant Article 3)
+- TITRE III : DU COMITE DELIBERATIF (avant Article 4)
+- TITRE IV : DE L’ANTENNE REGIONALE (avant Article 12)
+- TITRE V : DE L’ORGANISATION COMPTABLE ET FINANCIERE (avant Article 18)
