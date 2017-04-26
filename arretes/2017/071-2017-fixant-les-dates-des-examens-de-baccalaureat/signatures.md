@@ -1,0 +1,9 @@
+# Signatures
+
+Fait à Antananarivo, le 04 Janvier 2017
+
+LE MINISTRE DE L’ENSEIGNEMENT SUPERIEUR
+
+ET DE LA RECHERCHE SCIENTIFIQUE,
+
+RASOAZANANERA Marie Monique
