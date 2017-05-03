@@ -1,0 +1,18 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITION GENERALE (avant Article premier)
+- CHAPITRE PREMIER — CREATION, NATURE JURIDIQUE, SIEGE SOCIAL (avant Article premier)
+- CHAPITRE II — MISSIONS ET ATTRIBUTIONS (avant Article 5)
+- TITRE II — ORGANISATION ADMINISTRATIVE ET FINANCIERE (avant Article 6)
+- CHAPITRE PREMIER — ORGANES DU CENTRE (avant Article 6)
+- SECTION PREMIERE — Conseil d'Administration (avant Article 7)
+- SECTION II — Direction Générale du Centre (avant Article 13)
+- CHAPITRE II — ORGANISATION FINANCIERE ET COMPTABLE (avant Article 18)
+- SECTION PREMIERE — Budget et Compte du Centre (avant Article 18)
+- SECTION II — Agence Comptable (avant Article 21)
+- CHAPITRE III — RESSOURCES ET CHARGE DU CENTRE (avant Article 23)
+- SECTION PREMIERE — Ressources du Centre (avant Article 23)
+- SECTION II — Charges du Centre (avant Article 28)
+- TITRE III — CONTROLE (avant Article 29)
+- CHAPITRE PREMIER — COMMISSAIRE DU GOUVERNEMENT (avant Article 29)
+- TITRE IV — DISPOSITIONS TRANSITOIRES ET FINALES (avant Article 30)
