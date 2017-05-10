@@ -1,0 +1,7 @@
+# Signatures
+
+Antananarivo, le 08 Février 2017
+
+LE MINISTRE DES TRAVAUX PUBLICS
+
+RAZAFIMANDIMBY Eric
