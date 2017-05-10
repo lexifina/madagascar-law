@@ -1,0 +1,15 @@
+# Signatures
+
+Antananarivo, le 30 Mars 2017
+
+LE MINISTRE DE LA SECURITE PUBLIQUE
+
+ANDRIANISA Mamy Jean Jacques
+
+Contrôleur Général de Police
+
+LE MINISTRE DE LA FONCTION PUBLIQUE,
+
+DU TRAVAIL ET DES LOIS SOCIALES
+
+MAHARANTE Jean de Dieu
