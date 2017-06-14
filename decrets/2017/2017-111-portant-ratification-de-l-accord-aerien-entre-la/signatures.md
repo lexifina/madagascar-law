@@ -1,0 +1,15 @@
+# Signatures
+
+Fait à Antananarivo, le 14 février 2017
+
+RAJAONARIMAMPIANINA Hery Martial
+
+Par Le Président de la République,
+
+Le Premier Ministre, Chef du Gouvernement,
+
+MAHAFALY Solonandrasana Olivier
+
+Le Ministre des Transports et de la Météorologie,
+
+RAMANANTSOA Ramarcel Benjamina
