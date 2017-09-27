@@ -1,0 +1,13 @@
+# Signatures
+
+Fait à Antananarivo, le 10 Juillet 2017
+
+LE MINISTRE DES FINANCES ET DU BUDGET
+
+RAKOTOARIMANANA Marie Maurice Gervais
+
+LE MINISTRE DES RESSOURCES
+
+HALIEUTIQUES ET DE LA PECHE
+
+GILBERT François
