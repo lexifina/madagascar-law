@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE I — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DES CERTIFICATS PHYTOSANITAIRES (avant Article 4)
+- TITRE III — DES CERTIFICATS SANITAIRES (avant Article 12)
