@@ -1,0 +1,9 @@
+# Signatures
+
+Antananarivo, le 13 Septembre
+
+LE MINISTRE DE L’ENSEIGNEMENT SUPERIEUR
+
+ET DE LA RECHERCHE SCIENTIFIQUE
+
+RASOAZANANERA Marie Monique
