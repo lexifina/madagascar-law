@@ -1,0 +1,15 @@
+# Structure
+
+- SECTION PREMIERE — Des définitions (avant Article 2)
+- SECTION II — De la création (avant Article 3)
+- SECTION III — De l’objet (avant Article 4)
+- SECTION PREMIERE — Du Conseil d’Administration (avant Article 10)
+- SECTION II — De la Direction Générale (avant Article 19)
+- SECTION III — De l’Agence Comptable (avant Article 25)
+- SECTION IV — Du Comité consultatif et de suivi (avant Article 26)
+- SECTION PREMIERE — De l’exercice budgétaire (avant Article 30)
+- SECTION II — De la préparation et de l’exécution du budget (avant Article 31)
+- CHAPITRE II — DU COMPTE ADMINISTRATIF ET DU COMPTE FINANCIER (avant Article 35)
+- CHAPITRE III — DU CONTROLE (avant Article 40)
+- TITRE IV — DISPOSITIONS TRANSITOIRES (avant Article 42)
+- TITRE V — DISPOSITIONS DIVERSES ET FINALES (avant Article 43)
