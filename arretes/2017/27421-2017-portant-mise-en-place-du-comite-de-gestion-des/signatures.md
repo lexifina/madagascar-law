@@ -1,0 +1,9 @@
+# Signatures
+
+Antananarivo, le 07 Novembre 2017
+
+LE MINISTRE DE L’ENVIRONNEMENT, DE
+
+L’ECOLOGIE ET DES FORETS
+
+Dr Johanita NDAHIMANANJARA
