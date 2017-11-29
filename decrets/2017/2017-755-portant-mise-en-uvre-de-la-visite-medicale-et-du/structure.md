@@ -1,0 +1,5 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — DES OBJECTIFS (avant Article 4)
+- CHAPITRE VII — DISPOSITIONS FINALES (avant Article 21)
