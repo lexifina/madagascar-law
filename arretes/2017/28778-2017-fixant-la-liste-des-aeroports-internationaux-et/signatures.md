@@ -1,0 +1,9 @@
+# Signatures
+
+Antananarivo, le 21 Novembre 2017
+
+LE MINISTRE DES TRANSPORTS
+
+ET DE LA METEOROLOGIE
+
+BEBOARIMISA Ralava
