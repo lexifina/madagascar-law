@@ -1,0 +1,7 @@
+# Signatures
+
+Fait à Antananarivo, le 26 JAN 2018
+
+LE MINISTRE DE LA JEUNESSE ET DES SPORTS
+
+ANDRIAMOSARISOA Jean Anicet
