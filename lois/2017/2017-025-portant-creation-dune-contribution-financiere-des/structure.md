@@ -1,0 +1,3 @@
+# Structure
+
+- TITRE II — DISPOSITIONS DIVERSES ET FINALES (avant Article 12)
