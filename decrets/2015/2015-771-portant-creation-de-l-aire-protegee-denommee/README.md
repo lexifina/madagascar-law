@@ -1,0 +1,9 @@
+# Décret n° 2015-771 du 28 avril 2018 portant création de l'Aire Protégée dénommée "Oronjia" Commune rurale Ramena, District d'Antsiranana II, Région Diana
+
+- Source : CNLEGIS (Direction du CNLEGIS, Secrétariat général du Gouvernement), fiche 46591, <https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2015-771#id=46591>
+- Date du texte : 2018-04-28 ; J.O. n° 3854 du 2018-12-03, p. 6888
+- En vigueur : 2018-04-28 (le texte s’applique dès sa signature/promulgation ou immédiatement (« entre immédiatement en vigueur ») (Ordonnance n° 62-041, art. 4 : jour de diffusion non imprimé, daté du jour du texte))
+- État selon CNLEGIS : En vigueur
+- Texte : texte HTML publié par CNLEGIS
+- Unités : 14 articles
+- Version : texte publié par CNLEGIS ; les modifications ultérieures ne sont pas appliquées.
