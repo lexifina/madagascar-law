@@ -1,0 +1,4 @@
+# Structure
+
+- CHAPITRE PREMIER — GENERALITES (avant Article premier)
+- CHAPITRE V — DISPOSITIONS DIVERSES ET TRANSITOIRES (avant Article 19)
