@@ -1,0 +1,15 @@
+# Structure
+
+- TITRE PREMIER — Dispositions générales (avant Article premier)
+- TITRE III — DE L’ORGANISATION ADMINISTRATIVE DE L’UEAS (avant Article 3)
+- CHAPITRE PREMIER — DES ORGANES DE L’UEAS (avant Article 3)
+- PARAGRAPHE II — Des attributions du Conseil d’Administration (avant Article 7)
+- PARAGRAPHE III — Du fonctionnement (avant Article 9)
+- SECTION II — De la Direction (avant Article 17)
+- PARAGRAPHE PREMIER — De l’organisation (avant Article 17)
+- PARAGRAPHE II — Des attributions (avant Article 19)
+- SECTION III — De l’Agent Comptable (avant Article 21)
+- SECTION PREMIERE — De l’exercice budgétaire (avant Article 23)
+- SECTION II — De la préparation et de l’exécution du budget (avant Article 24)
+- CHAPITRE III — DU CONTROLE (avant Article 34)
+- TITRE V — DISPOSITIONS FINALES (avant Article 38)
