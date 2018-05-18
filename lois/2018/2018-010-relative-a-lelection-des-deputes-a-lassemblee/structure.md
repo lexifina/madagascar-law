@@ -1,0 +1,18 @@
+# Structure
+
+- CHAPITRE PREMIER — DES DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — DE LA CONVOCATION DES ELECTEURS (avant Article 6)
+- CHAPITRE III — DES CONDITIONS D’ELIGIBILITE (avant Article 8)
+- CHAPITRE IV — DU REGIME DES INCOMPATIBILITES (avant Article 9)
+- CHAPITRE V — DE LA CANDIDATURE (avant Article 17)
+- SECTION PREMIERE — De la présentation de la candidature (avant Article 17)
+- SECTION II — Du dossier de candidature (avant Article 21)
+- SECTION III — De l'enregistrement de la candidature (avant Article 24)
+- CHAPITRE VI — DES BULLETINS UNIQUES ET DES BUREAUX DE VOTE (avant Article 32)
+- CHAPITRE VII — DES OPERATIONS ELECTORALES (avant Article 35)
+- SECTION PREMIERE — De la campagne électorale (avant Article 35)
+- SECTION III — Du recensement matériel des votes (avant Article 38)
+- SECTION IV — De la publication et de la proclamation des résultats (avant Article 44)
+- CHAPITRE VIII — DU CONTENTIEUX (avant Article 48)
+- CHAPITRE IX — DE LA VACANCE DE SIEGE (avant Article 51)
+- CHAPITRE X — DISPOSITIONS DIVERSES ET FINALES (avant Article 53)
