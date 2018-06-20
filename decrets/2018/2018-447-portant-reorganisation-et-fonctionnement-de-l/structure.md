@@ -1,0 +1,17 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE PREMIER — DE LA NATURE JURIDIQUE (avant Article premier)
+- CHAPITRE II — DE LA MISSION ET DES ATTRIBUTIONS (avant Article 4)
+- TITRE II — DE L’ORGANISATION ADMINISTRATIVE DE L’UASM (avant Article 5)
+- CHAPITRE PREMIER — DES ORGANES DE L’UASM (avant Article 5)
+- Section 1 — De l’organisation du Conseil d’Administration (avant Article 6)
+- CHAPITRE II — DE LA GESTION DU PERSONNEL DE L’UASM (avant Article 24)
+- TITRE III — DE L’ORGANISATION FINANCIERE ET COMPTABLE DE L’UASM (avant Article 25)
+- CHAPITRE PREMIER — DU BUDGET (avant Article 25)
+- Section 1 — De l’exercice budgétaire (avant Article 25)
+- Section 2 — De la préparation et de l’exécution du budget (avant Article 26)
+- CHAPITRE II — DU COMPTE ADMINISTRATIF ET DU COMPTE FINANCIER (avant Article 29)
+- CHAPITRE III — DU CONTROLE (avant Article 35)
+- TITRE IV — DISPOSITIONS TRANSITOIRES (avant Article 37)
+- TITRE V — DISPOSITIONS DIVERSES ET FINALES (avant Article 38)
