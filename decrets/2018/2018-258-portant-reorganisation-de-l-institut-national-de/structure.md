@@ -1,0 +1,18 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- SECTION PREMIERE — Du statut (avant Article premier)
+- SECTION II — Des missions (avant Article 4)
+- CHAPITRE II — DE L’ORGANISATION ADMINISTRATIVE (avant Article 5)
+- SECTION PREMIERE — Du Conseil d’Administration (avant Article 6)
+- SECTION II — De la Direction Générale (avant Article 14)
+- PARAGRAPHE PREMIER — Des attributions du Directeur Général (avant Article 16)
+- PARAGRAPHE II — De l’organisation de la Direction Générale (avant Article 18)
+- SECTION II — De l’accès à l'Institut (avant Article 25)
+- SECTION III — Du régime des élèves (avant Article 27)
+- SECTION IV — De la formation (avant Article 32)
+- PARAGRAPHE PREMIER — De la formation initiale (avant Article 36)
+- PARAGRAPHE II — De la formation continue (avant Article 41)
+- CHAPITRE IV — DE L’ORGANISATION FINANCIERE ET COMPTABLE (avant Article 45)
+- CHAPITRE V — DU PERSONNEL DE L’INDDL (avant Article 59)
+- CHAPITRE VI — DISPOSITIONS TRANSITOIRES ET FINALES (avant Article 62)
