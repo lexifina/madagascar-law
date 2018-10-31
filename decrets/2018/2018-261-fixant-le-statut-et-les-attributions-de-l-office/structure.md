@@ -1,0 +1,15 @@
+# Structure
+
+- TITRE PREMIER — OBJET, ORGANISATION ETATTRIBUTIONS (avant Article premier)
+- CHAPITRE PREMIER — DE LA NATURE JURIDIQUE (avant Article premier)
+- CHAPITRE II — DES ATTRIBUTIONS (avant Article 3)
+- TITRE II — DE L'ORGANISATION ADMINISTRATIVE (avant Article 6)
+- CHAPITRE PREMIER — DU CONSEIL D'ADMINISTRATION (avant Article 7)
+- SECTION PREMIERE — Membres, Nomination, Avantages, Prérogatives (avant Article 7)
+- SECTION II — Du Fonctionnement (avant Article 18)
+- SECTION III — Des Pouvoirs et Des Attributions (avant Article 19)
+- SECTION II — Des Pouvoirs et Attributions (avant Article 26)
+- TITRE III — DE LA GESTION FINANCIERE ET COMPTABLE (avant Article 27)
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article 27)
+- TITRE IV — DES DISPOSITIONS DIVERSES (avant Article 32)
+- TITRE V — DISPOSITIONS FINALES (avant Article 33)
