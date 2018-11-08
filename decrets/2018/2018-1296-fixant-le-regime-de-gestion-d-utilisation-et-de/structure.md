@@ -1,0 +1,5 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE III — DU CONTROLE (avant Article 11)
+- CHAPITRE IV — DISPOSITIONS FINALES (avant Article 12)
