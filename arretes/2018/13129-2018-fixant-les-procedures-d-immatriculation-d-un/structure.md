@@ -1,0 +1,8 @@
+# Structure
+
+- CHAPITRE PREMIER DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II (avant Article 4)
+- CHAPITRE III — DES OBLIGATIONS (avant Article 10)
+- CHAPITRE IV — DE L’INSPECTION (avant Article 12)
+- CHAPITRE V — DES SANCTIONS (avant Article 15)
+- CHAPITRE VI — DISPOSITIONS TRANSITOIRES ET FINALES (avant Article 16)
