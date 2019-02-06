@@ -1,0 +1,9 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — DU MINISTRE ET DE SES STRUCTURES RATTACHEES (avant Article 2)
+- SECTION PREMIERE — Du Cabinet Du Ministre (avant Article 5)
+- SECTION II — DE LA PERSONNE RESPONSABLE DES MARCHES PUBLICS (PRMP) (avant Article 7)
+- CHAPITRE III — DU SECRETARIAT GENERAL ET DES STRUCTURES A LUI RATTACHEES (avant Article 9)
+- SOUS-SECTION 1 La Direction Générale des Opérations et du Développement Numérique (avant Article 12)
+- CHAPITRE IV — DISPOSITIONS COMMUNES ET FINALES (avant Article 28)
