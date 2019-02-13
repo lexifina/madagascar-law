@@ -1,0 +1,17 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DE L’ORGANISATION GENERALE DU SECRETARIAT D’ETAT AUPRES DU MINISTERE DE LA DEFENSE NATIONALE EN CHARGE DE LA GENDARMERIE (avant Article 5)
+- CHAPITRE I — DU CABINET DU SECRETAIRE D’ETAT AUPRES DU MINISTERE DE LA DEFENSE NATIONALE CHARGE DE LA GENDARMERIE (avant Article 6)
+- CHAPITRE II — DE LA COORDINATION GENERALE DES ACTIONS STRATEGIQUES (avant Article 8)
+- SECTION PREMIERE — Des Organismes Rattachés (avant Article 10)
+- SECTION 2 — Des directions de la coordination Générale des actions stratégiques (avant Article 13)
+- CHAPITRE III — DU COMMANDEMENT DE LA GENDARMERIE NATIONALE (avant Article 17)
+- SECTION PREMIERE — Du Cabinet (avant Article 22)
+- SECTION II — De L’Etat-Major (avant Article 23)
+- SECTION III — Du Commandement des Ecoles et des Formations (avant Article 33)
+- SECTION IV — Des Grandes Formations (avant Article 39)
+- SOUS SECTION PREMIERE Des Circonscriptions De Gendarmerie Nationale (avant Article 40)
+- SOUS SECTION II Les Forces D’intervention De La Gendarmerie Nationale (avant Article 43)
+- SOUS SECTION III Les Formations Spécialisées (avant Article 46)
+- TITRE III — DISPOSITIONS FINALES (avant Article 48)
