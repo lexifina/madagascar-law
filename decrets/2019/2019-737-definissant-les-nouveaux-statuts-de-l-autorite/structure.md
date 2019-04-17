@@ -1,0 +1,17 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DE L’ORGANISATION ET DU FONCTIONNEMENT (avant Article 4)
+- CHAPITRE PREMIER — DE L’ORGANISATION (avant Article 4)
+- SECTION PREMIERE — Du Conseil d’Administration (avant Article 5)
+- SECTION II — De la Direction Générale (avant Article 7)
+- CHAPITRE II — DU FONCTIONNEMENT (avant Article 9)
+- TITRE III — DES ATTRIBUTIONS (avant Article 17)
+- CHAPITRE PREMIER — DU CONSEIL D’ADMINISTRATION (avant Article 17)
+- CHAPITRE II — DU DIRECTEUR GENERAL (avant Article 20)
+- TITRE IV — DISPOSITIONS FINANCIERES ET COMPTABLES (avant Article 27)
+- CHAPITRE PREMIER — DES RESSOURCES ET DES DEPENSES (avant Article 27)
+- CHAPITRE II — DU REGIME FINANCIER ET COMPTABLE (avant Article 29)
+- SECTION PREMIERE — De l'Ordonnateur (avant Article 30)
+- SECTION II — De l'Agent comptable (avant Article 33)
+- TITRE IV — DISPOSITIONS DIVERSES ET FINALES (avant Article 36)
