@@ -1,0 +1,9 @@
+# Signatures
+
+Fait à Antananarivo, le 14 Mai 2019
+
+LE MINISTRE DE L’ENVIRONNEMENT
+
+ET DU DEVELOPPEMENT DURABLE
+
+ALEXANDRE Georget
