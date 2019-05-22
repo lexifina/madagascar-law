@@ -1,0 +1,15 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GÉNÉRALES (avant Article premier)
+- CHAPITRE PREMIER — Objet et champ d’application (avant Article premier)
+- CHAPITRE II — Définitions (avant Article 3)
+- CHAPITRE PREMIER — Obligations générales (avant Article 4)
+- CHAPITRE III — Obligations relatives à l’analyse des risques et la maîtrise des points critiques (avant Article 10)
+- CHAPITRE IV — Obligations relatives à l’agrément et/ou à l’immatriculation des établissements (avant Article 12)
+- CHAPITRE V — Obligations relatives au marquage de salubrité et d'identification (avant Article 15)
+- CHAPITRE VI — Obligations relatives à l’élaboration, diffusion et utilisation des guides (avant Article 19)
+- TITRE III — DU COMMERCE (avant Article 24)
+- CHAPITRE PREMIER — Des documents (avant Article 24)
+- CHAPITRE II — Des produits d'origine animale importés (avant Article 25)
+- CHAPITRE III — Garanties spéciales pour les exportations (avant Article 26)
+- TITRE IV — DISPOSITIONS DIVERSES ET FINALES (avant Article 28)
