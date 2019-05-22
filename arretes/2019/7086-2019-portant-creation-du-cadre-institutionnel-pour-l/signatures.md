@@ -1,0 +1,7 @@
+# Signatures
+
+Fait à Antananarivo, le 11 Avril 2019
+
+LE MINISTRE DE L’ECONOMIE ET DES FINANCES
+
+RANDRIAMANDRANTO Richard
