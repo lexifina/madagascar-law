@@ -1,0 +1,9 @@
+# Ordonnance n° 2019-007 du 6 juin 2019 relative à l'Ordre National Malagasy
+
+- Source : CNLEGIS (Direction du CNLEGIS, Secrétariat général du Gouvernement), fiche 47093, <https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2019-007#id=47093>
+- Date du texte : 2019-06-06 ; J.O. n° 3910 du 2019-09-02, p. 5313
+- En vigueur : 2019-06-06 (le texte s’applique dès sa signature/promulgation ou immédiatement (« entre immédiatement en vigueur ») (Ordonnance n° 62-041, art. 4 : jour de diffusion non imprimé, daté du jour du texte))
+- État selon CNLEGIS : En vigueur
+- Texte : texte HTML publié par CNLEGIS
+- Unités : 57 articles
+- Version : texte publié par CNLEGIS ; les modifications ultérieures ne sont pas appliquées.
