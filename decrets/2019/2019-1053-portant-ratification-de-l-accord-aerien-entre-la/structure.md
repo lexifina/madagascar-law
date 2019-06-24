@@ -1,0 +1,7 @@
+# Structure
+
+- CHAPITRE 1 INTRODUCTION — \ ’ (avant Article premier)
+- CHAPITRE I! OBJECTIFS (avant Article 2)
+- CHAPITRE III DISPOSITIONS COMMERCIALES (avant Article 5)
+- CHAPITRE V - DISPOSITIONS RÉGLEMENTAIRES — X (avant Article 14)
+- CHAPITRE VII DISPOSITIONS FINALES (avant Article 21)
