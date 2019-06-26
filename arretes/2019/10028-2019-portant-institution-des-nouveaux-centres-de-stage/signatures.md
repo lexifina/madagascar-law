@@ -1,0 +1,7 @@
+# Signatures
+
+Antananarivo, le 17 Mai 2019
+
+LE GARDE DES SCEAUX, MINISTRE DE LA JUSTICE
+
+RANDRIANASOLO Jacques
