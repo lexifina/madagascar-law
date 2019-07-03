@@ -1,0 +1,3 @@
+# Signatures
+
+Antananarivo, le 03 juillet 2019 Andry RAJOELINA Par le Président de la République, Chef d'Etat, Le Premier Ministre, Chef du Gouvernement, Christian NTSAY Le Ministre de la Défense Nationale, Général de division Richard RAKOTONIRINA Le Ministre de l'Economie et des Finances, Richard RANDRIAMANDRATO Le Ministre du Travail, de l'Emploi, de la Fonction publique et des Lois sociales, Gisèle RANAMPY Le Ministre de la Communication et de la culture, Lalatiana ANDRIATONGARIVO Le Secrétaire d'Etat auprès du Ministère de la Défense Nationale, chargé de la Gendarmerie, Général de division Richard RAVALOMANANA
