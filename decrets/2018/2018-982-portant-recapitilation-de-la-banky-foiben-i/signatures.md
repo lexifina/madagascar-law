@@ -1,0 +1,15 @@
+# Signatures
+
+Fait à Antananarivo, le 08 Août 2018
+
+RAJAONARIMAMPIANINA Hery Martial
+
+Par le Président de la République de Madagascar,
+
+Le Premier Ministre, Chef du Gouvernement,
+
+NTSAY Christian
+
+Le Ministre des Finances et du Budget,
+
+ANDRIAMBOLOLONA Vonintsalama Sehenosoa
