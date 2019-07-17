@@ -1,0 +1,9 @@
+# Arrêté n° 11637/2019 du 11 juin 2019 portant ouverture d'une enquête administrative de commodo et incommodo relative à l'acquisition à l'amiable ou par voie d'expropriation pour cause d'utilité publique des diverses parcelles deterrains et/ou immeubles nécessaires à : (i) la réhabilitation du canal C3 afin d'ameliorer le drainage d'eaux pluviales au coeur detrois arrondissements d'Antananarivo (1er , 4ème , 6ème ) , (ii) les renforcement de digues sur le rivières d'Ikopa et de Sisaony, afin de lutter contre les innondations fluviales dans la plaine de capitale, (iii) l'amenagement du site de confinement des boues de curage à Amboasary, Commune rurale d'Iarinarivo ( District d'Ambohidratrimo ) , (iv) les constructions et les aménagement au niveau dusite de réinstallation d'Ambatomene dans la commune rurale d'Anosiala, District d'Ambohidratrimo, Région Analamanga, (v) les constructions et aménagement au niveau du site de réinstallation de Soavimasoandro dans le 5ème Arrondissement de la Commune urbaine d'Antananarivo (CUA) , (vi) les constructions et aménagement au niveau du site réinstallation d'Andavamamba Anatihazo II dans le 1er Arrondissement de la Commune urbaine Pages d'Antananarivo (CUA) dans le cadre du Projet de Développement Urbain Intégré et de Résilience du Grand Antananarivo ( PRODUIR )
+
+- Source : CNLEGIS (Direction du CNLEGIS, Secrétariat général du Gouvernement), fiche 46885, <https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=11637/2019#id=46885>
+- Date du texte : 2019-06-11 ; J.O. n° 3900 du 2019-07-15, p. 4214
+- En vigueur : 2019-07-17 (Ordonnance n° 62-041 du 19 septembre 1962, art. 3 : « un jour franc après l’arrivée du Journal officiel » ; jour d’arrivée non imprimé : date du JO + 2 jours, la plus tôt possible)
+- État selon CNLEGIS : En vigueur
+- Texte : texte HTML publié par CNLEGIS
+- Unités : 5 articles
+- Version : texte publié par CNLEGIS ; les modifications ultérieures ne sont pas appliquées.
