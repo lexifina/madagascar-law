@@ -1,0 +1,18 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE II — DE LA CONSTITUTION ET DE L’ADMINISTRATION DE L’ONOS (avant Article 7)
+- CHAPITRE PREMIER — De la structure du Bureau National (avant Article 7)
+- CHAPITRE 2 — De la mission et des attributions du CNOOS (avant Article 10)
+- CHAPITRE 3 — De la structure des Conseils Régionaux ou COROS (avant Article 17)
+- CHAPITRE 4 — De la mission et des attributions des COROS (avant Article 19)
+- CHAPITRE 5 — Dispositions communes au CNOOS et aux COROS (avant Article 21)
+- CHAPITRE 6 — De la Démission, de l’Exclusion et de la Discipline (avant Article 25)
+- TITRE III — DE L’ELECTION DES MEMBRES DU BUREAU DU CNOOS ET DES COROS (avant Article 31)
+- CHAPITRE PREMIER — Des modalités et conditions générales d’élection des membres du Bureau du CNOOS (avant Article 31)
+- CHAPITRE 2 — Des conditions d’éligibilité (avant Article 45)
+- CHAPITRE 3 — Des électeurs (avant Article 52)
+- CHAPITRE 4 — Des modalités et conditions générales d’élection des membres des Bureaux des COROS (avant Article 53)
+- TITRE IV — DES ACTIONS DISCIPLINAIRES (avant Article 55)
+- TITRE V — DE L’INSCRIPTION AU TABLEAU DE L’ORDRE (avant Article 63)
+- TITRE VI — DISPOSITIONS DIVERSES ET FINALES (avant Article 67)
