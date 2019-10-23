@@ -1,0 +1,7 @@
+# Signatures
+
+Fait à Antananarivo, le 12 Décembre 2018
+
+LE MINISTRE DES FINANCES ET DU BUDGET
+
+LE MINISTRE DE L’AGRICULTURE ET DE L’ELEVAGE
