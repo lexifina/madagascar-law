@@ -1,0 +1,5 @@
+# Arrêté n° 26452/2019 du 21 novembre 2019 portant listes des candidats autorisés et non à participer au concours national de recrutement des éléves-gendarmes formant le 75 ème Cours, session 2019-2020
+
+MINISTERE DU TRAVAIL, DE L’EMPLOI, DE LA FONCTION PUBLIQUE ET DES LOIS SOCIALES MINISTERE DE LA DEFENSE NATIONALE SECRETARIAT D’ETAT AUPRES DU MINISTERE DE LA DEFENSE NATIONALE CHARGE DE LA GENDARMERIE Par arrêté interm inistériel n° 26 452/2019 du M inistre du Travail, de l’Emploi, de la Fonction Publique et des Lois Sociales, et du Secrétaire d’Etat auprès du Ministère de la Défense Nationale chargé de la G endarm erie, en date du 21 novem bre 2019, les candidats autorisés à participer au concours d’entrée au 75e cours d ’élèves gendarmes sont arrêtés au nombre de dix mille six cent quarante cinq (10 645). La liste de ces candidats figure à l’annexe I du présent arrêté.
+
+Les trente cinq (35) candidats figurant à l’annexe II du présent arrêté ne sont pas autorisés à participer au concours. Ils n’ont pas rempli une ou plusieurs conditions fixées par les articles 3 et 4 de l’arrêté interministériel portant ouverture du Concours.
