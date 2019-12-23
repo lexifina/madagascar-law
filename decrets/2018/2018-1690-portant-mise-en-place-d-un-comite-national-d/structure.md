@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- TITRE III — DU COMITE DE SUIVI INTERNATIONAL (avant Article 8)
+- TITRE IV — DISPOSITIONS FINALES (avant Article 10)
