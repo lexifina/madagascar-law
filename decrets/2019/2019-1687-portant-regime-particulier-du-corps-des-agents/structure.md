@@ -1,0 +1,18 @@
+# Structure
+
+- Chapitre I DISPOSITIONS GÉNÉRALES (avant Article premier)
+- Chapitre II MISSIONS ET ATTRIBUTIONS Section I. De la vocation des Agents Diplomatiques et Consulaires (avant Article 3)
+- Section II. De la mission des Agents Diplomatiques et Consulaires (avant Article 4)
+- Section III. Des fonctions des Agents Diplomatiques et Consulaires (avant Article 6)
+- Chapitre III DEVOIRS ET OBLIGATIONS Section I. Du serment de l’Agent Diplomatique et Consulaire (avant Article 12)
+- Section II. Des devoirs et obligations (avant Article 13)
+- Chapitre IV HIÉRARCHIE ET ÉCHELONNEMENT INDICIAIRE Section I. Des grades des Agents Diplomatiques et Consulaires (avant Article 16)
+- Section II. De la hiérarchie et des indices des Agents Diplomatiques et Consulaires (avant Article 18)
+- Chapitre VI FORMATIONS ET STAGES (avant Article 25)
+- Chapitre VII REMUNERATION, DROITS ET AVANTAGES SOCIAUX Section I. De la rémunération et des avantages (avant Article 32)
+- Section II. Des droits (avant Article 35)
+- Section III. De ses droits au retour au pays (avant Article 39)
+- Chapitre VIII GESTION DE CARRIÈRE Section I. Du plan de carrière des Agents Diplomatiques et Consulaires (avant Article 41)
+- Section II. Des critères pour l’affectation à l’extérieur et du rappel avant ternie (avant Article 49)
+- Chapitre IX DISPOSITIONS TRANSITOIRES (avant Article 54)
+- Chapitre X DISPOSITIONS DIVERSES ET FINALES (avant Article 58)
