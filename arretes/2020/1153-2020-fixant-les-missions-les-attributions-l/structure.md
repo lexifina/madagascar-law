@@ -1,0 +1,6 @@
+# Structure
+
+- CHAPITRE PREMIER — MISSIONS ET ATTRIBUTIONS (avant Article premier)
+- CHAPITRE II — ORGANISATION (avant Article 4)
+- CHAPITRE III — FONCTIONNEMENT (avant Article 10)
+- CHAPITRE IV — DISPOSITIONS DIVERSES (avant Article 12)
