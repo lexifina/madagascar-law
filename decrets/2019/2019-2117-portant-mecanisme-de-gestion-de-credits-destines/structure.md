@@ -1,0 +1,4 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE IV — DISPOSITIONS DIVERSES ET FINALES (avant Article 15)
