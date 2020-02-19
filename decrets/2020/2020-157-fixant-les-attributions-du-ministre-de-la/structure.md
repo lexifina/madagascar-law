@@ -1,0 +1,5 @@
+# Structure
+
+- TITRE PREMIER –DES ATTRIBUTIONS (avant Article premier)
+- TITRE II : DE L’ORGANISATION GENERALE (avant Article 4)
+- CHAPITRE PREMIER : DU CABINET DU MINISTRE (avant Article 5)
