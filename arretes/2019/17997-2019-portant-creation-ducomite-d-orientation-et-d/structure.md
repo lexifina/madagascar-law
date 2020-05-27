@@ -1,0 +1,7 @@
+# Structure
+
+- CHAPITRE PREMIER — DE LA CREATION ET DES ATTRIBUTIONS (avant Article premier)
+- CHAPITRE II — DE LA COMPOSITION (avant Article 4)
+- CHAPITRE III — DU FONCTIONNEMENT. (avant Article 7)
+- CHAPITRE IV — DE LA DISSOLUTION. (avant Article 8)
+- CHAPITRE V — DISPOSITIONS FINALES (avant Article 9)
