@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 21 octobre 2020 Andry RAJOELINA Par le Président de la République, Le Premier Ministre, Chef du Gouvernement, NTSAY Christian Le Ministre de l’Économie et des Finances, RANDRIAMANDRATO Richard Ministre du Travail, de l’Emploi, de la Fonction Publique et des Lois Sociales RANAMPY Gisèle Le Ministre de l’Éducation Nationale Dr SAHONDRARIMALALA Marie Michelle Le Ministre de la Communication et de la Culture ANDRIATONGARIVO RAKOTONDRAZAFY Lalatiana Pour ampliation conforme Antananarivo, le LE SECRETAIRE GENERAL DU GOUVERNEMENT, RAZANADRAINIARISON Rondro Lucette
