@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 4 novembre 2020 Par Le Président de la République, Andry RAJOELINA Le Premier Ministre, Chef du Gouvernement Christian NTSAY Le Garde des Sceaux, Ministre de la Justice, Le Ministre de l’Économie et des Finances, Johnny Richard ANDRIAMAHEFARIVO Richard RANDRIAMANDRATO Le Ministre de l’Intérieur Le Ministre de l’Aménagement du territoire et de la Décentralisation, et des Travaux Publics, Tinarivelo RAZAFIMAHEFA Hajo ANDRIANAINARIVELO Le Ministre de l’Agriculture, de l’élevage Le Ministre de la Population, de la et de la Pêche, Protection Sociale et de la Promotion de la Femme, Fanomezantsoa Lucien RANARIVELO Bavy Angelica MICHELLE Le Ministre de la Communication et de la Culture, Lalatiana ANDRIATONGARIVO RAKOTONDRAZAFY
