@@ -1,0 +1,39 @@
+# Visas
+
+REPOBLIKAN ' I MADAGASIKARA
+
+Fitiavana-Tanindrazana-Fandrosoana
+
+MINISTERE DE L’AGRICULTURE
+
+DE L’ELEVAGE ET DE LA PECHE
+
+DECRET N° 2020-1547
+
+Abrogeant le décret n°2016-930 du 13 juillet 2016 portant nomination du Directeur Administratif et Financier du Centre National de la Recherche Appliquée au Développement Rural (Foibem-pirenena momba ny Fikarohana ampiharina amin'ny Fampandrosoana ny eny Ambanivohitra) (CENRADERU/FOFIFA)
+
+LE PRESIDENT DE LA REPUBLIQUE,
+
+Vu la Constitution ;
+
+Vu la loi n°2003-011 du 03 septembre 2003 portant statut général des Fonctionnaires ;
+
+Vu l’ordonnance n° 93-027 du 13 mai 1993 relative à la réglementation des Hauts Emplois de l’Etat ;
+
+Vu le décret n°76-132 du 31 mars 1976, complété par les décrets n° 93-842 du 16 novembre 1993 et n°2003-961 du 16 septembre 2003 portant réglementation des Hauts Emplois de l’Etat ;
+
+Vu le décret n°2015-1166 du 04 août 2015 portant création et organisation du Centre National de la Recherche Appliquée au Développement Rural (Foibem-pirenena momba ny Fikarohana ampiharina amin'ny Fampandrosoana ny eny Ambanivohitra) (CENRADERU/FOFIFA);
+
+Vu le décret n°2019-073 du 06 février 2019 fixant les attributions du Ministre de l’Enseignement Supérieur et de la Recherche Scientifique, ainsi que l’organisation générale de son Ministère ;
+
+Vu le décret n°2019-1407 du 19 juillet 2019 portant nomination du Premier Ministre, Chef du Gouvernement ;
+
+Vu le décret n°2020-070 du 29 janvier 2020, modifié et complété par les décrets n°2020-597 du 04 juin 2020 et n°2020-997 du 20 août 2020 portant nomination des membres du Gouvernement ;
+
+Vu le décret n° 2020-158 du 19 février 2020 fixant les attributions du Ministre de l’Agriculture, de l’Elevage et de la Pêche, ainsi que l’organisation générale de son Ministère ;
+
+Sur proposition du Ministre de l’Agriculture, de l’Elevage et de la Pêche et du Ministre de l’Enseignement Supérieur et de la Recherche Scientifique ;
+
+En Conseil des Ministres,
+
+DECRETE :
