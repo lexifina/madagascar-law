@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 02 décembre 2020 Par le Président de la République, Andry RAJOELINA Le Premier Ministre, Chef du Gouvernement, Christian NTSAY Le Ministre de l’Intérieur et de la Décentralisation, Tianarivelo RAZAFIMAHEFA Le Ministre des Affaires Etrangères, Djacoba Oliva TEHINDRAZANARIVELO Le Garde des Sceaux, Ministre de la Justice, Johnny Richard ANDRIAMAHEFARIVO Le Ministre de l’Economie et des Finances, Richard RANDRIAMANDRATO Le Ministre de la Santé Publique Professeur Hanitrala Jean Louis RAKOTOVAO Le Ministre des Postes, des Télécommunications et du Développement Numérique, Andriamanohisoa RAMAHERIJAONA Le Ministre de la Communication et de la Culture Lalatiana RAKOTONDRAZAFY ANDRIATONGARIVO

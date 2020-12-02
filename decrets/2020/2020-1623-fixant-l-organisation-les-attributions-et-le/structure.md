@@ -1,0 +1,17 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — DE LA MISSION ET DES ATTRIBUTIONS DU CNECI (avant Article 4)
+- CHAPITRE III — DU TRAITEMENT DE LA BASE DE DONNEES NUMERISEES (avant Article 6)
+- CHAPITRE IV — DES ORGANES DU CNECI (avant Article 9)
+- Section première Du Conseil d’Administration Sous-section première De l’organisation et des attributions (avant Article 10)
+- Sous-section 2 Du fonctionnement (avant Article 18)
+- Section II De la Direction Générale Sous-section première De l’organisation, de la nomination, des prérogatives et des incompatibilités (avant Article 24)
+- Sous-section 2 Des pouvoirs et attributions du Directeur Général (avant Article 29)
+- Sous-section 3 Des Directions techniques (avant Article 34)
+- Section III De l’Agence comptable (avant Article 38)
+- CHAPITRE V — DE LA GESTION DU PERSONNEL (avant Article 43)
+- CHAPITRE VI — DES REGIMES BUDGETAIRE ET COMPTABLE, DES RESSOURCES ET EMPLOIS, ET DU CONTROLE DU CNECI Section première Des régimes budgétaire et comptable (avant Article 46)
+- Section II Des ressources et des emplois (avant Article 52)
+- Section III Du contrôle du CNECI (avant Article 55)
+- CHAPITRE VII — DES DISPOSITIONS DIVERSES (avant Article 57)
