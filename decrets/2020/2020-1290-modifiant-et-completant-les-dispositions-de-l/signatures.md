@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 07 octobre 2020 Par le Premier Ministre, Chef du Gouvernement NTSAY Christian Le Ministre de la Défense Nationale Le Ministre de l’Economie et des Finances Général de Division RAKOTONIRINA Léon Jean Richard RANDRIAMANDRATO Richard Le Ministre de l’Education Nationale Le Ministre de l’Enseignement Technique et de la Formation Professionnelle SAHONDRAMALALA Marie Michelle TSIKEL’IANKINA Ernest Le Ministre du Travail, de l’Emploi, de la Fonction Publique et des Lois Sociales Le Ministre de l’Enseignement Supérieur et de la Recherche Scientifique RANAMPY Gisèle Pr. ASSOUMACOU Elia Béatrice
