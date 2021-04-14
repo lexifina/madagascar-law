@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 20 Août 2020 LE MINISTRE DES TRANSPORTS, DU TOURISME ET DE LA METEOROLOGIE
