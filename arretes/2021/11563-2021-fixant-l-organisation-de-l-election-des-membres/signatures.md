@@ -1,0 +1,11 @@
+# Signatures
+
+Fait à Antananarivo le, 19 mai 2021
+
+LE PREMIER MINISTRE, CHEF DE GOUVERNEMENT,
+
+Et par délégation
+
+LE GARDE DES SCEAUX, MINISTRE DE LA JUSTICE
+
+ANDRIAMAHEFARIVO Johnny Richard
