@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 19 mai 2021 Par Le Premier Ministre, Chef du Gouvernement NTSAY Christian Le Ministre de l’Agriculture, de l’Elevage et de la Pêche Lucien RANARIVELO Le Ministre de l’Economie et des Finances Richard RANDRIAMANDRATO Le Ministre de l’Intérieur et de la Décentralisation Tianarivelo RAZAFIMAHEFA Le Ministre de l’Industrie, du Commerce et de l’Artisanat Lantosoa RAKOTOMALALA Ministre de la Sécurité Publique Contrôleur General de Police Fanomezantsoa Rodellys RANDRIANARISON Le Secrétariat d’Etat auprès du Ministère de la Défense Nationale chargé de la Gendarmerie Général de Corps d’Armée Richard RAVALOMANANA
