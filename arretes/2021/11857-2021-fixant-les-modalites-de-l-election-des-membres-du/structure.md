@@ -1,0 +1,18 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES Section première Du mode de scrutin (avant Article 2)
+- Section 2 Du comité électoral (avant Article 4)
+- Section 3 Des observateurs et des délégués (avant Article 8)
+- CHAPITRE II — DU DROIT DE VOTE ET DE L’ELIGIBILITE Section première Des électeurs et de l’exercice du droit de vote (avant Article 11)
+- Section 2 Des conditions d’éligibilité (avant Article 15)
+- Section 3 De la candidature (avant Article 17)
+- CHAPITRE III — DES OPERATIONS ELECTORALES Section première De la campagne électorale (avant Article 24)
+- Section 2 Du jour du scrutin (avant Article 26)
+- Section 3 Du bureau de vote et des opérations de vote (avant Article 29)
+- Section 4 Du dépouillement (avant Article 38)
+- Section 5 Du traitement et de la proclamation des résultats (avant Article 43)
+- CHAPITRE IV — DU CONTENTIEUX (avant Article 47)
+- CHAPITRE V — DISPOSITIONS DIVERSES, TRANSITOIRES ET FINALES Section première Du remboursement de la caution (avant Article 50)
+- Section 2 De la possibilité du vote électronique (avant Article 51)
+- Section 3 Pour l’élection des nouveaux membres du Bureau de l’OJM mandat 2021 - 2025 (avant Article 52)
+- Section 4 Dispositions finales (avant Article 56)
