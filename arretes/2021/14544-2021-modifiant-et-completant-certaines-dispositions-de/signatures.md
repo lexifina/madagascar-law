@@ -1,0 +1,9 @@
+# Signatures
+
+Fait à Antananarivo, le 21 JUIN 2021
+
+P. LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT
+
+Et par délégation,
+
+LE GARDE DES SCEAUX, MINISTRE DE LA JUSTICE.
