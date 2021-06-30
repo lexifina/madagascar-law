@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 30 Juin 2021 Par le Président de la République Andry RAJOELINA Le Premier Ministre, Chef du Gouvernement NTSAY Christian Le Ministre de la Population, de la Protection sociale et de la Promotion de la Femme MICHELLE Bavy Angélica Le Ministre de l’Economie et des Finances MINISTERE DE LA POPULATION DE LA PROTECTION SOCIALE ET DE LA PROMOTION DE LA FEMME ------------ RANDRIAMANDRATO Richard Le Ministre de la Communication et de la Culture RAKOTONDRAZAFY ANDRIATONGARIVO Lalatiana Ministre du Travail, de l’Emploi de la Fonction Publique Et des Lois Sociales RANAMPY Gisèle
