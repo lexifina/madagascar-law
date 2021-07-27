@@ -1,0 +1,4 @@
+# Structure
+
+- CHAPITRE PREMIER : DISPOSITIONS GENERALES (avant Article 2)
+- CHAPITRE IV — DISPOSITIONS FINALES (avant Article 23)
