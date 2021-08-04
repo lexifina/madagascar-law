@@ -1,0 +1,10 @@
+# Décret n° 2021-020 du 7 janvier 2021 plaçant d'office en position de retraite un Officier de carrière de la Gerndarmerie nationale et l'admettant à faire valoir ses droits à pension de retraite d'ancienneté
+
+- Source : CNLEGIS (Direction du CNLEGIS, Secrétariat général du Gouvernement), fiche 52349, <https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2021-020#id=52349>
+- Fichier : <https://cnlegis.gov.mg/uploads/D2021-020-VF.pdf>
+- Date du texte : 2021-01-07 ; J.O. n° 4023 du 2021-08-02, p. 2053
+- En vigueur : 2021-08-04 (Ordonnance n° 62-041 du 19 septembre 1962, art. 3 : « un jour franc après l’arrivée du Journal officiel » ; jour d’arrivée non imprimé : date du JO + 2 jours, la plus tôt possible)
+- État selon CNLEGIS : En vigueur
+- Texte : PDF natif publié par CNLEGIS
+- Unités : 3 articles
+- Version : texte publié par CNLEGIS ; les modifications ultérieures ne sont pas appliquées.
