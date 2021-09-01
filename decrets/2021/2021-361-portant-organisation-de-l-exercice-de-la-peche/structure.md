@@ -1,0 +1,18 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — DE LA GESTION DE L’EXPLOITATION DES CREVETTES COTIERES (avant Article 3)
+- CHAPITRE III — DES OUTILS DE GESTION (avant Article 4)
+- SECTION I — Observatoire Economique de la Pêche et de l’Aquaculture (avant Article 4)
+- SECTION II — Centre d’Etudes et de Développement de la Pêche (avant Article 5)
+- SECTION III — Centre de Surveillance des Pêches (avant Article 6)
+- CHAPITRE IV — DE LA GESTION DE LA PETITE PECHE ET DES ACTIVITES DE COLLECTE (avant Article 7)
+- CHAPITRE V — DE LA GESTION DES PECHES INDUSTRIELLES (avant Article 10)
+- SECTION I — Du droit d’exploitation (avant Article 10)
+- SECTION II — Des conditions d’attribution des droits d’exploitation (avant Article 13)
+- SECTION III — Zones, Nombre, différents types et répartition des droits d’exploitation (avant Article 15)
+- SECTION IV — Engins de pêche (avant Article 20)
+- SECTION V — Navires de pêche (avant Article 23)
+- CHAPITRE VI — DE L’ATTRIBUTION DES LICENCES DE PECHE (avant Article 26)
+- CHAPITRE VII — DU RETRAIT DES DROITS D’EXPLOITATION ET DES LICENCES (avant Article 29)
+- CHAPITRE VIII — PRESERVATION ET RESTAURATION DE L’ECOSYSTEME (avant Article 34)
