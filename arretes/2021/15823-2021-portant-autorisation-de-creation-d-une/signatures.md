@@ -1,0 +1,9 @@
+# Signatures
+
+Antananarivo, le 09 juillet 2021
+
+LE PREMIER MINISTRE, CHEF DE GOUVERNEMENT
+
+Par délégation,
+
+LE MINISTRE DE L’INTERIEUR ET DE LA DECENTRALISATION
