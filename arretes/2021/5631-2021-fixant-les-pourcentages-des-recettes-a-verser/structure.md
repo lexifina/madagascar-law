@@ -1,0 +1,6 @@
+# Structure
+
+- CHAPITRE PREMIER — OBJET (avant Article premier)
+- CHAPITRE II — CHAMP D’APPLICATION (avant Article 2)
+- CHAPITRE III — POURCENTAGES (avant Article 5)
+- CHAPITRE IV — DISPOSITIONS TRANSITOIRES ET FINALES (avant Article 6)
