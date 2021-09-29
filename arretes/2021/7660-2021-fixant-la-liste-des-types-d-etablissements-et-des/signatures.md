@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 15 Mars 2021 P.LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT Et par délégation LE MINISTRE DU TRAVAIL, DE L’EMPLOI, DE LA FONCTION PUBLIQUE ET DES LOIS SOCIALES Gisèle RANAMPY www.cnlegis.gov.mg 2/2
