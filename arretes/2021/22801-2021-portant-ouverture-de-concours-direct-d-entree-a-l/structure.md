@@ -1,0 +1,5 @@
+# Structure
+
+- CHAPITRE PREMIER — PRESENTATION (avant Article premier)
+- CHAPITRE III — NATURE DU CONCOURS (avant Article 13)
+- CHAPITRE IV — DISPOSITIONS ADMINISTRATIVES (avant Article 19)
