@@ -1,0 +1,8 @@
+# Structure
+
+- TITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- Titre II MISSIONS ET ATTRIBUTIONS (avant Article 2)
+- TITRE III — COMPOSITION (avant Article 4)
+- TITRE IV — FONCTIONNEMENT (avant Article 7)
+- TITRE V — DISPOSITIONS FINANCIERES (avant Article 11)
+- TITRE VI — DISPOSITIONS FINALES (avant Article 12)
