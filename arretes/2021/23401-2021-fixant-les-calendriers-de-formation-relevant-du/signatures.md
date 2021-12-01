@@ -1,0 +1,5 @@
+# Signatures
+
+Antananarivo, le 02 septembre 2021 « POUR LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT »
+
+Et par délégation LA MINISTRE DE L’ENSEIGNEMENT TECHNIQUE ET DE LA FORMATION PROFESSIONNELLE RAHANTANIRINA Vavitsara Gabriella www.cnlegis.gov.mg 2/2
