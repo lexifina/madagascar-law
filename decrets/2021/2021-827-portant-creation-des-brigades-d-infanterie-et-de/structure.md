@@ -1,0 +1,5 @@
+# Structure
+
+- Section 2. — DES UNITES DE LA BRIGADE D’INFANTERIE (avant Article 7)
+- Section 2. — DES UNITES DE LA BRIGADE D’APPUI SPECIALISEE (avant Article 9)
+- CHAPITRE III. — DISPOSITIONS DIVERSES (avant Article 10)
