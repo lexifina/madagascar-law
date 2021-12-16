@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le16 décembre 2021 Andry RAJOELINA Par Le Président de la République Le Premier Ministre, Chef du Gouvernement NTSAY Christian Le Ministre de la Défense Nationale Général de Corps d’Armée Richard RAKOTONIRINA Le Garde des Sceaux, Ministre de la Justice Herilaza IMBIKI Le Ministre de l’Economie et des Finances RindraHasimbelo RAHARINIRINARISON Le Ministre de la Sécurité Publique Contrôleur Général de Police RodellysFANOMEZANTSOA RANDRIANARISON Le Ministre de l’Aménagement du Territoire et des Services Fonciers Hajo ANDRIANAINARIVELO Le Ministre du Travail, de l’Emploi, de la Fonction Publique et des Lois Sociales Gisèle RANAMPY
