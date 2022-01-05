@@ -1,0 +1,3 @@
+# Signatures
+
+Antananarivo, le 04 Novembre 2021 P. LE PREMIER MINISTRE, CHEF DE GOUVERNEMENT et par Délégation LE MINISTRE DE LA SANTE PUBLIQUE Prof. RANDRIAMANANTANY Zely Arivelo
