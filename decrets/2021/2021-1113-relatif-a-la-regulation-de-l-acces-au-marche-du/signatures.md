@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 20 octobre 2021 Par le Premier Ministre, Chef du Gouvernement NTSAY Christian Le Garde des Sceaux, Ministre de la Justice IMBIKI Herilaza Le Ministre de l’Intérieur et de la Décentralisation RAMAHOLIMASY Pierre Holder Le Ministre de l’Economie et des Finances RABARINIRINARISON Rindra Hasimbelo Le Ministre de l’Environnement et du Développement Durable RAHARINIRINA Baomiavotse Vahinala Le Ministre de l’Aménagement du Territoire et des Services Fonciers ANDRIANAINARIVELO Hajo La Ministre de la Communication et de la Culture RAKOTONDRAZAFY ANDRIATONGARIVO Lalatiana Le Ministre de l’Energie et des Hydrocarbures RAMAROSON Andry Le Ministre de l’Agriculture et de l’Élevage RAMILISONHarifidy
