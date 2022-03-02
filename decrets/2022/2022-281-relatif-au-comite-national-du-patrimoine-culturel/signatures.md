@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 2 mars 2022 Par le Président de la République Andry RAJOELINA Le Premier Ministre, Chef du Gouvernement Christian NTSAY Le Ministre des Affaires étrangères Patrick RAJOELINA La Ministre de l’Economie et des Finances Rindra RABARINIRINARISON Le Ministre de l’Aménagement du territoire et des Services Fonciers Hajo ANDRIANAINARIVELO Le Ministre du Tourisme Joël RANDRIAMANDRANTO La Ministre de l’Enseignement Supérieur et de la Recherche Scientifique Elia ASSOUMACOU La Ministre de l’Environnement et du Développement Durable Baomiavotse RAHARINIRINA La Ministre de l’Education Nationale Michelle SAHONDRARIMALALA La Ministre de la Communication et de la Culture Lalatiana ANDRIATONGARIVO
