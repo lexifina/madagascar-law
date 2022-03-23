@@ -1,0 +1,27 @@
+# Signatures
+
+Fait à Antananarivo, le 23 mars 2022
+
+Par Le Président de la République,
+
+Andry RAJOELINA
+
+Le Premier Ministre, Chef du Gouvernement,
+
+Christian NTSAY
+
+Le Ministre de l’Economie et des Finances
+
+Rindra Hasimbelo RABARINIRINARISON
+
+Le Ministre du Travail, de l’Emploi, de la Fonction Publique et des Lois Sociales
+
+Gisèle RANAMPY
+
+Le Ministre de la Communication et de la Culture
+
+Lalatiana ANDRIATONGARIVO
+
+Le Ministre de l’Energie et des Hydrocarbures
+
+Andry RAMAROSON
