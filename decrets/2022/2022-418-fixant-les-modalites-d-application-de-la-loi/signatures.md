@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 23 mars 2022 Par le Premier Ministre, Chef du Gouvernement NTSAY Christian Le Ministre des Affaires Etrangères La Ministre de l’Economie et des Finances Richard RANDRIAMANDRATO Rindra RABARINIRINARISON Le Ministre de l’Intérieur et de la Décentralisation La Ministre du Travail, de l’Emploi, de la Fonction Publique et des Lois sociales Justin TOKELY Gisèle RANAMPY Le Ministre de la Jeunesse et des Sports La Ministre de la Communication et de la Culture Tinoka ROBERTO Lalatiana ANDRIATONGARIVO La Ministre de la Population, de la Protection Sociale et de la Promotion de la Femme La Ministre de l’Environnement et du Développement Durable Princia SOAFILIRA Marie-Orléa VINA
