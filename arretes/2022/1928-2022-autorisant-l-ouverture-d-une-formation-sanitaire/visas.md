@@ -1,0 +1,27 @@
+# Visas
+
+MINISTERE DE LA SANTE PUBLIQUE -------------- Arrêté n°1928/2022-MSANP autorisant l’ouverture d’une Formation Sanitaire Privée de Base dénommée « Dispensaire SOA NY AINA» sis au lot II H 12 J Q Bis Fokontany d’Ankadindramamy, Vème Arrondissement, Commune Urbaine d’Antananarivo, District d’Antananarivo Renivohitra, Région d’Analamanga.
+
+-------------- LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT,
+
+Vu la Constitution,
+
+Vu la loi n°2011-002 du 15 juillet 2011 portant Code de la Santé ;
+
+Vu le décret n°2004-780 du 03 août 2004 portant Code de Déontologie des Infirmiers ;
+
+Vu le décret n°2012-632 du 13 juin 2012 portant Code de Déontologie Médicale ;
+
+Vu le décret n°2013-035 du 22 janvier 2013 portant Code de Déontologie des Sages-femmes ;
+
+Vu le décret n°2019-1407 du 19 juillet 2019 portant nomination du Premier Ministre, Chef du Gouvernement ;
+
+Vu le décret n°2021-822 du 15 août 2021 modifié et complété par le décret n°2021-845 du 20 août 2021 portant nomination des membres du Gouvernement ;
+
+Vu le décret n°2020-1286 du 07 octobre 2020 modifié et complété par le décret n°2021-037 du 13 janvier 2021 fixant les attributions du Ministre de la Santé Publique ainsi que l’organisation générale de son Ministère ;
+
+Vu l’arrêté n°22 554/2019-MSANP du 08 octobre 2019 réglementant l’ouverture et la fermeture des Formations Sanitaires Privées de Base et fixant leurs normes de fonctionnement;
+
+Vu la demande, en date du 14 septembre 2021, formulée par Docteur RAZAFIARISOA Jeannine;
+
+Vu l’avis favorable émis par les membres de la Commission Consultative pour l’ouverture des Formations Sanitaires Privées de Base réunis le 16 septembre 2021 suivant le Procès- Verbal n°119-MSANP/SG/DGFS/DSSB/SSSBMLDP du 11 octobre 2021, A R R E T E :
