@@ -1,0 +1,3 @@
+# Signatures
+
+Antananarivo, le 16 mars 2022 Par le Premier Ministre, Chef du Gouvernement Et Par Délégation Le Ministre du Travail, de l’Emploi, De la Fonction Publique et des Lois Sociales www.cnlegis.gov.mg 2/2
