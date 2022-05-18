@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 30 mars 2022 Andry RAJOELINA Par le Président de la République Le Premier Ministre, Chef du Gouvernement NTSAY Christian Le Garde des Sceaux, Ministre de la Justice RAKOTOZAFY François Le Ministre de l’Aménagement Du Territoire et des Services Fonciers RAMAHOLIMASY Pierre Holder Le Ministre de l’Economie Et des Finances Rindra Hasimbelo RABARINIRINARISON Le Ministre de la Communication Et de la Culture Lalatiana ANDRIATONGARIVO RAKOTONDRAZAFY Le Ministre des Transports Et de la Météorologie RANJATOELINA Rolland Le Ministre de l’Agriculture et De l’Elevage Harifidy RAMILISON www.cnlegis.gov.mg 2/2
