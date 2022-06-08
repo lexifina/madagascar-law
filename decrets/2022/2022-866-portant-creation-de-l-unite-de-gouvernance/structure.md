@@ -1,0 +1,18 @@
+# Structure
+
+- TITRE PREMIER – DISPOSITIONS GENERALES. (avant Article premier)
+- TITRE II - MISSIONS ET ATTRIBUTIONS. (avant Article 3)
+- Chapitre Premier : — DES MISSIONS DE L’UGD. (avant Article 3)
+- Chapitre 2 : — DES ATTRIBUTIONS DE L’UGD. (avant Article 4)
+- TITRE III - ORGANISATION ET FONCTIONNEMENT. (avant Article 6)
+- Chapitre Premier : — DU CONSEIL D’ADMINISTRATION. (avant Article 7)
+- Section 1 : De la composition du Conseil et des modalités de désignation des administrateurs. (avant Article 7)
+- Section 2 : Du fonctionnement, des attributions et pouvoirs du Conseil d’Administration. (avant Article 11)
+- Chapitre 2 : — DU SECRETARIAT EXECUTIF. (avant Article 16)
+- Section 1 : — Des modalités de recrutement et de nomination du Secrétaire Exécutif. (avant Article 16)
+- Section 3 Des contraintes et incompatibilités. (avant Article 26)
+- TITRE IV – REGIME FINANCIER. (avant Article 29)
+- Chapitre Premier : — DES REGIMES BUDGETAIRE ET COMPTABLE. (avant Article 29)
+- Chapitre 2 DES RESSOURCES ET DES EMPLOIS. (avant Article 35)
+- TITRE V - PERSONNEL DE L’UGD. (avant Article 45)
+- TITRE VI - DISPOSITIONS DIVERSES ET FINALES. (avant Article 47)
