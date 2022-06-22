@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 27 avril 2022 Par Le Président de la République, Le Premier Ministre, Chef du Gouvernement Christian NTSAY Andry RAJOELINA Le Ministre des Travaux Publics, Jerry HATREFINDRAZANA Le Ministre de l’Aménagement du Territoire et des Services Fonciers, Pierre Holder RAMAHOLIMASY Le Ministre de l’Intérieur et de la Décentralisation Le Garde des Sceaux, Ministre de la justice, François RAKOTOZAFY Le Ministre de l’Économie et des Finances, Rindra Hasimbelo RABARINIRINARISON Le Ministre de l’Agriculture et de l’Elevage, Justin TOKELY Harifidy RAMILISON Le Ministre de la Population, de la Protection Sociale et de la Promotion de la Femme, Princia SOAFILIRA Le Ministre de la Communication et de la Culture, Lalatiana RAKOTONDRAZAFY
