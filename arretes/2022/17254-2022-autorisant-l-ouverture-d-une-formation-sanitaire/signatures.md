@@ -1,0 +1,3 @@
+# Signatures
+
+Antananarivo, le 24juin 2022 . LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT et par Délégation, LE MINISTRE DE LA SANTE PUBLIQUE Prof. RANDRIAMANANTANY Zely Arivelo
