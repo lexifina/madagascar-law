@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 21 septembre 2022 Par le Premier Ministre, Chef du Gouvernement, Christian NTSAY Le Ministre de l’Economie et des Finances Rindra Hasimbelo RABARINIRINARISON Le Ministre du Travail, de l’Emploi, de la Fonction publique et des Lois sociales Le Ministre de l’Agriculture et de l’Elevage Harifidy RAMILISON Le Vice-Ministre chargé de l’Elevage Gisèle RANAMPY Docteur RAYMOND ORGANIGRAMME DU MINISTERE DE L’AGRICULTURE ET DE L’ELEVAGE MINISTRE VICE- MINISTRE CHARGE DE L’ELEVAGE CABINET DU MINISTRE UAILC CABINET DU VICE- MINISTRE PRMP UAPP CelCom PRMP USID SECRETARIAT GENERAL DRAE DFRH URSA DAJC ODR SRVFAR DAF STATAGRI SRGR DPSE SECRU DVFAR DGA DGE DAPV DAPA DGR DSV DPV DOPAB SSAN SLDV SOC SGBTI SASCP
