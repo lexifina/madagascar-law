@@ -1,0 +1,3 @@
+# Signatures
+
+Antananarivo, le 27 Septembre 2022 P. LE PREMIER MINISTRE, CHEF DE GOUVERNEMENT Et par délégation LE MINISTRE DE LA SANTE PUBLIQUE Prof. RANDRIAMANANTANY ZelyArivelo
