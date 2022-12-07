@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 07 décembre 2022 Par le Président de la République, Andry RAJOELINA Le Premier Ministre, Chef du Gouvernement, NTSAY Christian Le Ministre de l’Economie et des Finances RABARINIRINARISON RindraHasimbelo Le Ministre de l’Industrialisation, du Commerce et de la Consommation RAZAFINDRAVAHY Edgard Le Ministre du Travail, de l’Emploi, de la Fonction Publique et des Lois sociale Gisèle RANAMPY Le Ministre de l’Enseignement Supérieur et de la Recherche Scientifique Professeur ASSOUMACOU Elia Béatrice Le Ministre de l’Agriculture et de l’Elevage Le Ministre de l’Enseignement Technique www.cnlegis.gov.mg 9/10 RAMILISON Harifidy et de la Formation professionnelle VAVITSARA Rahantanirina Gabriella www.cnlegis.gov.mg 10/10
