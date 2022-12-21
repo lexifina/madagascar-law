@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 18 novembre 2022 Pour le Premier Ministre, Chef du Gouvernement, Et par délégation, Le Ministre de la Défense Nationale Général de Corps d’Armée RAKOTONIRINA Léon Jean Richard Le Ministre de l’Economie et des Finances RABARINIRINARISON Rindra Hasimbelo Le Ministre de l’Intérieur et de la Décentralisation Le Ministre de la Sécurité Publique www.cnlegis.gov.mg 4/5 TOKELY Justin Contrôleur Général de Police RANDRIANARISON Fanomezantsoa Rodellys Le Ministre de l’Agriculture et de l’Elevage Le Secrétaire d’Etat auprès du Ministère de la Défense Nationale chargé de la Gendarmerie RAMILISON Harifidy Général de Corps d'Armée GELLE Serge
