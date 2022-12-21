@@ -1,0 +1,5 @@
+# Signatures
+
+Antananarivo, le 28 novembre 2022 « POUR LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT »
+
+Et par délégation LA MINISTRE DE L’ENSEIGNEMENT TECHNIQUE ET DE LA FORMATION PROFESSIONNELLE www.cnlegis.gov.mg 3/3
