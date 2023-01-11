@@ -1,0 +1,10 @@
+# Arrêté n° 32599/2022 du 30 novembre 2022 abrogeant l’arrêté n° 29880/2020 du 8 décembre 2020 et portant nomination du Président du Conseil d’Administration du Laboratoire des Mines de Madagascar (L2M)
+
+- Source : CNLEGIS (Direction du CNLEGIS, Secrétariat général du Gouvernement), fiche 57402, <https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=32599/2022#id=57402>
+- Fichier : <https://cnlegis.gov.mg/uploads/A32599-2022-VF.pdf>
+- Date du texte : 2022-11-30 ; J.O. n° 4112 du 2023-01-09, p. 737
+- En vigueur : 2023-01-11 (Ordonnance n° 62-041 du 19 septembre 1962, art. 3 : « un jour franc après l’arrivée du Journal officiel » ; jour d’arrivée non imprimé : date du JO + 2 jours, la plus tôt possible)
+- État selon CNLEGIS : En vigueur
+- Texte : PDF natif publié par CNLEGIS
+- Unités : 5 articles
+- Version : texte publié par CNLEGIS ; les modifications ultérieures ne sont pas appliquées.
