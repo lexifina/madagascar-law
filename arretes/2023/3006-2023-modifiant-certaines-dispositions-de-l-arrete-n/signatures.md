@@ -1,0 +1,3 @@
+# Signatures
+
+Antananarivo, le 13 Février 2023 P LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT Et par délégation, LE MINISTRE DE LA SANTE PUBLIQUE Prof RANDRIAMANANTANY Zely Arivelo
