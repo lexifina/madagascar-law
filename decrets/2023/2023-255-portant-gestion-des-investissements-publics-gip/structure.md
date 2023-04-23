@@ -1,0 +1,18 @@
+# Structure
+
+- CHAPITRE PREMIER : DES DISPOSITIONS GENERALES (avant Article premier)
+- Section première – De l’Objet (avant Article premier)
+- Section première – De la Définition (avant Article 2)
+- Section 2 – Du Champ d’application (avant Article 3)
+- Section 4 – Du Cadre juridique (avant Article 12)
+- Section 5 – De l’Organisation institutionnelle (avant Article 13)
+- CHAPITRE 2 : DU CYCLE DE GESTION DES INVESTISSEMENTS PUBLICS (avant Article 14)
+- Section 1 – De l’Identification (avant Article 15)
+- Section 2 – De l’Evaluation préalable (avant Article 18)
+- Section 3 – De la Sélection (avant Article 21)
+- Section 4 – De la Programmation pluriannuelle et de la Budgétisation (avant Article 25)
+- Section 6 – Du Suivi (avant Article 43)
+- Section 7 – De la Comptabilisation-matières (avant Article 50)
+- Section 8 – De l’Audit et du Contrôle (avant Article 51)
+- Section 9 – De l’Evaluation postérieure (avant Article 54)
+- CHAPITRE 3 : DES DISPOSITIONS FINALES (avant Article 55)
