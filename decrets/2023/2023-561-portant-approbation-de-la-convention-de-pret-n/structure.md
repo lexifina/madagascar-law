@@ -1,0 +1,4 @@
+# Structure
+
+- TITRE I - OCTROI DE PRET (avant Article premier)
+- TITRE II - CONDITIONS ET MODALITES D’EMISSION — DES BONS DU TRESOR SPECIAUX (BTS-JIRAMA 2) (avant Article 2)
