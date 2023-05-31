@@ -1,0 +1,15 @@
+# Structure
+
+- CHAPITRE PREMIER — Ouverture de l’Opération de Certification Foncière Massive Section première Délimitation de la Commune, des Fokontany et Hameaux concernés par l’opération (avant Article 3)
+- Section 3 Information et sensibilisation à la certification foncière massive (avant Article 5)
+- Section 4 Inventaire parcellaire foncier (avant Article 6)
+- CHAPITRE II — DEROULEMENT DES OPERATIONS DE CERTIFICATION FONCIERE MASSIVE Section première Réception des demandes de Certificat Foncier (avant Article 7)
+- Section 2 Regroupement des demandes (avant Article 12)
+- Section 4 Opération de Reconnaissance Locale (avant Article 15)
+- Section 5 Traitement des oppositions (avant Article 19)
+- CHAPITRE III — ETABLISSEMENT DU CERTIFICAT FONCIER (avant Article 20)
+- CHAPITRE IV — REJET DE LA DEMANDE (avant Article 25)
+- CHAPITRE V — RECOURS AUX NTIC www.cnlegis.gov.mg 9/11 (avant Article 26)
+- CHAPITRE VI — RESPONSABILITE DU CHEF DE L’EXECUTIF DE LA COMMUNE ET DES AGENTS DES GUICHETS FONCIERS AINSI QUE DES MEMBRES DE LA COMMISSION DE RECONNAISSANCE LOCALE (avant Article 29)
+- CHAPITRE VII — SANCTIONS (avant Article 30)
+- CHAPITRE VIII — DISPOSITIONS FINALES www.cnlegis.gov.mg 10/11 (avant Article 31)
