@@ -1,0 +1,3 @@
+# Signatures
+
+Antananarivo, le 16 mai 2023 P. LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT Et par délégation LE MINISTRE DE LA SANTE PUBLIQUE Prof. RANDRIAMANANTANY ZelyArivelo
