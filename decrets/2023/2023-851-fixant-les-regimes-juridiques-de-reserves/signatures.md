@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 05 juillet 2023 Par le Président de la République, Andry RAJOELINA Le Premier Ministre, Chef du Gouvernement, Christian NTSAY www.cnlegis.gov.mg 6/7 Le Ministre de l’Aménagement du Territoire Et des Services Fonciers Houlder RAMAHOLIMASY Le Ministre de l’Économie et des Finances Rindra Hasimbelo RABARINIRINARISON Le Ministre de l’Intérieur et de la Décentralisation TOKELY Justin Le Ministre de la Communication et de la Culture RAKOTONDRAZAFY Lalatiana Le Secrétaire d’Etat chargé des Nouvelles Ville et de l’Habitat auprès De la Présidence de la République Gérard ANDRIAMANOHISOA www.cnlegis.gov.mg 7/7

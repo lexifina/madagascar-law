@@ -1,0 +1,15 @@
+# Structure
+
+- SECTION PREMIERE:DES GENERALITES (avant Article premier)
+- Paragraphe 1: De l'Objet (avant Article premier)
+- Paragraphe 2: De la Définition (avant Article 2)
+- SECTION 2: DU CHAMP D’APPLICATION (avant Article 3)
+- Paragraphe unique: De l’Origine (avant Article 3)
+- SECTION 3: DE LA PROCÉDURE DE CRÉATION (avant Article 4)
+- Paragraphe Premier : De la collaboration (avant Article 4)
+- Paragraphe 2:De l’Identification de terrains (avant Article 5)
+- Paragraphe 3: Du plan régulier (avant Article 9)
+- Paragraphe 4: De la constatation de l’état des lieux (avant Article 10)
+- Paragraphe 5: De l’opération de bornage (avant Article 11)
+- Paragraphe 7: Des terrains de donation (avant Article 13)
+- Paragraphe 8: De l’inscription (avant Article 14)
