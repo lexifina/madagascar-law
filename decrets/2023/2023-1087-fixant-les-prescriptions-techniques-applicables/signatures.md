@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, 08 septembre 2023 Par le Premier Ministre, Chef du Gouvernement Christian NTSAY Le Ministre de l’Aménagement du Territoire et des Services Fonciers, HOLDER RAMAHOLIMASY Le Ministre de l’Intérieur et de la Décentralisation TOKELY Justin Le Ministre de la Communication et de la Culture, Lalatiana RAKOTONDRAZAFY Ministre des Transports et de la Météorologie RAMONJAVELO Manambahoaka Valéry Fitzgerald Le Ministre des Travaux Publics Colonel Ndriamihaja Livah ANDRIANATREHINA Le Secrétaire d’Etat en charge de la Nouvelle Ville auprès de la présidence de la République Gérard ANDRIAMANOHISOA www.cnlegis.gov.mg 3/3

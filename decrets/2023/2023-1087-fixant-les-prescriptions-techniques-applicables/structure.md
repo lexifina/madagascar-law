@@ -1,0 +1,5 @@
+# Structure
+
+- CHAPITRE I — www.cnlegis.gov.mg 1/3 DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — EXPROPRIATION ET REGULATION DE L4EMPRISE DE ROUTE (avant Article 4)
+- CHAPITRE III — DISPOSITIONS FINALES (avant Article 7)
