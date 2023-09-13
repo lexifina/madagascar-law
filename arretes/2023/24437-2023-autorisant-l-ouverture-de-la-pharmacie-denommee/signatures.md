@@ -1,0 +1,3 @@
+# Signatures
+
+Antananarivo, le 21 aout 2023 P. LE PREMIER MINISTRE, CHEF DE GOUVERNEMENT Et par délégation LE MINISTRE DE LA SANTE PUBLIQUE Prof. RANDRIAMANANTANY Zely Arivelo.
