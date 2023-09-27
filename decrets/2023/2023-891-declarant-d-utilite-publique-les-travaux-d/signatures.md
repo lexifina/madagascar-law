@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 19 juillet 2023 Par le Président de la République Andry RAJOELINA Le Premier Ministre Chef du Gouvernement NTSAY Christian Le Garde des Sceaux, Ministre de la Justice ANDRIAMANANTENASOA Landy Mbolatiana Le Ministre de l’Aménagement du Territoire et des Services Fonciers Holder RAMAHOLIMASY Le Ministre de l’Economie et des Finances Rindra Hasimbelo RABARINIRINARISON Le Ministre de la Communication et de la Culture Lalatiana RAKOTONDRAZAFY Le Ministre des Transports et de la Météorologie Manambahoaka Valéry RAMONJAVELO Le Ministre de l’Agriculture et de l’Elevage Harifidy RAMILISON www.cnlegis.gov.mg 3/3
