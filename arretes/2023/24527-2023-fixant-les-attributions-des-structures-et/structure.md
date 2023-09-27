@@ -1,0 +1,5 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — COMPOSITION (avant Article 3)
+- CHAPITRE III — DISPOSITIONS DIVERSES (avant Article 7)
