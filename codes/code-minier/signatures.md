@@ -1,5 +1,3 @@
 # Signatures
 
-Antananarivo, le 19 août 1999
-
-Didier RATSIRAKA
+Promulguée à Antananarivo, le 27 juillet 2023 Andry RAJOELINA www.cnlegis.gov.mg 80/80
