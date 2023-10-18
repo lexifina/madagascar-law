@@ -1,0 +1,3 @@
+# Signatures
+
+Antananarivo, le 28 juin 2023 Le Président de la République Andry Nirina RAJOELINA Le Premier Ministre, Chef du Gouvernement NTSAY Christian Le Ministre de l’Economie et des Finances Rindra HASIMBELO RABARINIRINARISON Le Ministre de la Sécurité Publique Contrôleur General de Police Fanomezantsoa Rodellys RANDRIANARISON Le Ministre des Transports et de la Météorologie Manambahoaka Valéry Fitzérald RAMONJAVELO Le Ministre de l’Intérieur et de la Décentralisation Justin TOKELY Le Ministre de l’Industrialisation, du Commerce et de la Consommation Edgard RAZAFINDRAVAHY Le Secrétaire d’Etat auprès du Ministère de la Défense Nationale chargé de la Gendarmerie Général de Corps d’Armée Serge GELLE www.cnlegis.gov.mg 3/3
