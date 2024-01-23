@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 23 janvier 2024 Par le Premier Ministre, Chef du Gouvernement, Christian NTSAY Le Ministre des Affaires Étrangères, RASATA Rafaravavitafika Le Garde des Sceaux, Ministre de la Justice, RANDRIAMANANTENASOA Landy Mbolatiana Le Ministre de l’Intérieur, TOKELY Justin Le Ministre de l’Economie et des Finances, RABARINIRINARISON Rindra Hasimbelo Le Ministre de la Santé Publique, Professeur ZELY Arivelo RANDRIAMANANTANY Le Ministre de la Population et des Solidarités, FOMENDRAZA Haingo Elisette Le Ministre du Développement Numérique, des Postes et des Télécommunications RAZAFINDRAMALO Tahina Le Ministre de la Communication et de la Culture ANDRIAMANANORO Augustin
