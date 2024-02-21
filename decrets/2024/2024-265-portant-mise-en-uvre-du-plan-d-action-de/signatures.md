@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 21 février 2024 Par Le Président de la République, Le Premier Ministre, Chef du Gouvernement Christian NTSAY Andry RAJOELINA Landy Mbolatiana RANDRIAMANANTENASOA Niaina ANDRIANTSITOHAINA Le Ministre de l’Economie et des Finances Le Ministre de l’Intérieur Rindra Hasimbelo RABARINIRINARISON Le Ministre de l’Agriculture et de l’Elevage Justin TOKELY Rakotoarisolo Suzelin RATOHIARIJAONA Le Garde des Sceaux, Ministre de la Justice Le Ministre de la Décentralisation et de l’Aménagement du Territoire Le Ministre de la Population et de la Solidarité Le Ministre de l’Energie et des Hydrocarbures Le Ministre des Travaux Publics Colonel ANDRIANATREHINA Ndriamihaja Livah Haingo Elisette FOMENDRAZA
