@@ -1,0 +1,16 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — DE LA CANDIDATURE Section première Du dossier de candidature (avant Article 4)
+- Section 2 De I'enregistrement des dossiers de candidature (avant Article 7)
+- Section 3 De la liste officielle des candidats (avant Article 9)
+- CHAPITRE III — DE LA CAMPAGNE ELECTORALE Section première De la période de campagne (avant Article 11)
+- Section 2 De I' affichage électoral (avant Article 13)
+- CHAPITRE IV — DE L'ORGANISATION DU SCRUTIN Section première Des bulletins de vote (avant Article 20)
+- Section 2 Des cartes d’électeurs (avant Article 25)
+- Section 3 Du tirage au sort (avant Article 28)
+- Section 4 Du port de badge (avant Article 30)
+- Section 5 Des bureaux de vote (avant Article 35)
+- Section 6 Du déroulement du scrutin (avant Article 40)
+- CHAPITRE V — DU TRAITEMENT ET DE LA PUBLICATION DES RESULTATS (avant Article 47)
+- CHAPITRE VI — DISPOSITIONS DIVERSES ET FINALES (avant Article 50)
