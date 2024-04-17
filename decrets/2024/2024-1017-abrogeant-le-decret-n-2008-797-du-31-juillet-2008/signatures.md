@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 17 avril 2024 Par le Président de la République, Andry RAJOELINA Le Premier Ministre, Chef du Gouvernement, Christian NTSAY Le Ministre de l’Economie et des Finances Rindra Hasimbelo RABARINIRINARISON Le Ministre de l’Agriculture et de l’Elevage Suzelin Rakotoarisolo RATOHIARIJAONA Le Ministre de l’Enseignement Supérieur et de la Recherche Scientifique Andriamanantena RAZAFIHARISON Le Ministre du Travail, de l’Emploi, et de la Fonction publique Hanitra Fitiavana RAZAKABOANA Le Ministre de la Communication et de la Culture, par intérim Rafaravavitafika RASATA
