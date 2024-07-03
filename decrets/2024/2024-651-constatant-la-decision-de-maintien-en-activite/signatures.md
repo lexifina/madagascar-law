@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 18 mars 2024 Par Le Président De La République Andry RAJOELINA Le Premier Ministre, Chef Du Gouvernement NTSAY Christian Le Garde Des Sceaux, Ministre De La Justice RANDRIAMANANTENASOA Landy Mbolatiana Le Ministre de L’Economie Et Des Finances Rindra Hasimbelo RABARINIRINARISON N° IM NOM ET PRENOMS FONCTION DATE DEBUT MAINTIEN DATE FIN MAINTIEN LEZAVA RAHAGASOA Jeanne Olga Conseiller à la Cour de Cassation 05/05/2024 05/05/2025 RABEAFARA Gosteur Commissaire du Trésor Public, Cour des Comptes 29/05/2024 29/05/2025 RAVELONTSALAMA Rose Sylvia Conseiller à la Cour de Cassation 18/06/2024 18/06/2025 RAKOTOSON Henri Président de Chambre, Conseil d'Etat 30/06/2024 30/06/2025 www.cnlegis.gov.mg 2/2
