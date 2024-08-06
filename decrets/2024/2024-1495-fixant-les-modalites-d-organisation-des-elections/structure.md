@@ -1,0 +1,15 @@
+# Structure
+
+- CHAPITRE PREMIER — DISPOSITIONS GENERALES (avant Article premier)
+- CHAPITRE II — DE LA CANDIDATURE Section première De l’organe de vérification et d’enregistrement des candidatures (OVEC) (avant Article 3)
+- Section 3 Du dépôt et de l’enregistrement de candidature (avant Article 9)
+- CHAPITRE III — DE LA CAMPAGNE ELECTORALE Section première De la période de campagne (avant Article 13)
+- Section 2 De l’affichage électoral (avant Article 17)
+- CHAPITRE IV — DE L’ORGANISATION DU SCRUTIN Section première Des bulletins de vote (avant Article 24)
+- Section 3 Du tirage au sort (avant Article 32)
+- Section 4 Des bureaux de vote (avant Article 34)
+- Section 5 Du port de badge (avant Article 39)
+- Section 6 Du déroulement du scrutin (avant Article 44)
+- CHAPITRE V — DU TRAITEMENT ET DE LA PUBLICATION DES RÉSULTATS Section première Du recensement matériel des votes (avant Article 52)
+- Section 2 Du traitement et de la publication des résultats (avant Article 54)
+- CHAPITRE VI — DISPOSITIONS DIVERSES ET FINALES (avant Article 64)
