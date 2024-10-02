@@ -1,0 +1,10 @@
+# Arrêté n° 11928/2024 du 10 juillet 2024 portant ouverture et organisation du Concours d’entrée en troisième année, pour la Formation de type initial de Technicien Supérieur Spécialisé de grade Licence à l’Institut Supérieur de Technologie d’Antananarivo, pour l’année d’études 2024-2025
+
+- Source : CNLEGIS (Direction du CNLEGIS, Secrétariat général du Gouvernement), fiche 55862, <https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=11928/2024#id=55862>
+- Fichier : <https://cnlegis.gov.mg/uploads/A11928-2024-VF.pdf>
+- Date du texte : 2024-07-10 ; J.O. n° 4230 du 2024-09-30, p. 6761
+- En vigueur : 2024-10-02 (Ordonnance n° 62-041 du 19 septembre 1962, art. 3 : « un jour franc après l’arrivée du Journal officiel » ; jour d’arrivée non imprimé : date du JO + 2 jours, la plus tôt possible)
+- État selon CNLEGIS : En vigueur
+- Texte : PDF natif publié par CNLEGIS
+- Unités : 11 articles
+- Version : texte publié par CNLEGIS ; les modifications ultérieures ne sont pas appliquées.
