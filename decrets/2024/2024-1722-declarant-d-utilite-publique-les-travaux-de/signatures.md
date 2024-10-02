@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 02 octobre 2024 Par le Président de la République Andry RAJOELINA Le Premier Ministre, Chef du Gouvernement Christian NTSAY Le Garde des sceaux,Ministre de la Justice Benjamin RAKOTOMANDIMBY Le Ministre de l’Economie et des Finances Rindra Hasimbelo RABARINIRINARISON Le Ministre de la Décentralisation et de l’Aménagement Territoire Niaina ANDRIANTSITOHAINA Le Ministre de l’Intérieur Niritsoa RAHAJAVOLOLONIAINA www.cnlegis.gov.mg 3/4 Le Ministre de l’Agriculture et de l’Elevage François Sergio HAJARISON Le Ministre des Travaux Publics Richard Théodore RAFIDISON Le Ministre de l’Energie et des Hydrocarbures Le Ministre de la Communication et de la Culture Olivier JEAN-BAPTISTE Volamiranty Donna MARA www.cnlegis.gov.mg 4/4
