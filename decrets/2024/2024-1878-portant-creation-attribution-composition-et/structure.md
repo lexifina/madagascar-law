@@ -1,0 +1,6 @@
+# Structure
+
+- TITRE I — MINISTERE DE L’ECONOMIE ET DES FINANCES www.cnlegis.gov.mg 1/8 ATTRIBUTION (avant Article premier)
+- TITRE II — COMPOSITION (avant Article 2)
+- TITRE III — ORGANISATION ET FONCTIONNEMENT (avant Article 9)
+- TITRE IV : DISPOSITIONS TRANSITOIRES ET FINALES (avant Article 20)
