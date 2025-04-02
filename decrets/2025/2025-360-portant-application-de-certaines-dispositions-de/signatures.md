@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 02 avril 2025 Par le Président de la République, Andry RAJOELINA www.cnlegis.gov.mg 12/13 Pour le Premier Ministre, Chef du Gouvernement NTSAY Christian Le Ministre de la Décentralisation et de l’Aménagement du Territoire Franck Michel Niaina ANDRIANTSITOHAINA Le Ministre de l’Economie et des Finances Rindra Hasimbelo RABARINIRINARISON Le Ministre de l’Intérieur Niritsoa RAHAJAVOLOLONIAINA Le Ministre de l’Agriculture et de l’Elevage François Sergio HAJARISON Le Ministre de l’industrialisation et du Commerce David Herizo RALAMBOFIRINGA Le Ministre de la Population et des Solidarités Aurélie RAZAFINJATO Le Ministre de la Communication et de la Culture Volamiranty Donna MARA www.cnlegis.gov.mg 13/13
