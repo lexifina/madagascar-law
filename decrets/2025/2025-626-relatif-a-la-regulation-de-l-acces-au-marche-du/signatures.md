@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 06 juin 2025 Le Garde des Sceaux, Ministre de la Justice LE PREMIER MINISTRE, CHEF DU GOUVERNEMENT RAKOTOMANDIMBY Benjamin NTSAY Christian Le Ministre de l’Économie et des Finances RABARINIRINARISON Rindra Hasimbelo Le Ministre de l’Agriculture, de l’Élevage HAJARISON François Sergio Le Ministre de la Décentralisation Et de l’Aménagement du Territoire ANDRIANTSITOHAINA Naina Le Ministre de l’Intérieur RAHAJAVOLOLONIAINA Nirintsoa Le Ministre de l’Énergie et des Hydrocarbures JEAN-BAPTISTE Olivier Le Ministre de l’Environnement et du Développement Durable FONTAINE Max Andonirina www.cnlegis.gov.mg 23/24 www.cnlegis.gov.mg 24/24
