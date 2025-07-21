@@ -1,0 +1,19 @@
+# Visas
+
+MINISTERE DE LA SANTE PUBLIQUE ----------- DECRET N° 2025-801 abrogeant le décret n° 2020-0745 du 11 juillet 2020 portant nomination d’un Directeur de la Veille Sanitaire, de la Surveillance Epidémiologique et Riposte du Ministère de la Santé Publique.
+
+LE PRESIDENT DE LA REPUBLIQUE,
+
+Vu la Constitution,
+
+Vu la loi n° 2003-011 du 03 septembre 2003 portant Statut Général des fonctionnaires et les textes subséquents ;
+
+Vu l’ordonnance n° 93-027 du 13 mai 1993 relative à la règlementation sur les Hauts Emplois de l’Etat et les textes subséquents ;
+
+Vu le décret n° 76-132 du 31 mars 1976 portant réglementation des Hauts Emplois de l’Etat et les textes subséquents ;
+
+Vu le décret n° 2020-1286 du 07 octobre 2020, modifié et complété par les décrets n° 2021- 037 du 13 janvier 2021 et n° 2022-014 du 12 janvier 2022 fixant les attributions du Ministre de la Santé Publique ainsi que l’organisation générale de son Ministère ;
+
+Vu le décret n° 2024-1456 du 12 juillet 2024 portant nomination du Premier Ministre Chef du Gouvernement ;
+
+Vu le décret n° 2025-812 du 29 juillet 2025 modifiant certaines dispositions du décret n° 2024-1612 du 22 août 2024 portant nomination des membres du Gouvernement Sur proposition du Ministre de la Santé Publique, En Conseil des Ministres, D E C R E T E :
