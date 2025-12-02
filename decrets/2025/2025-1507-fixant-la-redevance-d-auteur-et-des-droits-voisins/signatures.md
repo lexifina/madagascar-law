@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 2 décembre 2025 Par Le Premier Ministre, Chef du Gouvernement Herintsalama RAJAONARIVELO Le Garde des Sceaux, Ministre de la Justice ERNAIVO Fanirisoa Le Ministre de l’Economie et des Finances Herinjatovo Aimé RAMIARISON Le Ministre de l’Industrialisation et du Développement du Secteur Privé RASOARAHONA Andriniaina Le Ministre des Transports et de la Météorologie RAHARISONE Juste Crescent La Ministre du Tourisme et de l’Artisanat VOLOLONIAINA Lucie La Ministre du Développement Numérique, des Postes et des Télécommunications ANDRIAMAMPIADANA Mahefa Le Ministre de la Communication et de la Culture Ogascar Fenosoa MANDRINDRARIVONY www.cnlegis.gov.mg 7/8 Page 8/8 www.cnlegis.gov.mg 8/8
