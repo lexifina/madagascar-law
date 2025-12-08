@@ -1,0 +1,16 @@
+# Structure
+
+- TITRE I — DISPOSITIONS GÉNÉRALES (avant Article premier)
+- CHAPITRE PREMIER : FONDAMENTAUX SUR LA CONFIANCE NUMÉRIQUE (avant Article premier)
+- CHAPITRE 2 : PRINCIPES DE BASE DE LA SIGNATURE ÉLECTRONIQUE (avant Article 9)
+- TITRE II : DU CADRE INSTITUTIONNEL (avant Article 15)
+- CHAPITRE 1 : DE L’AUTORITÉ NATIONALE DE CONFIANCE NUMÉRIQUE OU — ANCN (avant Article 15)
+- CHAPITRE 2 : DES PRESTATAIRES DE SERVICE DE CONFIANCE (avant Article 18)
+- Section 1 - De l’accréditation (avant Article 18)
+- Section 2 - Des conditions et obligations (avant Article 21)
+- Section 3 - De l’hébergement technique des PSCo (avant Article 24)
+- TITRE III — DU CADRE PROCÉDURAL (avant Article 27)
+- CHAPITRE I : DE L’ACQUISITION DE L'ACCRÉDITATION (avant Article 27)
+- CHAPITRE 2 : DE LA CERTIFICATION DE SIGNATURE ÉLECTRONIQUE (avant Article 38)
+- CHAPITRE 3 : DES RESPONSABILITÉS DU PRESTATAIRE DE CERTIFICATION DE — SIGNATURE ÉLECTRONIQUE (avant Article 47)
+- TITRE IV — DISPOSITIONS DIVERSES ET FINALES. (avant Article 53)
