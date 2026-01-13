@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 13 janvier 2026 Le Premier Ministre, Chef du Gouvernement, Herintsalama Andriamasy RAJAONARIVELO Le Ministre de la Justice, Garde des Sceaux Fanirisoa ERNAIVO Le Ministre de l’Agriculture et de l’Élevage José Nirina RASATARIMANANA Le Ministre du Commerce et de la Consommation Haingotiana Michela Angèle ANDRIAMADISON Le Ministre de l’Industrialisation et du Développement du secteur Privé Andriniaina RASOARAHONA Le Ministre de la Pêche et de l’Economie Bleue Jaco CHAN KIT WAYE Le Ministre de l’Environnement et du Développement Durable Rafanomezantsoa Michaêl MANESIMANANA www.cnlegis.gov.mg 8/8
