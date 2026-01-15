@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 15 Janvier 2026 Par Le Président De La Refondation, De La République Chef De L’Etat Michaël RANDRIANIRINA Le Premier Ministre, Chef du Gouvernement Herintsalama RAJAONARIVELO Le Ministre De L’economie Et Des Finances Herinjatovo Aimé RAMIARISON Le Ministre du Travail, de L’emploi, Et de la Fonction Publique Soatiana Bety Léonne FLORENT Le Ministre de la Pêche Et de L’Economie Bleue CHAN KIT WAYE Jaco Le Ministre de la Pêche Et de L’Economie Bleue Soatiana Bety Léonne FLORENT Le Ministre de la Communication et de La Culture Ogascar Fenosoa MANDRINDRARIVONY www.cnlegis.gov.mg 2/2
