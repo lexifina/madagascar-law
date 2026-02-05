@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 05 février 2026 Michaël RANDRIANIRINA Par le Président de la Refondation de la République, Chef de l’Etat Le Premier Ministre,Chef du Gouvernement Herintsalama Andriamasy RAJAONARIVELO Le Ministre de l’Intérieur et de la Décentralisation Hanitra Velonjara Tiaray RAKOTONANDRASANA Le Ministre de l’Economie et des Finances, Herinjatovo Aimé RAMIARISON Le Ministre de la Sécurité Publique Michel Wouli Soumah Idrissa ERICK Le Ministre de la Communication et de la Culture, Ogascar Fenosoa MANDRINDRARIVONY Le Ministre Délégué en charge de la Gendarmerie Nationale, BAMA MARIMA www.cnlegis.gov.mg 10/10
