@@ -1,0 +1,11 @@
+# Structure
+
+- CHAPITRE PREMIER. — DISPOSITIONS GENERALES Section première De l’objet (avant Article premier)
+- Section 3 Principes d’affectation (avant Article 3)
+- CHAPITRE II — DES BÉNÉFICIAIRES (avant Article 4)
+- CHAPITRE III — DES MODALITES D’AFFECTATION (avant Article 5)
+- CHAPITRE IV — DES FORMALITES D’ATTRIBUTION (avant Article 8)
+- CHAPITRE V — DES MODALITÉS D'UTILISATION ET DE SUIVI (avant Article 9)
+- CHAPITRE VI — DES DROITS, OBLIGATIONS ET CONTRÔLE (avant Article 12)
+- CHAPITRE VIII — DE LA RESPONSABILITÉ, DES SINISTRES ET DES SANCTIONS (avant Article 18)
+- CHAPITRE IX — DISPOSITIONS FINALES (avant Article 22)
