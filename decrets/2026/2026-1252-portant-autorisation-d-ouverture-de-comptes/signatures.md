@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 19 mai 2026 Mamitiana RAJAONARISON Par le Premier Ministre, Chef du Gouvernement, Le Ministre de l’Economie et des Finances Herinjatovo Aimé RAMIARISON www.cnlegis.gov.mg 2/2
