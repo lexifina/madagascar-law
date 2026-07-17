@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 17 juillet 2026 Par Le Président de la République, Le Premier Ministre, Chef du Gouvernement Mamitiana RAJAONARISON Michaël RANDRIANIRINA Le Garde des Sceaux, Ministre de la justice, Fanirisoa ERNAIVO Le Ministre de l’Économie et des Finances, Herinjatovo Aimé RAMIARISON Le Ministre des Travaux Publics, Sambilason Richard RAFEFIMANANA Le Ministre de l’Intérieur et de la Décentralisation, Hanitra Velonjara Tiaray RAKOTONANDRASANA Le Ministre de l’Aménagement du Territoire et des Services Fonciers, René de Rolland Urbain LYLYSON Le Ministre de la Communication et de laCulture, Ogascar Fenosoa MANDRINDRARIVONY www.cnlegis.gov.mg 2/2
