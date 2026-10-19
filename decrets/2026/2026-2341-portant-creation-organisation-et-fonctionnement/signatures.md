@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Antananarivo, le 19 octobre 2026 Mamitiana RAJAONARISON Par le Premier Ministre, Chef du Gouvernement Le Ministre des Affaires Etrangères Alice N'DIAYE Le Ministre de l’Économie et des Finances Herinjatovo Aimé RAMIARISON Le Ministre de l’Agriculture et de la Souveraineté Alimentaire Gaëtan RAMINDO Le Ministre de l’Industrialisation et du Développement du Secteur Privé Ny Riana Nampoina RAHARIMANJATO Le Ministre du Commerce et de la Consommation Michela Haingotiana Angèle ANDRIAMADISON Le Ministre des Mines Carl de mon Espoir ANDRIAMPARANY www.cnlegis.gov.mg 7/8 Le Ministre du Tourisme et de l’Artisanat Lucie VOLOLONIAINA www.cnlegis.gov.mg 8/8
