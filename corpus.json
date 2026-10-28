@@ -1,0 +1,44 @@
+{
+  "corpus": "mg/national/acts",
+  "name": "Malagasy law: the Constitution (1992 Constitution as revised, 1998-2010; Constitution of 2010)",
+  "label": "Madagascar",
+  "language": "fr",
+  "acts": [
+    "Loi constitutionnelle n° 98-001 du 8 avril 1998 portant révision de la Constitution",
+    "Loi constitutionnelle n° 2007-001 du 27 avril 2007 portant révision de la Constitution",
+    "Loi constitutionnelle n° 2009-001 du 19 janvier 2009 modifiant les dispositions de l'article 15 de la Constitution",
+    "Constitution de la République de Madagascar du 11 décembre 2010 (Constitution de la Quatrième République)"
+  ],
+  "history_from": "1998-04-10",
+  "record_to": "2026-10-28",
+  "record_note": "From the 1998 revised text (in force 1998-04-10 at the earliest) to the Constitution of 11 December 2010 (in force 2010-12-11); CNLEGIS lists no constitutional act after 2010 on 2026-10-28, the day the data was retrieved and checked.",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "Consolidated",
+  "has_future_branch": false,
+  "built": "2026-10-28",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Enacted",
+      "Published",
+      "In-force-basis"
+    ],
+    "time": "12:00 Indian/Antananarivo (UTC+3; no summer time)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "immediate effect without retroactivity (Ordonnance n° 62-041 du 19 septembre 1962, art. 8); no punishment without a law promulgated and published before the act (Constitution 2010, art. 13)",
+      "meaning": "a new law applies to situations already established when it does not alter the effects already produced by an earlier legal situation; procedural laws apply to pending cases not yet decided on the merits; interpretive laws reach back only where the legislature clearly says so",
+      "authority": "Ordonnance n° 62-041 du 19 septembre 1962 relative aux dispositions générales de droit interne et de droit international privé, art. 8 (CNLEGIS, uploads/O62-041-VF.pdf); Constitution du 11 décembre 2010, art. 13",
+      "decided_here": false
+    }
+  },
+  "replayed": "partial: only the 2009 version (LC 2009-001, article 15) is replayed; the 1998, 2007 and 2010 versions are whole official texts",
+  "tool": "tools/mglaw.py",
+  "citation": {
+    "file": "(constitution)/article-0*([0-9]+(?:\\.[0-9]+)?)\\.md",
+    "cites": "([Aa]rticle|[Aa]rt\\.) ?{n}([^0-9]|$)"
+  }
+}
