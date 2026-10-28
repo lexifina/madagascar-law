@@ -1,0 +1,13 @@
+Legal texts
+
+The texts of the Constitution and laws of Madagascar in this repository are taken from CNLEGIS (https://cnlegis.gov.mg/),
+the official legal database of the Direction du CNLEGIS, Secrétariat Général du Gouvernement, Primature, République de
+Madagascar. CNLEGIS publishes no terms of use (checked 2026-10-28); its robots.txt allows every crawler except GPTBot.
+Reuse terms are therefore unclear, and this repository is kept private.
+
+Source attribution: "Source : CNLEGIS (cnlegis.gov.mg), Primature, République de Madagascar."
+
+Tools, history, tables and documentation
+
+The scripts, the git history's structure, the tables in data/ and the documentation written for this repository are
+dedicated to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).
