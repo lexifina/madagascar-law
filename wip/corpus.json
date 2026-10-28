@@ -21,7 +21,7 @@
    "name": "CNLEGIS (cnlegis.gov.mg)",
    "url": "https://cnlegis.gov.mg/",
    "retrieved": "2026-10-28",
-   "requests": 21,
+   "requests": 32,
    "licence": "No terms of use published. robots.txt (2026-10-28): GPTBot disallowed, all others allowed.",
    "notes": "Official French HTML of each text inside the JSON of the search endpoints (two POSTs per search: page_find_direct_mots/ or page_num_find_direct/, then the data endpoint). Searches: mots \"Constitution de la\" (0,300) sha256 02dbde5ca36aa86a666e61ac99143fed3fea1d22292a7308f83cb672b4e36f31; num \"2009-001\" (0,50) sha256 5a968250dc3b130ac32c9a4e82bdfb853e40b83221376ff5a01a3de2842bff99; num \"2014-038\" (0,50) sha256 fb92700db44954e383fc944fb91d482a0f6119739c6c98e1aa1883cead2d403f; num \"2014-006\" (0,50) sha256 7f21c706a06cb8c5c33ecad50404828cb8a61d8c2f9d2e573961a7f11e4c74c0; num \"2016-031\" (0,50) sha256 8447e75f118ff88460a8b3d2ba0f6fcd0200d127b8c09b1199ae96a6a2088ef3. Ordonnance n° 62-041 PDF (text layer) sha256 46a4a3f7834b979a9061e2af8e777812b1ac80ed00472d8b1768035cc2d7082d."
   }

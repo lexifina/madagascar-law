@@ -54,6 +54,7 @@ ART = re.compile(r'^Article\s+(premier|\d+(?:\.\s?\d+(?=\s*\.))?)\s*(\(nouveau\)
 # In capitals it may carry its title on the same line; the short form ("TITRE II", "Sous-titre premier") is followed by
 # a title line. Every line from a heading up to the next article belongs to the heading (titles run over lines).
 HEAD_CAPS = re.compile(r'^\.?(TITRE|SOUS[- ]TITRE|CHAPITRE|SECTION)\b')
+HEAD_SEC = re.compile(r'^Sections?\s+\d+\s*:')  # "Section 1 : de la ..." (PDF texts, e.g. Loi 2024-014)
 HEAD_SHORT = re.compile(r'^\.?(titre|sous[- ]titre|chapitre|section)\s+(premier|unique|[ivxl]+|il|\d+)\s*$', re.I)
 
 
@@ -87,7 +88,7 @@ def constitution(ls: list, start: str, stop: str) -> dict:
             pending.append(l)
             expect_title = True
             continue
-        if HEAD_CAPS.match(l):
+        if HEAD_CAPS.match(l) or HEAD_SEC.match(l):
             pending.append(l)
             continue
         if pending:  # a heading's title can run over several lines; headings are always followed by an article
