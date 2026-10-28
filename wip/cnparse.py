@@ -108,3 +108,44 @@ def constitution(ls: list, start: str, stop: str) -> dict:
 
 def text_of(html: str) -> str:
     return H.unescape(html)
+
+
+# ---- PDF texts (CNLEGIS uploads with a text layer) -------------------------------------------------------------------
+PAGE_NO = re.compile(r'^\d{1,3}$')
+END = re.compile(r'[.;:!?»"]$')
+INLINE = re.compile(r' (?=(?:TITRE (?:PREMIER|[IVXL]+)\b|CHAPITRE (?:PREMIER|[IVXL]+)\b|'
+                    r'Article (?:premier|\d+) ?[-–.]))')
+STARTS_BLOCK = re.compile(r'^(Article\s|TITRE\s|CHAPITRE\s|Sections?\s+\d)')
+
+
+def pdf_text(path) -> str:
+    """pdftotext (poppler) in reading order, UTF-8. Deterministic for the same file and poppler version."""
+    import subprocess
+    r = subprocess.run(['pdftotext', '-enc', 'UTF-8', str(path), '-'], capture_output=True, check=True)
+    return r.stdout.decode('utf-8')
+
+
+def pdf_lines(text: str) -> list:
+    """Paragraph lines from pdftotext output (one paragraph per line in these PDFs).
+
+    Page-number lines are dropped. Across a page break, a line is joined to the one before it when the one before does
+    not end a sentence (or the next starts in lower case), unless either is a heading or the next opens an article.
+    Headings and articles that pdftotext runs into one line ("... récidive. TITRE XI") are split apart."""
+    out, page_break = [], False
+    for raw in text.replace('\f', '\n').split('\n'):
+        l = WS.sub(' ', DROP.sub('', raw)).strip()
+        if not l:
+            continue
+        if PAGE_NO.match(l):
+            page_break = True
+            continue
+        parts = INLINE.split(l)
+        first = parts[0]
+        if (page_break and out and not STARTS_BLOCK.match(first) and not HEAD_CAPS.match(out[-1])
+                and not HEAD_SEC.match(out[-1]) and (not END.search(out[-1]) or first[:1].islower())):
+            out[-1] = out[-1] + ' ' + first
+        else:
+            out.append(first)
+        out.extend(parts[1:])
+        page_break = False
+    return out
