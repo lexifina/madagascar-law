@@ -1,4 +1,0 @@
-# Article 148
-
-Les communes constituent les collectivités territoriales décentralisées de base.
-Les communes sont urbaines ou rurales en considération de leur assiette démographique réduite ou non à une agglomération urbanisée.

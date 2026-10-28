@@ -1,4 +1,0 @@
-# Article 50
-
-L'empêchement temporaire du Président de la République est déclaré par la Haute Cour Constitutionnelle, saisie par l’Assemblée Nationale, statuant à la majorité des deux tiers de ses membres, pour cause d'incapacité physique ou mentale d'exercer ses fonctions dûment établie.
-En cas d’empêchement temporaire, les fonctions de Chef de l’Etat sont provisoirement exercées par le Président du Sénat.

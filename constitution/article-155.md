@@ -1,4 +1,0 @@
-# Article 155
-
-La fonction délibérante est exercée par le Conseil régional dont les membres sont élus au suffrage universel.
-Les députés et les sénateurs issus des différentes circonscriptions de la région sont membres de droit du Conseil régional, avec voix délibérative.

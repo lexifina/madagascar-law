@@ -1,9 +1,0 @@
-# Article 4
-
-La République de Madagascar a pour devise : "Fitiavana – Tanindrazana – Fandrosoana".
-Son emblème national est le drapeau tricolore blanc, rouge, vert, composé de trois bandes rectangulaires d'égales dimensions, la première verticale de couleur blanche du côté de la hampe, les deux autres horizontales, la supérieure rouge et l'inférieure verte.
-La langue nationale est le malagasy.
-L'hymne national est "Ry Tanindrazanay malala ô !"
-La Capitale de la République de Madagascar est Antananarivo.
-Les sceaux de l'Etat et les armoiries de la République sont définis par la loi.
-Les langues officielles sont le malagasy et le français.

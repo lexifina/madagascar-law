@@ -1,3 +1,0 @@
-# Article 132
-
-Si la déchéance du Président de la République est prononcée, la Haute Cour Constitutionnelle constate la vacance de la Présidence de la République ; il sera procédé à l'élection d'un nouveau Président dans les conditions de l'article 47 ci-dessus. Le Président frappé de déchéance n'est plus éligible à toute fonction publique élective.

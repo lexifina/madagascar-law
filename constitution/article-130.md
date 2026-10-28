@@ -1,3 +1,0 @@
-# Article 130
-
-Le Premier Président, le Procureur général des Cours d’appel sont nommés en Conseil des Ministres par décret du Président de la République conformément aux propositions du Conseil Supérieur de la Magistrature, de préférence parmi les plus anciens dans le grade le plus élevé des Magistrats respectivement de l'ordre judiciaire, administratif et financier.

@@ -1,5 +1,0 @@
-# Article 54
-
-Le Président de la République nomme le Premier ministre, présenté par le parti ou le groupe de partis majoritaire à l’Assemblée Nationale.
-Il met fin aux fonctions du Premier Ministre, soit sur la présentation par celui-ci de la démission du Gouvernement, soit en cas de faute grave ou de défaillance manifeste.
-Sur proposition du Premier ministre, il nomme les membres du Gouvernement et met fin à leurs fonctions.

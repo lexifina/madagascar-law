@@ -1,4 +1,0 @@
-# Article 58
-
-Le Président de la République exerce le droit de grâce.
-Il confère les décorations et les honneurs de la République.

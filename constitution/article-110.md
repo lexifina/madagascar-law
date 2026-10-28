@@ -1,4 +1,0 @@
-# Article 110
-
-Les Magistrats du ministère public sont soumis à la subordination hiérarchique; toutefois, dans leurs conclusions ou réquisitions orales, ils agissent selon leur intime conviction et conformément à la loi. Ils disposent de la police judiciaire dont ils peuvent contrôler les activités et le fonctionnement.
-Le fait de leur enjoindre d’accomplir des actes qui sont manifestement contraires à la loi entraîne pour les solliciteurs des sanctions prévues par la loi.

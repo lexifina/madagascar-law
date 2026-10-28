@@ -1,6 +1,0 @@
-# Article 134
-
-Les Présidents des Assemblées parlementaires, le Premier Ministre, les autres membres du Gouvernement et le Président de la Haute Cour Constitutionnelle sont justiciables des juridictions de droit commun pour les infractions commises hors de l'exercice de leurs fonctions.
-L'initiative des poursuites émane du Procureur Général près la Cour de Cassation.
-Dans ce cas, lorsqu'il y a délit, la juridiction correctionnelle compétente est présidée par le Président du tribunal ou par un vice-Président s'il en est empêché.
-Les dispositions des trois alinéas précédents sont également applicables aux députés, aux sénateurs et aux membres de la Haute Cour Constitutionnelle.

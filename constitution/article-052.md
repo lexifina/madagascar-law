@@ -1,5 +1,0 @@
-# Article 52
-
-Par suite de démission, d’abandon du pouvoir sous quelque forme que ce soit, de décès, d’empêchement définitif ou de déchéance prononcée, la vacance de la Présidence de la République est constatée par la Haute Cour Constitutionnelle.
-Dès la constatation de la vacance de la présidence, les fonctions du Chef de l’Etat sont exercées par le Président du Sénat.
-En cas d’empêchement du Président du Sénat constatée par la Haute Cour Constitutionnelle, les fonctions de Chef de l’Etat sont exercées collégialement par le Gouvernement.

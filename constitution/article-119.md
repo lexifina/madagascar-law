@@ -1,3 +1,0 @@
-# Article 119
-
-La Haute Cour Constitutionnelle peut être consultée par tout Chef d'Institution et tout organe des Collectivités Territoriales Décentralisées pour donner son avis sur la constitutionnalité de tout projet d'acte ou sur l'interprétation d'une disposition de la présente Constitution.

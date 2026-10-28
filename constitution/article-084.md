@@ -1,6 +1,0 @@
-# Article 84
-
-Le Sénat se réunit de plein droit en deux sessions ordinaires par an. La durée de chaque session est fixée à soixante jours.
-La première session commence le premier mardi de mai et la seconde, consacrée principalement à l'adoption de la loi de finances, le troisième mardi d'octobre.
-Il peut être également réuni en session spéciale sur convocation du Gouvernement. Son ordre du jour est alors limitativement fixé par le décret de convocation pris en Conseil des Ministres.
-Lorsque l'Assemblée nationale ne siège pas, le Sénat ne peut discuter que des questions dont le Gouvernement l'a saisi pour avis, à l'exclusion de tout projet législatif.

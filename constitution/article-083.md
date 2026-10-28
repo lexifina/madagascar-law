@@ -1,3 +1,0 @@
-# Article 83
-
-Le Sénat est consulté par le Gouvernement pour donner son avis sur les questions économiques, sociales et d'organisation des Collectivités Territoriales Décentralisées.

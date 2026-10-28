@@ -1,6 +1,0 @@
-# Article 5
-
-La souveraineté appartient au peuple, source de tout pouvoir, qui l'exerce par ses représentants élus au suffrage universel direct ou indirect, ou par la voie du référendum. Aucune fraction du peuple, ni aucun individu ne peut s'attribuer l'exercice de la souveraineté.
-L’organisation et la gestion de toutes les opérations électorales relèvent de la compétence d’une structure nationale indépendante.
-La loi organise les modalités de fonctionnement de ladite structure.
-Sont électeurs dans les conditions déterminées par la loi tous les nationaux des deux sexes jouissant de l’exercice de leurs droits civils et politiques. La qualité d'électeur ne se perd que par une décision de justice devenue définitive.

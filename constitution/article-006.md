@@ -1,5 +1,0 @@
-# Article 6
-
-La loi est l'expression de la volonté générale. Elle est la même pour tous, qu'elle protège, qu'elle oblige ou qu'elle punisse.
-Tous les individus sont égaux en droit et jouissent des mêmes libertés fondamentales protégées par la loi sans discrimination fondée sur le sexe, le degré d'instruction, la fortune, l'origine, la croyance religieuse ou l'opinion.
-La loi favorise l’égal accès et la participation des femmes et des hommes aux emplois publics et aux fonctions dans le domaine de la vie politique, économique et sociale.

@@ -1,4 +1,0 @@
-# Article 23
-
-Tout enfant a droit à l'instruction et à l'éducation sous la responsabilité des parents dans le respect de leur liberté de choix.
-L'Etat s'engage à développer la formation professionnelle.

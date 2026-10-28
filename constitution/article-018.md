@@ -1,3 +1,0 @@
-# Article 18
-
-Le Service National légal est un devoir d'honneur. Son accomplissement ne porte pas atteinte à la position de travail du citoyen ni à l'exercice des droits politiques du citoyen.

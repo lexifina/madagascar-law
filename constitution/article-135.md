@@ -1,3 +1,0 @@
-# Article 135
-
-La Haute Cour de Justice jouit de la plénitude de juridiction.

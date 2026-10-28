@@ -1,8 +1,0 @@
-# Article 124
-
-Le Parquet général de la Cour Suprême comprend :
-- un Parquet général de la Cour de cassation ;
-- un Commissariat général de la loi pour le Conseil d'Etat ;
-- un Commissariat général du Trésor public pour la Cour des Comptes.
-Le Procureur général de la Cour Suprême est secondé par les trois chefs de ces Parquets généraux.
-Le chef du Parquet général de la Cour de Cassation, du Commissariat Général de la loi ou du Commissariat général du Trésor public est nommé en Conseil des Ministres conformément aux propositions du Conseil Supérieur de la Magistrature, de préférence parmi les Magistrats les plus anciens dans le grade le plus élevé respectivement de l'ordre judiciaire, administratif et financier.

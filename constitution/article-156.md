@@ -1,3 +1,0 @@
-# Article 156
-
-La composition, l’organisation, les attributions et le fonctionnement des organes exécutifs et délibérants ainsi que le mode et les conditions d’élection de ses membres sont fixés par la loi.

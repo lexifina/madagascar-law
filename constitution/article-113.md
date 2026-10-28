@@ -1,4 +1,0 @@
-# Article 113
-
-Le Conseil National de la Justice, organe consultatif composé du Premier Président de la Cour Suprême, Président, du Procureur général de la Cour Suprême, des Chefs de Cours, de représentants du pouvoir exécutif, du pouvoir législatif, de la Haute Cour Constitutionnelle, du Conseil Supérieur de la Magistrature, du Haut Conseil pour la Défense de la Démocratie et de l’Etat de droit, et des auxiliaires de la justice en général. A ce titre, il peut proposer au Gouvernement des mesures d’ordre législatif ou réglementaire relatives à l’organisation et au fonctionnement des juridictions, au statut des Magistrats et des auxiliaires de la justice.
-Les règles relatives à l’organisation, au fonctionnement et aux attributions du Conseil National de la Justice sont fixées par la loi.

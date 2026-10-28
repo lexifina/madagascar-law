@@ -1,6 +1,0 @@
-# Article 140
-
-Les Collectivités Territoriales Décentralisées disposent d’un pouvoir réglementaire.
-L’Etat veille à ce que le règlement d’une Collectivité Territoriale décentralisée n’affecte pas les intérêts d’une autre Collectivité Territoriale Décentralisée.
-L’Etat veille au développement harmonieux de toutes les Collectivités Territoriales décentralisées sur la base de la solidarité nationale, des potentialités régionales et de l’équilibre interrégional par des dispositifs de péréquation.
-Des mesures spéciales seront prises en faveur du développement des zones les moins avancées, y compris la constitution d’un fonds spécial de solidarité.

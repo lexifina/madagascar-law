@@ -1,3 +1,0 @@
-# Article 87
-
-Les lois organiques, les lois de finances et les lois ordinaires sont votées par le Parlement dans les conditions fixées par la présente Constitution.

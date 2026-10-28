@@ -1,3 +1,0 @@
-# Article 20
-
-La famille, élément naturel et fondamental de la société, est protégée par l'Etat. Tout individu a le droit de fonder une famille et de transmettre en héritage ses biens personnels.

@@ -1,6 +1,0 @@
-# Article 114
-
-La Haute Cour Constitutionnelle comprend neuf membres. Leur mandat est de sept (7) ans non renouvelable.
-Trois des membres sont nommés par le Président de la République, deux sont élus par l'Assemblée nationale, deux par le Sénat, deux sont élus par le Conseil supérieur de la Magistrature.
-Le Président de la Haute Cour Constitutionnelle est élu par et parmi les membres de ladite Cour.
-Cette élection ainsi que la désignation des autres membres sont constatées par décret du Président de la République.

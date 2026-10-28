@@ -1,5 +1,0 @@
-# Article 111
-
-L’exercice des fonctions de Magistrat est incompatible avec toute activité au sein d’un parti politique et du Gouvernement, l’exercice de tout mandat public électif ou de toute autre activité professionnelle rémunérée, à l’exception des activités d’enseignement.
-Tout Magistrat en exercice est soumis à l’obligation de neutralité politique.
-Tout Magistrat exerçant un mandat public électif est placé d’office en position de détachement.

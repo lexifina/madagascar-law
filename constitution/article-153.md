@@ -1,4 +1,0 @@
-# Article 153
-
-Les régions ont une vocation essentiellement économique et sociale.
-En collaboration avec les organismes publics et privés, elles dirigent, dynamisent, coordonnent et harmonisent le développement économique et social de l’ensemble de leur ressort territorial et assurent la planification, l’aménagement du territoire et la mise en œuvre de toutes les actions de développement.

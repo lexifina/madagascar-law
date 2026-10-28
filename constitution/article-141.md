@@ -1,4 +1,0 @@
-# Article 141
-
-Les Collectivités Territoriales décentralisées assurent avec le concours de l’Etat, notamment la sécurité publique, la défense civile, l’administration, l’aménagement du territoire, le développement économique, la préservation de l’environnement et l’amélioration du cadre de vie.
-Dans ces domaines, la loi détermine la répartition des compétences en considération des intérêts nationaux et des intérêts locaux.

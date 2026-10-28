@@ -1,4 +1,0 @@
-# Article 91
-
-Les lois de programme déterminent les objectifs de l'action de l'Etat en matière économique, environnementale, sociale et d'aménagement du territoire.
-Les dispositions du présent article sont précisées et complétées par une loi organique.

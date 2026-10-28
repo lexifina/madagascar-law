@@ -1,6 +1,0 @@
-# Article 112
-
-L’Inspection Générale de la Justice, composée de représentants du Parlement, de représentants du Gouvernement, de représentant du Haut Conseil pour la Défense de la Démocratie et de l’Etat de droit, et de représentants de la Magistrature, est chargée de contrôler le respect des règles déontologiques particulières aux Magistrats, ainsi que les agissements du personnel de la justice.
-Elle est rattachée à la Présidence de la République.
-Le Président de la République, le Parlement, le Gouvernement, les Chefs de Cour, les associations légalement constituées et toute personne justifiant d’un intérêt peuvent saisir l’Inspection Générale de la Justice.
-Les règles relatives à l’organisation, au fonctionnement et aux attributions de l’Inspection Générale de la Justice sont fixées par la loi.

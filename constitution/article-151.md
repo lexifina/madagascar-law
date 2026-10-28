@@ -1,4 +1,0 @@
-# Article 151
-
-Dans les communes, les fonctions exécutives et délibérantes sont exercées par des organes distincts et élus au suffrage universel direct.
-La composition, l’organisation, les attributions et le fonctionnement des organes exécutifs et délibérants ainsi que le mode et les conditions d’élection de ses membres sont fixés par la loi.

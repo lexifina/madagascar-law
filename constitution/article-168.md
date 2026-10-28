@@ -1,3 +1,0 @@
-# Article 168
-
-Dans le cadre du processus de réconciliation nationale, il est institué un Conseil du Fampihavanana Malagasy dont la composition, les attributions, et les modalités de fonctionnement sont déterminées par la loi.

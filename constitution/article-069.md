@@ -1,5 +1,0 @@
-# Article 69
-
-Les membres de l'Assemblée Nationale sont élus pour cinq ans au suffrage universel direct.
-Le régime des scrutins est déterminé par une loi organique.
-Les membres de l'Assemblée Nationale portent le titre de "Député de Madagascar".

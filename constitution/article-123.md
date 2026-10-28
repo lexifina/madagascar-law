@@ -1,4 +1,0 @@
-# Article 123
-
-Le Premier Président de la Cour Suprême est secondé par trois Vice-Présidents, affectés respectivement à la présidence de la Cour de Cassation, du Conseil d'Etat et de la Cour des Comptes.
-Chaque Vice-président est nommé en Conseil des Ministres par décret du Président de la République conformément aux propositions du Conseil Supérieur de la Magistrature, de préférence parmi les plus anciens dans le grade le plus élevé des Magistrats respectivement de l'ordre judiciaire, administratif et financier.

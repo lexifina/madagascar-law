@@ -1,7 +1,0 @@
-# Article 66
-
-Le Premier Ministre préside le Conseil de Gouvernement.
-En Conseil de Gouvernement :
-1. il fixe le programme de mise en œuvre de la politique générale de l'Etat et arrête les mesures à prendre pour en assurer l'exécution ;
-2. il exerce les autres attributions pour lesquelles la consultation du Gouvernement est obligatoire en vertu de la présente Constitution et des lois particulières.
-3. il décide des mesures de mise en œuvre des programmes nationaux de développement économique et social, ainsi que de celui de l'aménagement du territoire, en collaboration avec les autorités des Collectivités Territoriales Décentralisées.

@@ -1,6 +1,0 @@
-# Article 60
-
-Le Président de la République peut, après information auprès du Premier Ministre, et après consultation des Présidents des Assemblées, prononcer la dissolution de l'Assemblée Nationale.
-Les élections générales se tiennent soixante jours au moins et quatre-vingt dix jours au plus après le prononcé de la dissolution.
-L'Assemblée Nationale se réunit de plein droit le deuxième jeudi qui suit son élection. Si cette réunion a lieu en dehors de la période prévue pour la session ordinaire, une session est ouverte de droit pour une durée de quinze jours.
-Il ne peut être procédé à une nouvelle dissolution dans les deux années qui suivent ces élections.

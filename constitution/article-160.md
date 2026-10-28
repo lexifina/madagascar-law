@@ -1,3 +1,0 @@
-# Article 160
-
-La composition, l’organisation, les attributions et le fonctionnement de ces organes exécutif et délibérant, ainsi que le mode et les conditions d’élection de leurs membres sont fixés par la loi.

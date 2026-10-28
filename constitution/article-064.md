@@ -1,4 +1,0 @@
-# Article 64
-
-Les fonctions de membre du Gouvernement sont incompatibles avec l'exercice de tout mandat public électif, de toute fonction de représentation professionnelle, de l’exercice de toute fonction au sein d’institutions religieuses, de tout emploi public ou de toute autre activité professionnelle rémunérée.
-Tout membre du Gouvernement, candidat à un mandat électif, doit démissionner de ses fonctions sitôt sa candidature déclarée recevable.

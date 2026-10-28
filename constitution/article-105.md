@@ -1,6 +1,0 @@
-# Article 105
-
-Le Conseil économique, social et culturel, saisi par le Gouvernement, donne son avis sur les projets de loi, d'ordonnance ou de décret ainsi que sur les propositions de lois qui lui sont soumis.
-Il est compétent pour examiner les projets et propositions de loi à caractère économique, social et culturel à l’exclusion des lois de finances.
-Il peut entreprendre, de sa propre initiative, toutes études ou enquêtes se rapportant aux questions économique, sociale et culturelle. Ses rapports sont transmis au Président de la République.
-La composition, les attributions et le fonctionnement du Conseil économique, social, et culturel sont fixés par une loi organique.

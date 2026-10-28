@@ -1,4 +1,0 @@
-# Article 144
-
-Les Collectivités Territoriales décentralisées s’administrent librement par des assemblées qui règlent, par leurs délibérations, les affaires dévolues à leur compétence par la présente Constitution et par la loi.
-Ces délibérations ne peuvent pas être contraires aux dispositions constitutionnelles, législatives, et réglementaires.

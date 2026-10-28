@@ -1,4 +1,0 @@
-# Article 163
-
-La forme républicaine de l'Etat, le principe de l'intégrité du territoire national, le principe de la séparation des pouvoirs, le principe d’autonomie des Collectivités Territoriales Décentralisées, la durée et le nombre du mandat du Président de la République, ne peuvent faire l’objet de révision.
-Les pouvoirs exceptionnels détenus par le Président de la République dans les circonstances exceptionnelles ou de trouble politique ne lui confèrent pas le droit de recourir à une révision constitutionnelle.

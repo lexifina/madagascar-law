@@ -1,7 +1,0 @@
-# Article 118
-
-Un Chef d'Institution ou le quart des membres composant l'une des Assemblées parlementaires ou les organes des Collectivités Territoriales Décentralisées ou le Haut Conseil pour la Défense de la Démocratie et de l’Etat de droit peuvent déférer à la Cour Constitutionnelle, pour contrôle de constitutionnalité, tout texte à valeur législative ou réglementaire ainsi que toutes matières relevant de sa compétence.
-Si, devant une juridiction, une partie soulève une exception d'inconstitutionnalité, cette juridiction sursoit à statuer et saisit la Haute Cour Constitutionnelle qui statue dans le délai d'un mois.
-De même, si devant juridiction, une partie soutient qu'une disposition de texte législatif ou réglementaire porte atteinte à ses droits fondamentaux reconnus par la Constitution, cette juridiction sursoit à statuer dans les mêmes conditions qu'à l'alinéa précédent.
-Une disposition déclarée inconstitutionnelle cesse de plein droit d'être en vigueur.
-La décision de la Haute Cour Constitutionnelle est publiée au Journal officiel.

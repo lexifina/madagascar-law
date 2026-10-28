@@ -1,6 +1,0 @@
-# Article 63
-
-Le Gouvernement est composé du Premier Ministre et des Ministres.
-Il met en œuvre la politique générale de l'Etat.
-Il est responsable devant l'Assemblée nationale dans les conditions prévues aux articles 100 et 103 ci-dessous.
-Le Gouvernement dispose de l'Administration.

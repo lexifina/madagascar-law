@@ -1,3 +1,0 @@
-# Article 150
-
-Les communes peuvent se constituer en groupement pour la réalisation de projets de développement commun.

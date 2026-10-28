@@ -1,7 +1,0 @@
-# Article 11
-
-Tout individu a droit à l'information.
-L'information sous toutes ses formes n'est soumise à aucune contrainte préalable, sauf celle portant atteinte à l’ordre public et aux bonnes mœurs.
-La liberté d’information, quel qu’en soit le support, est un droit. L’exercice de ce droit comporte des devoirs et des responsabilités, et est soumis à certaines formalités, conditions, ou sanctions prévues par la loi, qui constituent des mesures nécessaires dans une société démocratique.
-Toute forme de censure est interdite.
-L’exercice de la profession de journaliste est organisé par la loi.

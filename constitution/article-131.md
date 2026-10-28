@@ -1,5 +1,0 @@
-# Article 131
-
-Le Président de la République n'est responsable des actes accomplis liés à l'exercice de ses fonctions qu'en cas de haute trahison, de violation grave, ou de violations répétées de la Constitution, de manquement à ses devoirs manifestement incompatible avec l'exercice de son mandat.
-Il ne peut être mis en accusation que par l’Assemblée Nationale au scrutin public et à la majorité des deux tiers de ses membres.
-Il est justiciable devant la Haute Cour de Justice. La mise en accusation peut aboutir à la déchéance de son mandat.

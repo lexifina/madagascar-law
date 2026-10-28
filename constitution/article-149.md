@@ -1,3 +1,0 @@
-# Article 149
-
-Les communes concourent au développement économique, social, culturel et environnemental de leur ressort territorial. Leurs compétences tiennent compte essentiellement des principes constitutionnels et légaux ainsi que du principe de proximité, de promotion et de défense des intérêts des habitants.

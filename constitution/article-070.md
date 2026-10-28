@@ -1,3 +1,0 @@
-# Article 70
-
-Un décret pris en Conseil des Ministres fixe le nombre des membres de l'Assemblée Nationale, la répartition des sièges sur l'ensemble du territoire national ainsi que le découpage des circonscriptions électorales.

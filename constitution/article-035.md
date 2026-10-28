@@ -1,3 +1,0 @@
-# Article 35
-
-L’Etat facilite l’accès des citoyens au logement à travers des mécanismes de financement appropriés.
