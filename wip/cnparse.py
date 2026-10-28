@@ -112,7 +112,7 @@ def text_of(html: str) -> str:
 
 # ---- PDF texts (CNLEGIS uploads with a text layer) -------------------------------------------------------------------
 PAGE_NO = re.compile(r'^\d{1,3}$')
-ART_ABBR = re.compile(r'^Art\. (\d+)')  # one article opens "Art. 40. –" (Loi 2024-014): read as "Article 40"
+ART_ABBR = re.compile(r'^Art\. (\d+)\b')  # one article opens "Art. 40. –" (Loi 2024-014): read as "Article 40"
 
 END = re.compile(r'[.;:!?»"]$')
 INLINE = re.compile(r' (?=(?:TITRE (?:PREMIER|[IVXL]+)\b|CHAPITRE (?:PREMIER|[IVXL]+)\b|'
@@ -135,7 +135,7 @@ def pdf_lines(text: str) -> list:
     Headings and articles that pdftotext runs into one line ("... récidive. TITRE XI") are split apart."""
     out, page_break = [], False
     for raw in text.replace('\f', '\n').split('\n'):
-        l = ART_ABBR.sub(r'Article ', WS.sub(' ', DROP.sub('', raw)).strip())
+        l = ART_ABBR.sub(r'Article \1', WS.sub(' ', DROP.sub('', raw)).strip())
         if not l:
             continue
         if PAGE_NO.match(l):

@@ -285,9 +285,66 @@ def data_protection(laws: dict, decisions: list) -> dict:
             'url': r['_url'], 'first_law': 'loi-2014-038', 'earlier_laws': [], 'versions': [version(d, r, statute(r))]}
 
 
+CT_2024_PDF = 'https://cnlegis.gov.mg/uploads/L2024-014-VF.pdf'
+S_CT = ('mots', 'Code du travail', '0,100')
+CT_START, CT_STOP = r'PROMULGUE LA LOI DONT LA TENEUR SUIT ?:?', r'^(Promulguée à Antananarivo|Antananarivo, le)'
+
+
+def code_du_travail_2024_lines() -> list:
+    """Loi 2024-014: CNLEGIS's HTML is a cover with a link to the official PDF (text layer), read with pdftotext."""
+    return [norm(l) for l in P.pdf_lines(P.pdf_text(F.CACHE / hashlib.sha256(CT_2024_PDF.encode()).hexdigest()))]
+
+
+def code_du_travail(laws: dict, decisions: list) -> dict:
+    r04 = record(S_CT, '38022', ('Loi', '2003-044', '2004-07-28', '2956', '2005-02-21'))
+    r24 = record(S_CT, '55500', ('Loi', '2024-014', '2024-08-14', '4237', '2024-11-04'))
+    F.get(CT_2024_PDF, offline=True)
+    if CT_2024_PDF not in r24['html_fichier_fr']:
+        raise SystemExit('Loi 2024-014: the CNLEGIS record no longer links the PDF read here')
+    r24['_lines'] = code_du_travail_2024_lines()
+    r24['_url'] = CT_2024_PDF
+    r24['_sha'] = hashlib.sha256(F.get(CT_2024_PDF, offline=True)).hexdigest()
+    laws['loi-2003-044'] = law_entry(r04, 'Loi n° 2003-044', 'Loi n° 2003-044 du 28 juillet 2004 portant Code du travail')
+    laws['loi-2024-014'] = law_entry(r24, 'Loi n° 2024-014', 'Loi n° 2024-014 du 14 août 2024 portant Code du travail')
+    laws['loi-2024-014']['url'] = CT_2024_PDF
+    u04 = statute(r04)
+    p24 = P.constitution(r24['_lines'], CT_START, CT_STOP)
+    if p24['preamble'][1:]:
+        raise SystemExit(f'Loi 2024-014: text before article 1: {p24["preamble"][1:3]}')
+    p24['preamble'] = []
+    nums = [a[0] for a in p24['articles']]
+    if nums != ['1'] + [str(n) for n in range(2, 396)]:
+        raise SystemExit('Loi 2024-014: articles are not exactly 1 to 395')
+    need(r24['_lines'], 'Sont et demeurent abrogées toutes dispositions antérieures contraires au présent Code, '
+                        'notamment celles de la Loi n° 2003-044')
+    u24 = units_of(p24, False)
+    d04, d24 = default_in_force(r04), default_in_force(r24)
+    decisions.extend([
+        f'Code du travail: Loi n° 2003-044 (promulgated 2004-07-28, JO n° 2956 of {ymd(r04["date_jo"])}) has no in-force '
+        f'clause, so {d04} is the earliest day (Ordonnance n° 62-041 art. 3). CNLEGIS notes name no amending law, only '
+        'implementing texts.',
+        f'Code du travail: Loi n° 2024-014 (promulgated 2024-08-14, JO n° 4237 of {ymd(r24["date_jo"])}) replaces it '
+        f'(art. 394 repeals Loi 2003-044); no in-force clause, so {d24} is the earliest day. Its 395 articles share '
+        'the folder with the 2003 code, so before and after this version a file holds an article of a different code; '
+        'every unit that differs is credited to Loi 2024-014, which enacted the whole text.',
+        'Code du travail 2024: CNLEGIS gives only a cover page in HTML and links the official PDF (L2024-014-VF.pdf, '
+        'text layer, no OCR), read with pdftotext 4.00 (poppler): page numbers dropped; a paragraph cut by a page break '
+        'is joined when the line before it does not end a sentence or the next starts in lower case; headings and '
+        'articles that pdftotext runs into one line are split; the one article printed "Art. 40." is read as '
+        '"Article 40". Paragraph breaks are as pdftotext gives them; the words are checked by verify.py.',
+    ])
+    return {'slug': 'code-du-travail', 'short': 'Code du travail', 'title': 'Code du travail',
+            'url': CT_2024_PDF, 'first_law': 'loi-2003-044', 'earlier_laws': [],
+            'versions': [version(d04, r04, u04),
+                         version(d24, r24, u24, {k: ['loi-2024-014'] for k in diff_keys(u04, u24)}, note=(
+                             'A new Code du travail (Loi n° 2024-014) replaces the 2004 code: every file before and '
+                             'after this version holds an article of a different code.'))]}
+
+
 def main():
     laws, decisions = {}, []
-    acts = [constitution(laws, decisions), cyber(laws, decisions), data_protection(laws, decisions)]
+    acts = [constitution(laws, decisions), cyber(laws, decisions), data_protection(laws, decisions),
+            code_du_travail(laws, decisions)]
     ord_sha = hashlib.sha256(F.get(ORD_62_041, offline=True)).hexdigest()
     decisions += [
         'Code pénal (Phase 1 spec) not built: CNLEGIS holds no text of the Code pénal itself, only amending laws, and '
