@@ -19,6 +19,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from urllib.parse import quote
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
@@ -26,7 +27,8 @@ import cnparse as P  # noqa: E402
 import fetch as F  # noqa: E402
 
 RETRIEVED = '2026-10-28'
-REC_URL = 'https://cnlegis.gov.mg/  (record {rid}: search {kind} "{query}", field html_fichier_fr)'
+# CNLEGIS searches are POSTs (fetch.py); the URL names the search form, the query and the record id.
+REC_URL = 'https://cnlegis.gov.mg/{form}?txt_recherche={query}#id={rid}'
 S_CONST = ('mots', 'Constitution de la', '0,300')
 S_2009 = ('num', '2009-001', '0,50')
 S_2014_006 = ('num', '2014-006', '0,50')
@@ -60,7 +62,7 @@ def record(search: tuple, rid: str, want: tuple) -> dict:
     if got != want:
         raise SystemExit(f'record {rid}: CNLEGIS metadata {got} != expected {want}')
     r['_lines'] = [norm(l) for l in P.lines(r['html_fichier_fr'])]
-    r['_url'] = REC_URL.format(rid=rid, kind=search[0], query=search[1])
+    r['_url'] = REC_URL.format(form=F.KINDS[search[0]][0], query=quote(search[1]), rid=rid)
     r['_sha'] = F.sha256_of(*search)
     return r
 

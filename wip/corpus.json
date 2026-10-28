@@ -44,7 +44,7 @@
    "kind": "law",
    "enacted": "2010-12-11",
    "published": "2011-01-20",
-   "url": "https://cnlegis.gov.mg/  (record 51445: search mots \"Constitution de la\", field html_fichier_fr)",
+   "url": "https://cnlegis.gov.mg/page_find_direct_mots/?txt_recherche=Constitution%20de%20la#id=51445",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -55,7 +55,7 @@
    "kind": "law",
    "enacted": "2007-04-27",
    "published": "2007-05-03",
-   "url": "https://cnlegis.gov.mg/  (record 39326: search mots \"Constitution de la\", field html_fichier_fr)",
+   "url": "https://cnlegis.gov.mg/page_find_direct_mots/?txt_recherche=Constitution%20de%20la#id=39326",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -66,7 +66,7 @@
    "kind": "law",
    "enacted": "2009-01-19",
    "published": "2009-02-19",
-   "url": "https://cnlegis.gov.mg/  (record 40058: search num \"2009-001\", field html_fichier_fr)",
+   "url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2009-001#id=40058",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -88,7 +88,7 @@
    "kind": "law",
    "enacted": "1998-04-08",
    "published": "1998-04-08",
-   "url": "https://cnlegis.gov.mg/  (record 34738: search mots \"Constitution de la\", field html_fichier_fr)",
+   "url": "https://cnlegis.gov.mg/page_find_direct_mots/?txt_recherche=Constitution%20de%20la#id=34738",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -99,7 +99,7 @@
    "kind": "law",
    "enacted": "2014-07-17",
    "published": "2014-09-08",
-   "url": "https://cnlegis.gov.mg/  (record 43046: search num \"2014-006\", field html_fichier_fr)",
+   "url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2014-006#id=43046",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -110,7 +110,7 @@
    "kind": "law",
    "enacted": "2015-01-09",
    "published": "2015-07-20",
-   "url": "https://cnlegis.gov.mg/  (record 43521: search num \"2014-038\", field html_fichier_fr)",
+   "url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2014-038#id=43521",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -121,7 +121,7 @@
    "kind": "law",
    "enacted": "2016-08-23",
    "published": "2017-04-17",
-   "url": "https://cnlegis.gov.mg/  (record 44983: search num \"2016-031\", field html_fichier_fr)",
+   "url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2016-031#id=44983",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -132,7 +132,7 @@
    "slug": "constitution",
    "short": "Constitution",
    "title": "Constitution de la République de Madagascar",
-   "url": "https://cnlegis.gov.mg/  (record 51445: search mots \"Constitution de la\", field html_fichier_fr)",
+   "url": "https://cnlegis.gov.mg/page_find_direct_mots/?txt_recherche=Constitution%20de%20la#id=51445",
    "first_law": null,
    "earlier_laws": [
     "constitution-1992",
@@ -142,7 +142,7 @@
    "versions": [
     {
      "from": "1998-04-10",
-     "source_url": "https://cnlegis.gov.mg/  (record 34738: search mots \"Constitution de la\", field html_fichier_fr)",
+     "source_url": "https://cnlegis.gov.mg/page_find_direct_mots/?txt_recherche=Constitution%20de%20la#id=34738",
      "sha256": "02dbde5ca36aa86a666e61ac99143fed3fea1d22292a7308f83cb672b4e36f31",
      "units": {
       "preambule": {
@@ -1010,7 +1010,7 @@
     },
     {
      "from": "2007-04-27",
-     "source_url": "https://cnlegis.gov.mg/  (record 39326: search mots \"Constitution de la\", field html_fichier_fr)",
+     "source_url": "https://cnlegis.gov.mg/page_find_direct_mots/?txt_recherche=Constitution%20de%20la#id=39326",
      "sha256": "02dbde5ca36aa86a666e61ac99143fed3fea1d22292a7308f83cb672b4e36f31",
      "units": {
       "preambule": {
@@ -2331,7 +2331,7 @@
     },
     {
      "from": "2009-01-19",
-     "source_url": "https://cnlegis.gov.mg/  (record 40058: search num \"2009-001\", field html_fichier_fr)",
+     "source_url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2009-001#id=40058",
      "sha256": "5a968250dc3b130ac32c9a4e82bdfb853e40b83221376ff5a01a3de2842bff99",
      "units": {
       "preambule": {
@@ -3154,7 +3154,7 @@
     },
     {
      "from": "2010-12-11",
-     "source_url": "https://cnlegis.gov.mg/  (record 51445: search mots \"Constitution de la\", field html_fichier_fr)",
+     "source_url": "https://cnlegis.gov.mg/page_find_direct_mots/?txt_recherche=Constitution%20de%20la#id=51445",
      "sha256": "02dbde5ca36aa86a666e61ac99143fed3fea1d22292a7308f83cb672b4e36f31",
      "units": {
       "preambule": {
@@ -4495,13 +4495,13 @@
    "slug": "loi-2014-006",
    "short": "Loi 2014-006",
    "title": "Loi n° 2014-006 du 17 juillet 2014 sur la lutte contre la cybercriminalité",
-   "url": "https://cnlegis.gov.mg/  (record 43046: search num \"2014-006\", field html_fichier_fr)",
+   "url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2014-006#id=43046",
    "first_law": "loi-2014-006",
    "earlier_laws": [],
    "versions": [
     {
      "from": "2014-09-10",
-     "source_url": "https://cnlegis.gov.mg/  (record 43046: search num \"2014-006\", field html_fichier_fr)",
+     "source_url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2014-006#id=43046",
      "sha256": "7f21c706a06cb8c5c33ecad50404828cb8a61d8c2f9d2e573961a7f11e4c74c0",
      "units": {
       "art-001": {
@@ -4718,7 +4718,7 @@
     },
     {
      "from": "2017-04-19",
-     "source_url": "https://cnlegis.gov.mg/  (record 44983: search num \"2016-031\", field html_fichier_fr)",
+     "source_url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2016-031#id=44983",
      "sha256": "8447e75f118ff88460a8b3d2ba0f6fcd0200d127b8c09b1199ae96a6a2088ef3",
      "units": {
       "art-001": {
@@ -4945,13 +4945,13 @@
    "slug": "loi-2014-038",
    "short": "Loi 2014-038",
    "title": "Loi n° 2014-038 du 9 janvier 2015 sur la protection des données à caractère personnel",
-   "url": "https://cnlegis.gov.mg/  (record 43521: search num \"2014-038\", field html_fichier_fr)",
+   "url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2014-038#id=43521",
    "first_law": "loi-2014-038",
    "earlier_laws": [],
    "versions": [
     {
      "from": "2015-07-22",
-     "source_url": "https://cnlegis.gov.mg/  (record 43521: search num \"2014-038\", field html_fichier_fr)",
+     "source_url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2014-038#id=43521",
      "sha256": "fb92700db44954e383fc944fb91d482a0f6119739c6c98e1aa1883cead2d403f",
      "units": {
       "art-001": {
