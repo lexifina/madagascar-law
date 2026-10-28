@@ -1,0 +1,71 @@
+{
+ "country": "MG",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution de la République de Madagascar",
+   "url": "https://cnlegis.gov.mg/page_find_direct_mots/?txt_recherche=Constitution%20de%20la#id=51445",
+   "versions": [
+    {
+     "from": "1998-04-10",
+     "units": 172,
+     "source_url": "https://cnlegis.gov.mg/page_find_direct_mots/?txt_recherche=Constitution%20de%20la#id=34738",
+     "sha256": "02dbde5ca36aa86a666e61ac99143fed3fea1d22292a7308f83cb672b4e36f31"
+    },
+    {
+     "from": "2007-04-27",
+     "units": 162,
+     "source_url": "https://cnlegis.gov.mg/page_find_direct_mots/?txt_recherche=Constitution%20de%20la#id=39326",
+     "sha256": "02dbde5ca36aa86a666e61ac99143fed3fea1d22292a7308f83cb672b4e36f31"
+    },
+    {
+     "from": "2009-01-19",
+     "units": 162,
+     "source_url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2009-001#id=40058",
+     "sha256": "5a968250dc3b130ac32c9a4e82bdfb853e40b83221376ff5a01a3de2842bff99"
+    },
+    {
+     "from": "2010-12-11",
+     "units": 170,
+     "source_url": "https://cnlegis.gov.mg/page_find_direct_mots/?txt_recherche=Constitution%20de%20la#id=51445",
+     "sha256": "02dbde5ca36aa86a666e61ac99143fed3fea1d22292a7308f83cb672b4e36f31"
+    }
+   ]
+  },
+  {
+   "slug": "loi-2014-006",
+   "short": "Loi 2014-006",
+   "title": "Loi n° 2014-006 du 17 juillet 2014 sur la lutte contre la cybercriminalité",
+   "url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2014-006#id=43046",
+   "versions": [
+    {
+     "from": "2014-09-10",
+     "units": 42,
+     "source_url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2014-006#id=43046",
+     "sha256": "7f21c706a06cb8c5c33ecad50404828cb8a61d8c2f9d2e573961a7f11e4c74c0"
+    },
+    {
+     "from": "2017-04-19",
+     "units": 42,
+     "source_url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2016-031#id=44983",
+     "sha256": "8447e75f118ff88460a8b3d2ba0f6fcd0200d127b8c09b1199ae96a6a2088ef3"
+    }
+   ]
+  },
+  {
+   "slug": "loi-2014-038",
+   "short": "Loi 2014-038",
+   "title": "Loi n° 2014-038 du 9 janvier 2015 sur la protection des données à caractère personnel",
+   "url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2014-038#id=43521",
+   "versions": [
+    {
+     "from": "2015-07-22",
+     "units": 86,
+     "source_url": "https://cnlegis.gov.mg/page_num_find_direct/?txt_recherche=2014-038#id=43521",
+     "sha256": "fb92700db44954e383fc944fb91d482a0f6119739c6c98e1aa1883cead2d403f"
+    }
+   ]
+  }
+ ]
+}
