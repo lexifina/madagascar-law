@@ -62,8 +62,6 @@ def main():
         rows = [r for r in PA.F.search(*search, offline=True) if str(r['id']) == rid]
         src = window([PA.norm(l) for l in PA.P.lines(rows[0]['html_fichier_fr'])], start, stop)
         a = stream('\n'.join(src))
-        if not start.startswith('PR') or start.startswith('PROMULGUE'):
-            pass
         if start.startswith('PROMULGUE'):
             a = a[len(stream(src[0])):]
         b = reassemble(acts[slug]['versions'][vi]['units'])
