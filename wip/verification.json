@@ -1,67 +1,57 @@
 {
- "all_equal": true,
- "check": {
-  "acts": 3,
-  "backwards": 0,
-  "future_dated": 0,
-  "merges": 0,
-  "mismatches": 0,
-  "missing_in_force": 0,
-  "trailer_errors": 0,
-  "versions": 7
- },
  "checked": "2026-10-28",
  "results": [
   {
    "act": "constitution",
-   "chars": 64369,
-   "equal": true,
    "from": "1998-04-10",
-   "record": "34738"
+   "record": "34738",
+   "chars": 64369,
+   "equal": true
   },
   {
    "act": "constitution",
-   "chars": 59059,
-   "equal": true,
    "from": "2007-04-27",
-   "record": "39326"
+   "record": "39326",
+   "chars": 59059,
+   "equal": true
   },
   {
    "act": "constitution",
-   "chars": 73921,
-   "equal": true,
    "from": "2010-12-11",
-   "record": "51445"
+   "record": "51445",
+   "chars": 73921,
+   "equal": true
   },
   {
    "act": "loi-2014-006",
-   "chars": 19021,
-   "equal": true,
    "from": "2014-09-10",
-   "record": "43046"
+   "record": "43046",
+   "chars": 19021,
+   "equal": true
   },
   {
    "act": "loi-2014-038",
-   "chars": 47530,
-   "equal": true,
    "from": "2015-07-22",
-   "record": "43521"
+   "record": "43521",
+   "chars": 47530,
+   "equal": true
   },
   {
    "act": "constitution",
-   "equal": true,
    "from": "2009-01-19",
-   "other_units_changed": [],
    "record": "40058",
-   "replayed": "art-015"
+   "replayed": "art-015",
+   "other_units_changed": [],
+   "equal": true
   },
   {
    "act": "loi-2014-006",
-   "equal": true,
    "from": "2017-04-19",
-   "other_units_changed": [],
    "record": "44983",
-   "replayed": "art-020"
+   "replayed": "art-020",
+   "other_units_changed": [],
+   "equal": true
   }
- ]
+ ],
+ "all_equal": true
 }
