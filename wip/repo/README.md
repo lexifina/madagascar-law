@@ -14,6 +14,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `constitution/` | Constitution de la République de Madagascar | 4 | The 1992 Constitution as revised in 1995 and 1998 (from 10 April 1998), the 2007 revision, the 2009 change to article 15, and the Constitution of 11 December 2010 in force today |
 | `loi-2014-006/` | Loi n° 2014-006 sur la lutte contre la cybercriminalité | 2 | As enacted (10 September 2014), and article 20 as replaced by Loi n° 2016-031 (19 April 2017) |
 | `loi-2014-038/` | Loi n° 2014-038 sur la protection des données à caractère personnel | 1 | As enacted (22 July 2015); CNLEGIS lists no amendment |
+| `code-du-travail/` | Code du travail | 2 | Loi n° 2003-044 (from 23 February 2005), replaced by the new Code du travail, Loi n° 2024-014 (from 6 November 2024) |
 
 ## A lawyer's questions as git commands
 
@@ -39,7 +40,7 @@ Tags: `law/<key>` marks each law's commit, `<act>/<in-force day>` each version. 
 - **Default rule.** Ordonnance n° 62-041 du 19 septembre 1962, art. 3: "Les lois ne deviennent obligatoires, qu'un jour
   franc après l'arrivée du Journal officiel, constatée à la sous-préfecture par l'apposition d'un timbre à date." The
   arrival day is not printed, so a law with no in-force clause is dated the Journal officiel date + 2 days, the earliest
-  possible day (later where the issue arrived later). This applies to LC 98-001, Loi 2014-006, Loi 2014-038 and Loi 2016-031.
+  possible day (later where the issue arrived later). This applies to LC 98-001, Loi 2014-006, Loi 2014-038, Loi 2016-031, Loi 2003-044 and Loi 2024-014.
 - **Urgency.** LC 2007-001 (art. 3) and LC 2009-001 (art. 2) took effect "immédiatement" once broadcast or posted
   (Ordonnance n° 62-041 art. 4). The broadcast day is not printed, so the promulgation day is used.
 - **The 2010 Constitution** took effect on promulgation (art. 164), 11 December 2010.
@@ -54,6 +55,9 @@ Tags: `law/<key>` marks each law's commit, `<act>/<in-force day>` each version. 
 - **2007 renumbered the articles.** From article 57 on, a file holds a different article before and after 2007.
 - **2010 is a new constitution.** Before and after 2010, `constitution/art-015.md` holds articles of different
   constitutions.
+- **2024 is a new Code du travail.** Before and after 6 November 2024, `code-du-travail/art-040.md` holds articles of
+  different codes. Loi 2024-014 is read from the official PDF CNLEGIS links (text layer, pdftotext); its words are
+  checked against the PDF, its paragraph breaks are as pdftotext gives them.
 - **Two versions are replayed**, because CNLEGIS publishes no consolidated texts: the Constitution in 2009 (the 2007
   text with article 15 replaced by the words LC 2009-001 quotes) and Loi 2014-006 in 2017 (article 20 replaced by the
   words Loi 2016-031 quotes). The build stops unless the amending act reads exactly as a single replacement.
@@ -112,6 +116,7 @@ Gouvernement, Primature.
   modifié en 2009, et la Constitution du 11 décembre 2010.
 - `loi-2014-006/` : la loi sur la lutte contre la cybercriminalité, et son article 20 modifié par la loi n° 2016-031.
 - `loi-2014-038/` : la loi sur la protection des données à caractère personnel.
+- `code-du-travail/` : la loi n° 2003-044, remplacée par la loi n° 2024-014 portant Code du travail.
 
 Dates : midi, heure d'Antananarivo, au jour de l'entrée en vigueur. À défaut de clause, l'ordonnance n° 62-041
 art. 3 (un jour franc après l'arrivée du Journal officiel) : la date du JO + 2 jours, le jour le plus tôt possible.
