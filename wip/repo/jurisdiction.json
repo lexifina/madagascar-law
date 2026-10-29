@@ -4,7 +4,7 @@
   "name": "Madagascar",
   "level": "country",
   "repo": "https://github.com/lexifina/madagascar-law",
-  "build": "built: Constitution (4 versions, 1998-2010), Loi 2014-006 (2 versions), Loi 2014-038 (1 version)",
+  "build": "built: Constitution (4 versions, 1998-2010), Loi 2014-006 (2 versions), Loi 2014-038 (1 version), Code du travail (2 versions, 2005 and 2024)",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28"
 }
