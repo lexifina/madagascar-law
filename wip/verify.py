@@ -69,6 +69,25 @@ def main():
         res.append({'act': slug, 'from': acts[slug]['versions'][vi]['from'], 'record': rid, 'chars': len(a),
                     'equal': ok, **({} if ok else {'first_difference': next(
                         (i for i, (x, y) in enumerate(zip(a, b)) if x != y), min(len(a), len(b)))})})
+    ct = acts.get('code-du-travail')
+    if ct:
+        rows = [r for r in PA.F.search(*PA.S_CT, offline=True) if str(r['id']) == '38022']
+        src = window([PA.norm(l) for l in PA.P.lines(rows[0]['html_fichier_fr'])], checks[3][4], checks[3][5])
+        a = stream('\n'.join(src))[len(stream(src[0])):]
+        b = reassemble(ct['versions'][0]['units'])
+        res.append({'act': 'code-du-travail', 'from': ct['versions'][0]['from'], 'record': '38022', 'chars': len(a),
+                    'equal': a == b})
+        # 2024: the raw pdftotext output (page-number lines dropped, "Art. 40." read as "Article 40"), not pdf_lines
+        raw = PA.P.pdf_text(PA.F.CACHE / PA.hashlib.sha256(PA.CT_2024_PDF.encode()).hexdigest())
+        raw = '\n'.join(re.sub(r'^Art\. (\d+)', r'Article \1', PA.norm(l)) for l in raw.replace('\f', '\n').split('\n')
+                        if not re.fullmatch(r'\s*\d{1,3}\s*', l))
+        i = raw.index('PROMULGUE LA LOI DONT LA TENEUR SUIT')
+        j = raw.index('Promulguée à Antananarivo, le 14 août 2024')
+        a = stream(raw[i:j])[len(stream('PROMULGUE LA LOI DONT LA TENEUR SUIT :')):]
+        b = reassemble(ct['versions'][1]['units'])
+        res.append({'act': 'code-du-travail', 'from': ct['versions'][1]['from'], 'record': '55500 (PDF)',
+                    'chars': len(a), 'equal': a == b, **({} if a == b else {'first_difference': next(
+                        (i for i, (x, y) in enumerate(zip(a, b)) if x != y), min(len(a), len(b)))})})
     # replayed versions: only the target unit differs, and it holds exactly the quoted words
     for slug, vi, key, rid, search, quote_re in [
             ('constitution', 2, 'art-015', '40058', PA.S_2009, r'^Article 15 \(nouveau\)\.?\s*"(.*)"$'),
