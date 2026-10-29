@@ -216,7 +216,7 @@ def statute(rec: dict) -> dict:
 def default_in_force(rec: dict) -> str:
     """Ordonnance n° 62-041 art. 3: one clear day after the JO arrives; the earliest day is the JO date + 2."""
     need(rec['_lines'], 'sera publiée au Journal')
-    if any('urgence' in l and 'vigueur' in l for l in rec['_lines']):
+    if any('urgence' in l and 'vigueur' in l and 'présente loi' in l.lower() for l in rec['_lines']):
         raise SystemExit(f'record {rec["id"]}: an urgency clause; read it by hand')
     return plus(ymd(rec['date_jo']), 2)
 
