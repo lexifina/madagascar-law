@@ -1,0 +1,17 @@
+{
+ "parts": {
+  "20-mariage-regimes-matrimoniaux.json": {
+   "acts": [
+    "mariage-regimes-matrimoniaux"
+   ],
+   "sha256": "1b1310e90fa6e1f0bc06a0db6d9d8710198c2df2f588fbaec826937b873603d8"
+  },
+  "21-successions-testaments-donations.json": {
+   "acts": [
+    "successions-testaments-donations"
+   ],
+   "sha256": "bdf0de11d8b5c21c2d01245c29685b00b7990400cb75673eb5a3bec27d5eae05"
+  }
+ },
+ "schema": 1
+}
