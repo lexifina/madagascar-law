@@ -1,0 +1,20 @@
+Legal texts
+
+The texts of the Constitution and laws of Madagascar in this repository are taken from CNLEGIS (https://cnlegis.gov.mg/),
+the official legal database of the Direction du CNLEGIS, Secrétariat Général du Gouvernement, Primature, République de
+Madagascar. CNLEGIS publishes no terms of use (checked 2026-10-28); its robots.txt allows every crawler except GPTBot.
+Reuse terms are therefore unclear, and this repository is kept private.
+
+Source attribution: "Source : CNLEGIS (cnlegis.gov.mg), Primature, République de Madagascar."
+
+The text of Loi n° 2007-022 du 20 août 2007 relative au mariage et aux régimes matrimoniaux (J.O. n° 3163 du
+28/01/08, p. 131) is taken from the copy published by the Ministère de la Justice de Madagascar
+(http://www.justice.gov.mg/, "Textes sur la famille"), read from its Internet Archive copy (capture of 29 November
+2015); so is the text of Loi n° 68-012 du 4 juillet 1968 relative aux successions, testaments et donations (J.O.
+n° 598 du 13.07.68, p. 1438; capture of 21 October 2012). The Ministry states no terms of use. Source attribution: "Source : Ministère de la Justice, République de
+Madagascar."
+
+Tools, history, tables and documentation
+
+The scripts, the git history's structure, the tables in data/ and the documentation written for this repository are
+dedicated to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).
