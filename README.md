@@ -61,6 +61,7 @@ Chaque modification est attribuée à la loi qui l’a opérée, sous une adress
 - CNLEGIS ne publie aucun texte consolidé ; deux versions sont donc reconstituées à partir des termes mêmes de la loi modificative : la Constitution en 2009 (l’article 15 tel que le cite la LC 2009-001) et la loi n° 2014-006 en 2017 (l’article 20 tel que le cite la loi n° 2016-031). La construction s’arrête si la loi modificative ne se lit pas exactement comme un remplacement unique.
 - La loi n° 2024-014 est lue à partir de la couche texte du PDF officiel vers lequel renvoie CNLEGIS (sans OCR), et ses termes sont vérifiés par rapport au PDF.
 - `tools/build.py` écrit l’historique à partir du corpus en une seule passe, de sorte qu’un même corpus donne les mêmes empreintes ; [`data/corpus.sha256`](data/corpus.sha256) donne l’empreinte du corpus. Une seconde construction du corpus actuel n’a pas encore été comparée.
+- [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
@@ -84,6 +85,10 @@ Voir [`LICENSE`](LICENSE). Les textes proviennent de CNLEGIS et des copies du Mi
 Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique, et aucun ne s’exécute lors de la construction de l’historique ; les scripts ont été écrits par Claude Code avec Claude Opus 5.5, au moyen duquel les textes ont été choisis et leurs dates d’entrée en vigueur relevées dans les textes officiels (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
 
 ## En savoir plus
 

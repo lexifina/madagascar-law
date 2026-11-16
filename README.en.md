@@ -61,6 +61,7 @@ Each change is credited to the law that made it, at an address that cannot exist
 - CNLEGIS publishes no consolidated texts, so two versions are replayed from the amending law's own words: the Constitution in 2009 (article 15 as LC 2009-001 quotes it) and Loi n° 2014-006 in 2017 (article 20 as Loi n° 2016-031 quotes it). The build stops unless the amending law reads exactly as a single replacement.
 - Loi n° 2024-014 is read from the text layer of the official PDF CNLEGIS links (no OCR), and its words are checked against the PDF.
 - `tools/build.py` writes the history from the corpus in one pass, so the same corpus gives the same hashes; [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash. A second build of the present corpus has not yet been compared.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ Each change is credited to the law that made it, at an address that cannot exist
 See [`LICENSE`](LICENSE). The texts come from CNLEGIS and from the Ministry of Justice's copies; neither publishes terms of use, so their reuse terms are unclear. The scripts, the history's structure, the tables and the documentation are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by Claude Code running Claude Opus 5.5, with which the acts were chosen and their in-force days read from the official texts (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
