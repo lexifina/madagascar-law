@@ -1,35 +1,41 @@
-# Madagascar: law history in git
+# Madagascar : l’histoire du droit dans git
 
+**Français** · [English](README.en.md)
 
-The law of Madagascar as a git history: one file per article, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/fr/effort-dark.svg">
+<img alt="Le droit malgache dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
+</picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Madagascar's national law, which global-law reads at `madagascar/national/acts/`.
+Le droit de Madagascar sous la forme d’un historique git : un fichier par article, un commit par loi à la date de son entrée en vigueur, et la loi auteur de chaque modification comme auteur du commit. `git blame` indique la loi à l’origine de chaque alinéa ; `git log` liste toutes les modifications d’un article ; le choix d’une date donne le texte en vigueur ce jour-là.
 
-**What is in it now:** six acts, with 11 versions: the Constitution (4 versions, from the 1992 Constitution as revised in 1995 and 1998 to the Constitution of 11 December 2010), the Code du travail (Loi n° 2003-044, then the new code, Loi n° 2024-014), Loi n° 2014-006 on cybercrime (as enacted and as amended by Loi n° 2016-031), and, in one version each, Loi n° 2014-038 on personal data, Loi n° 2007-022 on marriage and matrimonial property, and Loi n° 68-012 on successions, wills and gifts. The `README.md` in each act's folder lists every provision; [`data/laws.csv`](data/laws.csv) lists the laws behind the versions.
+Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national de Madagascar, que global-law lit sous `madagascar/national/acts/`.
 
-Each act is a folder of article files: `constitution/`, `code-du-travail/`, `loi-2014-006/`, `loi-2014-038/`, `mariage-regimes-matrimoniaux/` and `successions-testaments-donations/` (`code-du-travail/art-002.md` is Article 2 of the Code du travail, who counts as a worker), with the headings in each folder's `structure.md`. A file holds the article of that number in the text in force: the 2007 revision renumbered the Constitution from article 57 on, and the 2010 Constitution and the 2024 Code du travail replaced whole texts, so across those versions a file can hold a different article.
+**Contenu actuel :** six textes, en 11 versions : la Constitution (4 versions, de la Constitution de 1992 révisée en 1995 et 1998 à la Constitution du 11 décembre 2010), le Code du travail (loi n° 2003-044, puis le nouveau code, loi n° 2024-014), la loi n° 2014-006 sur la lutte contre la cybercriminalité (telle qu’adoptée et telle que modifiée par la loi n° 2016-031) et, en une version chacune, la loi n° 2014-038 sur la protection des données à caractère personnel, la loi n° 2007-022 relative au mariage et aux régimes matrimoniaux et la loi n° 68-012 relative aux successions, testaments et donations. Le `README.md` du dossier de chaque texte liste toutes ses dispositions ; [`data/laws.csv`](data/laws.csv) liste les lois à l’origine des versions.
 
-The text is in French, as CNLEGIS and the Ministry of Justice publish it. The Malagasy text, also official, is not part of this record, nor is an English translation.
+Chaque texte est un dossier de fichiers d’articles : `constitution/`, `code-du-travail/`, `loi-2014-006/`, `loi-2014-038/`, `mariage-regimes-matrimoniaux/` et `successions-testaments-donations/` (`code-du-travail/art-002.md` est l’article 2 du Code du travail, qui définit le travailleur), avec les intitulés dans le `structure.md` de chaque dossier. Un fichier contient l’article portant ce numéro dans le texte en vigueur : la révision de 2007 a renuméroté la Constitution à partir de l’article 57, et la Constitution de 2010 et le Code du travail de 2024 ont remplacé des textes entiers, de sorte que, d’une de ces versions à l’autre, un fichier peut contenir un article différent.
 
-## Questions as git commands
+Le texte est en français, tel que le publient CNLEGIS et le Ministère de la Justice. Le texte malgache, également officiel, ne fait pas partie de ce corpus, pas plus qu’une traduction anglaise.
 
-| Question | Command |
+## Questions sous forme de commandes git
+
+| Question | Commande |
 | --- | --- |
-| Every change to Article 2 of the Code du travail (who counts as a worker) | `git log -p --word-diff -- code-du-travail/art-002.md` |
-| Which law wrote each line of Article 2? | `git blame code-du-travail/art-002.md` |
-| Every version of Article 2, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail/art-002.md` |
-| Article 2 as in force on 1 January 2020 | `python tools/on.py 2020-01-01 code-du-travail art-002` |
+| Toutes les modifications de l’article 2 du Code du travail (définition du travailleur) | `git log -p --word-diff -- code-du-travail/art-002.md` |
+| Quelle loi a rédigé chaque ligne de l’article 2 ? | `git blame code-du-travail/art-002.md` |
+| Toutes les versions de l’article 2, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail/art-002.md` |
+| L’article 2 tel qu’en vigueur au 1er janvier 2020 | `python tools/on.py 2020-01-01 code-du-travail art-002` |
 
-**Outside git**, we also host this record publicly, for free:
+**En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :
 
-- **[Ask Claude about the law of Madagascar](https://global-law.lexifina.com/v1/try_claude?country=madagascar)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=madagascar)**: the same question in ChatGPT.
-- **[Search the law of Madagascar on our site](https://lexifina.com/law?country=madagascar&q=cong%C3%A9+pay%C3%A9)**: a search for "congé payé" (paid leave), with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+pay%C3%A9&jurisdiction=madagascar)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Interroger Claude sur le droit de Madagascar](https://global-law.lexifina.com/v1/try_claude?country=madagascar)** : ouvre Claude avec une première question prête.
+- **[Interroger ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=madagascar)** : la même question dans ChatGPT.
+- **[Rechercher dans le droit de Madagascar sur notre site](https://lexifina.com/law?country=madagascar&q=cong%C3%A9+pay%C3%A9)** : une recherche de « congé payé », avec le texte de chaque disposition et ses versions, sans compte.
+- **[API REST pour développeurs](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+pay%C3%A9&jurisdiction=madagascar)** : la même recherche au format JSON, sans clé. Voir la [documentation ici](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
+Les deux assistants lisent le corpus au moyen du connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**L’héberger vous-même, simplement.** Il suffit de git et de Python, et les outils s’exécutent sur votre machine :
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -37,57 +43,55 @@ python3 tools/countries.py add madagascar/national/acts
 python3 tools/law.py show 2026-01-01 madagascar/national/acts/code-du-travail/art-002.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-Each commit is dated at noon, Indian/Antananarivo, on the day the version took effect, and carries it in its `In-force:` trailer; the promulgation and Journal officiel days are in `Enacted:` and `Published:`.
+Chaque commit est daté à midi, heure Indian/Antananarivo, du jour où la version est entrée en vigueur, et porte cette date dans son trailer `In-force:` ; les dates de promulgation et du Journal officiel figurent dans `Enacted:` et `Published:`.
 
-- A law with no in-force clause binds "un jour franc après l'arrivée du Journal officiel" (Ordonnance n° 62-041 of 19 September 1962, art. 3). The arrival day is not printed, so such a law is dated the Journal officiel's date plus two days, the earliest possible: LC 98-001, Loi n° 2003-044, 2007-022, 2014-006, 2014-038, 2016-031 and 2024-014.
-- LC 2007-001 and LC 2009-001 took effect "immédiatement" on broadcast or posting (art. 4 of the same Ordonnance); that day is not printed, so each is dated its promulgation day. The 2010 Constitution took effect on promulgation (art. 164), on 11 December 2010.
-- Loi n° 68-012 took effect six months after its promulgation (art. 127), on 4 January 1969. Git cannot store dates before 1970, so its commit is dated 1 January 1970, with the real day in `In-force:`; ask for a date with `tools/on.py`, not `git log --before`.
+- Une loi dépourvue de clause d’entrée en vigueur devient obligatoire « un jour franc après l'arrivée du Journal officiel » (ordonnance n° 62-041 du 19 septembre 1962, art. 3). La date d’arrivée n’étant pas imprimée, une telle loi est datée de la date du Journal officiel plus deux jours, la plus proche possible : LC 98-001, lois n° 2003-044, 2007-022, 2014-006, 2014-038, 2016-031 et 2024-014.
+- La LC 2007-001 et la LC 2009-001 sont entrées en vigueur « immédiatement » par voie de radiodiffusion ou d’affichage (art. 4 de la même ordonnance) ; cette date n’étant pas imprimée, chacune est datée du jour de sa promulgation. La Constitution de 2010 est entrée en vigueur dès sa promulgation (art. 164), le 11 décembre 2010.
+- La loi n° 68-012 est entrée en vigueur six mois après sa promulgation (art. 127), le 4 janvier 1969. Git ne pouvant enregistrer de dates antérieures à 1970, son commit est daté du 1er janvier 1970, la date réelle figurant dans `In-force:` ; interrogez une date avec `tools/on.py`, et non avec `git log --before`.
 
-Each change is credited to the law that made it, at an address that cannot exist (`loi-2016-031@cnlegis.invalid`); the committer is always Lexifina. The first Constitution version is credited to CNLEGIS as the oldest version available, since CNLEGIS has no usable text of the 1992 original or of LC 95-001.
+Chaque modification est attribuée à la loi qui l’a opérée, sous une adresse qui ne peut pas exister (`loi-2016-031@cnlegis.invalid`) ; le committer est toujours Lexifina. La première version de la Constitution est attribuée à CNLEGIS en tant que plus ancienne version disponible, CNLEGIS ne disposant d’aucun texte exploitable de l’original de 1992 ni de la LC 95-001.
 
-## How it is checked
+## Méthode de vérification
 
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that there are no merge commits, that commit dates never go backwards, that nothing is dated in the future and that every commit's trailers parse. The results are in [`REPRODUCE.md`](REPRODUCE.md).
-- CNLEGIS publishes no consolidated texts, so two versions are replayed from the amending law's own words: the Constitution in 2009 (article 15 as LC 2009-001 quotes it) and Loi n° 2014-006 in 2017 (article 20 as Loi n° 2016-031 quotes it). The build stops unless the amending law reads exactly as a single replacement.
-- Loi n° 2024-014 is read from the text layer of the official PDF CNLEGIS links (no OCR), and its words are checked against the PDF.
-- `tools/build.py` writes the history from the corpus in one pass, so the same corpus gives the same hashes; [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash. A second build of the present corpus has not yet been compared.
+- `tools/check_repo.py` relit chaque version dans git le jour de son entrée en vigueur et la veille, et les deux doivent correspondre au corpus à partir duquel l’historique a été construit ; il vérifie aussi l’absence de commits de fusion, que les dates des commits ne reculent jamais, qu’aucun commit n’est daté dans le futur et que les trailers de chaque commit sont analysables. Les résultats figurent dans [`REPRODUCE.md`](REPRODUCE.md).
+- CNLEGIS ne publie aucun texte consolidé ; deux versions sont donc reconstituées à partir des termes mêmes de la loi modificative : la Constitution en 2009 (l’article 15 tel que le cite la LC 2009-001) et la loi n° 2014-006 en 2017 (l’article 20 tel que le cite la loi n° 2016-031). La construction s’arrête si la loi modificative ne se lit pas exactement comme un remplacement unique.
+- La loi n° 2024-014 est lue à partir de la couche texte du PDF officiel vers lequel renvoie CNLEGIS (sans OCR), et ses termes sont vérifiés par rapport au PDF.
+- `tools/build.py` écrit l’historique à partir du corpus en une seule passe, de sorte qu’un même corpus donne les mêmes empreintes ; [`data/corpus.sha256`](data/corpus.sha256) donne l’empreinte du corpus. Une seconde construction du corpus actuel n’a pas encore été comparée.
 
-## What it does not show
+## Ce qu’il ne montre pas
 
-- **The Code pénal.** CNLEGIS publishes only its amending laws, not the code itself, and no official consolidated text with a text layer was found.
-- **Later amendments to Loi n° 2007-022 and Loi n° 68-012**, which were not searched for: each is its text as published.
-- **Earlier constitutional texts**: the 1992 Constitution as first enacted and LC 95-001 as versions of their own, and the constitutions of 1959 and 1975.
-- **Changes that left the words alone**: Ordonnance n° 2009-001 of 17 March 2009, the 2009 Charte de la Transition and the events since October 2025. CNLEGIS still listed the 2010 Constitution as "En vigueur" on 28 October 2026.
-- **Implementing decrees** (such as Décret n° 2023-1541 for Loi n° 2014-038) and decisions of the Haute Cour constitutionnelle.
+- **Le Code pénal.** CNLEGIS ne publie que ses lois modificatives, et non le code lui-même, et aucun texte consolidé officiel doté d’une couche texte n’a été trouvé.
+- **Les modifications ultérieures de la loi n° 2007-022 et de la loi n° 68-012**, qui n’ont pas été recherchées : chacune figure dans son texte tel que publié.
+- **Les textes constitutionnels antérieurs** : la Constitution de 1992 dans sa version initiale et la LC 95-001 en tant que versions distinctes, ainsi que les constitutions de 1959 et de 1975.
+- **Les changements qui n’ont pas modifié le texte** : l’ordonnance n° 2009-001 du 17 mars 2009, la Charte de la Transition de 2009 et les événements survenus depuis octobre 2025. CNLEGIS indiquait encore la Constitution de 2010 comme « En vigueur » le 28 octobre 2026.
+- **Les décrets d’application** (tels que le décret n° 2023-1541 pour la loi n° 2014-038) et les décisions de la Haute Cour constitutionnelle.
 
 ## Sources
 
-| Source | Kind | Past versions | Notes |
+| Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
-| [CNLEGIS](https://cnlegis.gov.mg) (Secrétariat Général du Gouvernement, Primature) | Official legal database: each act as enacted, in French HTML or the official PDF | no consolidated versions; its notes name the amending laws | The Constitution, the Code du travail, and Loi n° 2014-006, 2014-038 and 2016-031 |
-| Ministère de la Justice (justice.gov.mg), "Textes sur la famille", as kept by the Internet Archive | The Ministry's copies of laws as published in the Journal officiel | no | Loi n° 2007-022 (Journal officiel n° 3163, 28 January 2008) and Loi n° 68-012 (n° 598, 13 July 1968) |
+| [CNLEGIS](https://cnlegis.gov.mg) (Secrétariat Général du Gouvernement, Primature) | Base de données juridique officielle : chaque texte tel qu’adopté, en HTML français ou en PDF officiel | aucune version consolidée ; ses notes indiquent les lois modificatives | La Constitution, le Code du travail et les lois n° 2014-006, 2014-038 et 2016-031 |
+| Ministère de la Justice (justice.gov.mg), « Textes sur la famille », tels que conservés par l’Internet Archive | Copies, par le Ministère, de lois telles que publiées au Journal officiel | non | Loi n° 2007-022 (Journal officiel n° 3163, 28 janvier 2008) et loi n° 68-012 (n° 598, 13 juillet 1968) |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The texts come from CNLEGIS and from the Ministry of Justice's copies; neither publishes terms of use, so their reuse terms are unclear. The scripts, the history's structure, the tables and the documentation are CC0 1.0.
+Voir [`LICENSE`](LICENSE). Les textes proviennent de CNLEGIS et des copies du Ministère de la Justice ; aucun des deux ne publie de conditions d’utilisation, de sorte que les conditions de leur réutilisation sont incertaines. Les scripts, la structure de l’historique, les tableaux et la documentation sont sous licence CC0 1.0.
 
-No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by Claude Code running Claude Opus 5.5, with which the acts were chosen and their in-force days read from the official texts (see [`REPRODUCE.md`](REPRODUCE.md)).
+Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique, et aucun ne s’exécute lors de la construction de l’historique ; les scripts ont été écrits par Claude Code avec Claude Opus 5.5, au moyen duquel les textes ont été choisis et leurs dates d’entrée en vigueur relevées dans les textes officiels (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
-## En français
+Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 
-L'histoire du droit malgache dans git : un fichier par article, un commit par loi au jour de son entrée en vigueur, avec pour auteur la loi qui a fait la modification. Le dépôt contient six textes en français, en 11 versions : la Constitution (de la Constitution de 1992 révisée en 1995 et 1998 à la Constitution du 11 décembre 2010), le Code du travail (loi n° 2003-044, puis loi n° 2024-014), la loi n° 2014-006 sur la lutte contre la cybercriminalité (modifiée par la loi n° 2016-031), la loi n° 2014-038 sur la protection des données à caractère personnel, la loi n° 2007-022 relative au mariage et aux régimes matrimoniaux et la loi n° 68-012 relative aux successions, testaments et donations. Sources : CNLEGIS (cnlegis.gov.mg), Primature, et les copies du Ministère de la Justice. À défaut de clause d'entrée en vigueur, une loi est datée du Journal officiel + 2 jours (ordonnance n° 62-041, art. 3). Le Code pénal n'y figure pas : CNLEGIS n'en publie pas le texte. Texte en vigueur à une date : `python tools/on.py 2020-01-01 code-du-travail art-002`.
+## En savoir plus
 
-## More
+Dans le dépôt [lexifina/global-law](https://github.com/lexifina/global-law) (pages en anglais) :
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
-
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): toutes les fonctionnalités et ce que chaque corpus doit prendre en charge (`git blame`, `law.py`, outils MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions et réponses · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposer une modification · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serveur MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): comment il a été construit · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): à quel point chaque corpus est à jour · [Surveillance](https://github.com/lexifina/global-law/tree/main/monitoring): si les mises à jour fonctionnent · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): comment chaque source officielle est surveillée pour repérer les modifications
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidité des outils, mesurée
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): graphiques et liens à travers le droit du monde entier
+- [Vulnérabilités](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erreurs dans les textes tels qu’ils ont été publiés
