@@ -11,9 +11,9 @@ Le droit de Madagascar sous la forme d’un historique git : un fichier par art
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national de Madagascar, que global-law lit sous `madagascar/national/acts/`.
 
-**Contenu actuel :** six textes, en 11 versions : la Constitution (4 versions, de la Constitution de 1992 révisée en 1995 et 1998 à la Constitution du 11 décembre 2010), le Code du travail (loi n° 2003-044, puis le nouveau code, loi n° 2024-014), la loi n° 2014-006 sur la lutte contre la cybercriminalité (telle qu’adoptée et telle que modifiée par la loi n° 2016-031) et, en une version chacune, la loi n° 2014-038 sur la protection des données à caractère personnel, la loi n° 2007-022 relative au mariage et aux régimes matrimoniaux et la loi n° 68-012 relative aux successions, testaments et donations. Le `README.md` du dossier de chaque texte liste toutes ses dispositions ; [`data/laws.csv`](data/laws.csv) liste les lois à l’origine des versions.
+**Contenu actuel :** 770 textes : la Constitution (4 versions, de 1998 à la Constitution du 11 décembre 2010), 17 codes (`code-du-travail`, `code-d-ethique-et-de-bonne-conduite-politique-des-acteurs`, `code-de-gestion-des-aires-protegees`, `code-de-l-artisanat` …), 648 lois, 104 ordonnances, 0 décrets et 0 arrêtés, entrés en vigueur entre 1960 et 2026, chacun tel que CNLEGIS le publie (une version), sauf la Constitution, le Code du travail et la loi n° 2014-006, dont les versions successives sont rejouées. [`corpus.json`](corpus.json) liste les textes ajoutés depuis CNLEGIS ; [`STRUCTURE.md`](STRUCTURE.md) décrit l’arborescence.
 
-Chaque texte est un dossier de fichiers d’articles : `constitution/`, `code-du-travail/`, `loi-2014-006/`, `loi-2014-038/`, `mariage-regimes-matrimoniaux/` et `successions-testaments-donations/` (`code-du-travail/art-002.md` est l’article 2 du Code du travail, qui définit le travailleur), avec les intitulés dans le `structure.md` de chaque dossier. Un fichier contient l’article portant ce numéro dans le texte en vigueur : la révision de 2007 a renuméroté la Constitution à partir de l’article 57, et la Constitution de 2010 et le Code du travail de 2024 ont remplacé des textes entiers, de sorte que, d’une de ces versions à l’autre, un fichier peut contenir un article différent.
+Chaque texte est un dossier de fichiers d’articles, rangé par nature et par année : `constitution/`, `codes/<code>/`, `lois/<année>/<numéro>-<objet>/`, `ordonnances/<année>/…`, `decrets/<année>/…` et `arretes/<année>/…` (`codes/code-du-travail/art-002.md` est l’article 2 du Code du travail, qui définit le travailleur), avec les visas dans `visas.md` et les intitulés dans le `structure.md` de chaque dossier. Un fichier contient l’article portant ce numéro dans le texte en vigueur : la révision de 2007 a renuméroté la Constitution à partir de l’article 57, et la Constitution de 2010 et le Code du travail de 2024 ont remplacé des textes entiers, de sorte que, d’une de ces versions à l’autre, un fichier peut contenir un article différent.
 
 Le texte est en français, tel que le publient CNLEGIS et le Ministère de la Justice. Le texte malgache, également officiel, ne fait pas partie de ce corpus, pas plus qu’une traduction anglaise.
 
@@ -21,10 +21,10 @@ Le texte est en français, tel que le publient CNLEGIS et le Ministère de la Ju
 
 | Question | Commande |
 | --- | --- |
-| Toutes les modifications de l’article 2 du Code du travail (définition du travailleur) | `git log -p --word-diff -- code-du-travail/art-002.md` |
-| Quelle loi a rédigé chaque ligne de l’article 2 ? | `git blame code-du-travail/art-002.md` |
-| Toutes les versions de l’article 2, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail/art-002.md` |
-| L’article 2 tel qu’en vigueur au 1er janvier 2020 | `python tools/on.py 2020-01-01 code-du-travail art-002` |
+| Toutes les modifications de l’article 2 du Code du travail (définition du travailleur) | `git log -p --word-diff -- codes/code-du-travail/art-002.md` |
+| Quelle loi a rédigé chaque ligne de l’article 2 ? | `git blame codes/code-du-travail/art-002.md` |
+| Toutes les versions de l’article 2, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/code-du-travail/art-002.md` |
+| L’article 2 tel qu’en vigueur au 1er janvier 2020 | `python tools/on.py 2020-01-01 codes/code-du-travail art-002` |
 
 **En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :
 
@@ -40,7 +40,7 @@ Les deux assistants lisent le corpus au moyen du connecteur gratuit Global law (
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add madagascar/national/acts
-python3 tools/law.py show 2026-01-01 madagascar/national/acts/code-du-travail/art-002.md
+python3 tools/law.py show 2026-01-01 madagascar/national/acts/codes/code-du-travail/art-002.md
 ```
 
 Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -49,7 +49,7 @@ Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un se
 
 Chaque commit est daté à midi, heure Indian/Antananarivo, du jour où la version est entrée en vigueur, et porte cette date dans son trailer `In-force:` ; les dates de promulgation et du Journal officiel figurent dans `Enacted:` et `Published:`.
 
-- Une loi dépourvue de clause d’entrée en vigueur devient obligatoire « un jour franc après l'arrivée du Journal officiel » (ordonnance n° 62-041 du 19 septembre 1962, art. 3). La date d’arrivée n’étant pas imprimée, une telle loi est datée de la date du Journal officiel plus deux jours, la plus proche possible : LC 98-001, lois n° 2003-044, 2007-022, 2014-006, 2014-038, 2016-031 et 2024-014.
+- Une loi dépourvue de clause d’entrée en vigueur devient obligatoire « un jour franc après l'arrivée du Journal officiel » (ordonnance n° 62-041 du 19 septembre 1962, art. 3). La date d’arrivée n’étant pas imprimée, une telle loi est datée de la date du Journal officiel plus deux jours, la plus proche possible : LC 98-001, lois n° 2003-044, 2007-022, 2014-006, 2014-038, 2016-031 et 2024-014, ainsi que la plupart des textes ajoutés depuis CNLEGIS en novembre 2026 (date du Journal officiel relevée sur la fiche CNLEGIS). Un texte qui s’applique dès sa signature ou immédiatement (procédure d’urgence, art. 4) est daté du jour du texte ; un texte qui fixe sa propre date, de celle-ci. Le trailer `In-force-basis:` de chaque commit indique la règle appliquée ; un texte sans date de Journal officiel ni clause d’entrée en vigueur est écarté.
 - La LC 2007-001 et la LC 2009-001 sont entrées en vigueur « immédiatement » par voie de radiodiffusion ou d’affichage (art. 4 de la même ordonnance) ; cette date n’étant pas imprimée, chacune est datée du jour de sa promulgation. La Constitution de 2010 est entrée en vigueur dès sa promulgation (art. 164), le 11 décembre 2010.
 - La loi n° 68-012 est entrée en vigueur six mois après sa promulgation (art. 127), le 4 janvier 1969. Git ne pouvant enregistrer de dates antérieures à 1970, son commit est daté du 1er janvier 1970, la date réelle figurant dans `In-force:` ; interrogez une date avec `tools/on.py`, et non avec `git log --before`.
 
@@ -69,13 +69,13 @@ Chaque modification est attribuée à la loi qui l’a opérée, sous une adress
 - **Les modifications ultérieures de la loi n° 2007-022 et de la loi n° 68-012**, qui n’ont pas été recherchées : chacune figure dans son texte tel que publié.
 - **Les textes constitutionnels antérieurs** : la Constitution de 1992 dans sa version initiale et la LC 95-001 en tant que versions distinctes, ainsi que les constitutions de 1959 et de 1975.
 - **Les changements qui n’ont pas modifié le texte** : l’ordonnance n° 2009-001 du 17 mars 2009, la Charte de la Transition de 2009 et les événements survenus depuis octobre 2025. CNLEGIS indiquait encore la Constitution de 2010 comme « En vigueur » le 28 octobre 2026.
-- **Les décrets d’application** (tels que le décret n° 2023-1541 pour la loi n° 2014-038) et les décisions de la Haute Cour constitutionnelle.
+- **Les textes publiés seulement en image** (65 textes de CNLEGIS : PDF numérisés sans couche texte ou à la couche texte illisible, faute d’OCR de notre part), ceux dont la date d’entrée en vigueur n’a pu être établie (12), les nominations et autres mesures individuelles, et les modifications ultérieures des textes ajoutés en novembre 2026 (chacun figure tel que publié). Les décisions de la Haute Cour constitutionnelle sont dans un dépôt distinct.
 
 ## Sources
 
 | Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
-| [CNLEGIS](https://cnlegis.gov.mg) (Secrétariat Général du Gouvernement, Primature) | Base de données juridique officielle : chaque texte tel qu’adopté, en HTML français ou en PDF officiel | aucune version consolidée ; ses notes indiquent les lois modificatives | La Constitution, le Code du travail et les lois n° 2014-006, 2014-038 et 2016-031 |
+| [CNLEGIS](https://cnlegis.gov.mg) (Secrétariat Général du Gouvernement, Primature) | Base de données juridique officielle : chaque texte tel qu’adopté, en HTML français ou en PDF officiel | aucune version consolidée ; ses notes indiquent les lois modificatives | La Constitution, les codes, lois, ordonnances, décrets et arrêtés (texte HTML ou couche texte du PDF officiel ; 3 textes sur la couche texte posée par l’éditeur sur un scan, signalés `Text-source: publisher OCR`) |
 | Ministère de la Justice (justice.gov.mg), « Textes sur la famille », tels que conservés par l’Internet Archive | Copies, par le Ministère, de lois telles que publiées au Journal officiel | non | Loi n° 2007-022 (Journal officiel n° 3163, 28 janvier 2008) et loi n° 68-012 (n° 598, 13 juillet 1968) |
 
 ## Licence

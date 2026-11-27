@@ -95,3 +95,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none at data-build time: no model read, wrote or summarised legal text. Lexifina's code was written by Claude Code (Claude Opus 5.5, claude-opus-5-5); the act choice and in-force readings were made with it from the official texts and are listed in decisions.
+
+## CNLEGIS bulk runner (November 2026)
+
+The acts under `codes/`, `lois/`, `ordonnances/`, `decrets/` and `arretes/` other than the six built above come from the runner `scripts/madagascar-law/runner/mg_build.py` (Lexifina repository): `inv` lists every CNLEGIS record through its number search (`page_num_find_direct` then `page_num_data_find_direct`, queries `58-` … `99-`, `2000-` … `2026-`, `/1990` … `/2026`); `acts` takes each loi, ordonnance, décret and arrêté that is not an appointment or other individual measure, reads its French HTML or the text layer of the PDF it links (no OCR; publisher OCR layers only when they read as clean text), splits it into one file per article, dates it by the rule in README (Dates) and commits it at noon Indian/Antananarivo, pushing fast-forward every 30 minutes. `corpus.json` lists every act it added with its CNLEGIS record. Run of 2026-11-27: 764 acts added; 92 records held (65 scans or unreadable text layers, 12 without a usable in-force date, 13 duplicates, 2 other).

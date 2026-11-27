@@ -4,7 +4,7 @@
   "name": "Madagascar",
   "level": "country",
   "repo": "https://github.com/lexifina/madagascar-law",
-  "build": "built: Constitution (4 versions, 1998-2010), Loi 2014-006 (2 versions), Loi 2014-038 (1 version), Code du travail (2 versions, 2005 and 2024)",
+  "build": "built: Constitution (4 versions, 1998-2010), Code du travail (2 versions), Loi 2014-006 (2 versions) and 767 other acts as published by CNLEGIS (17 codes, 648 lois, 104 ordonnances, 0 décrets, 0 arrêtés)",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28"
 }
